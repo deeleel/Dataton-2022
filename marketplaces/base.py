@@ -12,8 +12,11 @@ class BaseFunctions:
 
     def wait(self, timeout=None):
         if timeout is None:
-            timeout = 5
+            timeout = 7
         return WebDriverWait(self.driver, timeout=timeout)
+
+    def scroll_to(self, element):
+          self.driver.execute_script('element[0].scrollIntoView(true);', element)
 
     def find(self, locator, timeout=None):
         return self.wait(timeout).until(EC.presence_of_element_located(locator))
@@ -30,5 +33,3 @@ class BaseFunctions:
                 if i == CLICK_RETRY - 1:
                     raise
 
-    def scroll_to(self, locator):
-        self.driver.executeScript("arguments[0].scrollIntoView(true);", locator)

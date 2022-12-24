@@ -1,6 +1,6 @@
 from selenium.webdriver.common.by import By
 
-product_from_list = (By.XPATH, '//*[contains(@class, "product-title__text")]')
+product_from_list = (By.XPATH, '(//*[contains(@class, "product-title__text")])[{}]')
 all_features = (By.XPATH, '//*[contains(@class, "characteristics-link")]')
 
 # need features!
@@ -16,6 +16,7 @@ series = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Серия"]]
 os = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Операционная "]]//dd')
 os_windows = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Windows"]]//dd')
 
+processor = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Процессор"]]//*[@class="item-with-dots__value"]')
 processor_cores = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="ядер"]]//*[@class="item-with-dots__value"]')
 processor_model = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Модель "] and descendant::*[text()="процессора"]]//*[@class="item-with-dots__value"]')
 processor_type = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Тип "] and descendant::*[text()="процессора"]]//*[@class="item-with-dots__value"]')
@@ -33,7 +34,7 @@ ram = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Оператив
 
 ram_type = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Тип оперативной "] and descendant::*[text()="памяти"]]//*[@class="item-with-dots__value"]')
 
-hdmi = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Выход "] and descendant::*[text()="HDMI"]]//*[@class="item-with-dots__text"]')
+hdmi = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="HDMI"]]//*[@class="item-with-dots__value"]')
 material = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Материал "] and descendant::*[text()="корпуса"]]//*[@class="item-with-dots__value"]')
 battery = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Работа от "] and descendant::*[text()="аккумулятора"]]//*[@class="item-with-dots__value"]')
 weight = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Вес"]]//*[@class="item-with-dots__value"]')

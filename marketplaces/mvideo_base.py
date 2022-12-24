@@ -1,21 +1,33 @@
 from marketplaces.base import BaseFunctions
+from selenium.common.exceptions import TimeoutException
 import locators.mvideo as mv_locators
+import time
+import numpy as np
 
 class Mvideo(BaseFunctions):
 
-    def open_product_mv(self):
-        product = self.find(mv_locators.product_from_list)
+    def open_product_mv(self, num):
+        product = self.find(
+            (
+                mv_locators.product_from_list[0], 
+                mv_locators.product_from_list[1].format(num)
+            )
+        )
         product.click()
 
         features = self.find(mv_locators.all_features)
         features.click()
+        time.sleep(4)
 
     def get_features_mv(self):
         data = {}
 
-        # Цена со скидкой
-        priceNow = self.find(mv_locators.priceNow) # надо обработать TimeoutException
-        data['PriceNow'] = priceNow.text
+        try:
+            # Цена со скидкой
+            priceNow = self.find(mv_locators.priceNow) # надо обработать TimeoutException
+            data['PriceNow'] = priceNow.text
+        except TimeoutException:
+            data['PriceNow'] = np.nan
 
         # Цена со скидкой
         priceOriginal = self.find(mv_locators.priceOriginal)
@@ -45,17 +57,28 @@ class Mvideo(BaseFunctions):
         cores = self.find(mv_locators.processor_cores)
         data['CoresNumber'] = cores.text
 
-        # Модель процессора
-        processor_model = self.find(mv_locators.processor_model)
-        data['ProcessorModel'] = processor_model.text
+        try:
+            # Модель процессора
+            processor_model = self.find(mv_locators.processor_model)
+            data['ProcessorModel'] = processor_model.text
+        except TimeoutException:
+             cpu = self.find(mv_locators.processor)
+             data['Processor'] = cpu.text
+             data['ProcessorModel'] = np.nan
 
-        # Тип процессора
-        processor_type = self.find(mv_locators.processor_type)
-        data['ProcessorType'] = processor_type.text
-
-        # Частота процессора
-        processor_frequency = self.find(mv_locators.processor_frequency)
-        data['ProcessorFrequency'] = processor_frequency.text
+        try:
+            # Тип процессора
+            processor_type = self.find(mv_locators.processor_type)
+            data['ProcessorType'] = processor_type.text
+        except TimeoutException:
+            data['ProcessorType'] = np.nan
+        
+        try:
+            # Частота процессора
+            processor_frequency = self.find(mv_locators.processor_frequency)
+            data['ProcessorFrequency'] = processor_frequency.text
+        except TimeoutException:
+            data['ProcessorFrequency'] = np.nan
 
         # GpuManufacturer
         gpu_manufacturer = self.find(mv_locators.gpu_manufacturer)
@@ -65,17 +88,23 @@ class Mvideo(BaseFunctions):
         gpu_controller = self.find(mv_locators.gpu_controller)
         data['GpuController'] = gpu_controller.text
 
-        # gpu_capacity
-        gpu_capacity = self.find(mv_locators.gpu_capacity)
-        data['GpuCapacity'] = gpu_capacity.text
+        try:
+            # gpu_capacity
+            gpu_capacity = self.find(mv_locators.gpu_capacity)
+            data['GpuCapacity'] = gpu_capacity.text
+        except TimeoutException:
+            data['GpuCapacity'] = np.nan
 
         # screen_size
         screen_size = self.find(mv_locators.screen_size)
         data['ScreenSize'] = screen_size.text
 
-        # screen_frequency
-        screen_frequency = self.find(mv_locators.screen_frequency)
-        data['ScreenFrequency'] = screen_frequency.text
+        try:
+            # screen_frequency
+            screen_frequency = self.find(mv_locators.screen_frequency)
+            data['ScreenFrequency'] = screen_frequency.text
+        except TimeoutException:
+            data['ScreenFrequency'] = np.nan
 
         # ssd_size
         ssd_size = self.find(mv_locators.ssd_size)

@@ -6,7 +6,7 @@ from marketplaces.mvideo_base import Mvideo
 driver = browser.open(config.url_mvideo)
 mvideo = Mvideo(driver)
 
-mvideo.open_product_mv()
+mvideo.open_product_mv(2)
 mvideo.get_features_mv()
 
 print('closing ----------')

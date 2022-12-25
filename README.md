@@ -16,11 +16,12 @@ ____
 * main.py - реализует вызов необходимых функций
 * browser.py - имитирует действия реального пользователя при работе с браузером
 * config.py - файл с url для скраппинга
-* data - сырые собранные данные
+* data.csv - сырые собранные данные
 * marketplaces/base.py - содержит реализацию класса BaseFunctions - основа для скраппинга
 * marketplaces/mvideo_base.py - содержит реализацию класса Mvideo(BaseFunctions) для скраппинга данных с [М.Видео](https://www.mvideo.ru/product-list-page/f/tolko-v-nalichii=da?q=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA&category=noutbuki-118 "Данные по ноутбукам")
 * locators/mvideo.py - содержит фитчи для парсинга [М.Видео](https://www.mvideo.ru/product-list-page/f/tolko-v-nalichii=da?q=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA&category=noutbuki-118 "Данные по ноутбукам")
-* scraper.ipynb - альтернативный web-scraper
+* other methods/scraper.ipynb - альтернативный web-scraper
+* datas - сырые собранные данные альтернативным методом
 _____
 ### Описание задачи для анализаа:
 Сформировать для поставщика, желающего разместить на маркетплейсе ноутбуки, рекомендации по выбору моделей ноутбуков и их стоимости, чтобы получить максимальную выгоду.

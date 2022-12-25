@@ -6,7 +6,7 @@ from fake_useragent import UserAgent
 
 
 def get_userAgent():
-    ua = UserAgent() #browsers=['chrome']
+    ua = UserAgent(browsers=['chrome']) #
     userAgent = ua.random
     print(userAgent)
     return userAgent

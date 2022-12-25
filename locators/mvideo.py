@@ -1,6 +1,7 @@
 from selenium.webdriver.common.by import By
 
 product_from_list = (By.XPATH, '(//*[contains(@class, "product-title__text")])[{}]')
+# product_from_list = (By.XPATH, '(//*[contains(@class, "product-title__text")])[{}]')
 all_features = (By.XPATH, '//*[contains(@class, "characteristics-link")]')
 
 # need features!
@@ -8,6 +9,7 @@ all_features = (By.XPATH, '//*[contains(@class, "characteristics-link")]')
 
 priceNow = (By.XPATH, '//*[@class="price__main-value"]')
 priceOriginal = (By.XPATH, '//*[contains(@class, "price__sale-value")]')
+priceMain = (By.XPATH, '//*[contains(@class, "price__main-value")]')
 
 guarantee = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Гарантия"]]//*[@class="item-with-dots__value"]')
 country = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Страна"]]//*[@class="item-with-dots__value"]')
@@ -27,6 +29,7 @@ gpu_controller = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Гр�
 gpu_capacity = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Объем "] and descendant::*[text()="видеопамяти"]]//*[@class="item-with-dots__value"]')
 
 screen_size = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Диагональ "] and descendant::*[text()="экрана"]]//*[@class="item-with-dots__value"]')
+diagonal = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Диагональ/разрешение"]]//*[@class="item-with-dots__value"]')
 screen_frequency = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Частота "] and descendant::*[text()="обновления"]]//*[@class="item-with-dots__value"]')
 
 ssd_size = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Объем "] and descendant::*[text()="SSD"]]//*[@class="item-with-dots__value"]')

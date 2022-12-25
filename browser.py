@@ -18,7 +18,7 @@ def open(url):
     options.add_argument(f'user-agent={ua}')
     # options.add_argument("--disable-extensions")
 
-    driver = webdriver.Chrome(executable_path=config.webdriver_path, options=options)
+    driver = webdriver.Chrome(executable_path=config.webdriver_path)
     driver.get(url)
     driver.maximize_window()
 

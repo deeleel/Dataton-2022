@@ -5,13 +5,14 @@ import time
 
 # For MVIDEO marketplace
 
-driver = browser.open(config.url_mvideo.format(11))
-mvideo = Mvideo(driver)
+for j in range(1, 24):
 
-for i in range(1, 20): # 25
-    print(i)
-    mvideo.open_product_mv(i)
-    mvideo.get_features_mv()
+    driver = browser.open(config.url_mvideo.format(j))
+    mvideo = Mvideo(driver)
 
-print('closing ----------')
-browser.close(driver=driver)
+    for i in range(1, 25):
+        print(i, j)
+        mvideo.get_name(i)
+
+    print('closing ----------')
+    browser.close(driver=driver)

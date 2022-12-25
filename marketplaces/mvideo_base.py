@@ -8,7 +8,7 @@ import numpy as np
 class Mvideo(BaseFunctions):
 
     def get_product_elem(self, num):
-        product = self.found(
+        product = self.find(
             (
                 mv_locators.product_from_list[0], 
                 mv_locators.product_from_list[1].format(num)
@@ -65,9 +65,12 @@ class Mvideo(BaseFunctions):
         except TimeoutException:
             data['Series'] = np.nan
 
-        # ОС
-        os = self.find(mv_locators.os)
-        data['OS'] = os.text
+        try:
+            # ОС
+            os = self.find(mv_locators.os)
+            data['OS'] = os.text
+        except TimeoutException:
+            data['OS'] = np.nan
 
         try:
             # OC windows
@@ -152,9 +155,12 @@ class Mvideo(BaseFunctions):
         except TimeoutException:
             data['SsdSize'] = np.nan
 
-        # ram
-        ram = self.find(mv_locators.ram)
-        data['RAM'] = ram.text
+        try:
+            # ram
+            ram = self.find(mv_locators.ram)
+            data['RAM'] = ram.text
+        except TimeoutException:
+            data['RAM'] = np.nan
 
         try:
             # ram_type
@@ -170,9 +176,12 @@ class Mvideo(BaseFunctions):
         except TimeoutException:
             data['HDMI'] = np.nan
 
-        # material
-        material = self.find(mv_locators.material)
-        data['Material'] = material.text
+        try:
+            # material
+            material = self.find(mv_locators.material)
+            data['Material'] = material.text
+        except TimeoutException:
+            data['Material'] = np.nan
 
         try:
             # battery
@@ -192,3 +201,11 @@ class Mvideo(BaseFunctions):
 
         self.go_back()
         self.go_back()
+
+    def get_name(self, num):
+        data = {}
+        product = self.get_product_elem(num)
+        self.scroll_to(product)
+        data['Name'] = product.text
+        data['PriceCurrent'] = self.find(mv_locators.priceMain).text
+        self.write_to_file(data)

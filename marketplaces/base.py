@@ -18,7 +18,7 @@ class BaseFunctions:
 
     def wait(self, timeout=None):
         if timeout is None:
-            timeout = 4
+            timeout = 3
         return WebDriverWait(self.driver, timeout=timeout)
     
     def scroll_down(self):
@@ -51,8 +51,8 @@ class BaseFunctions:
         return EC.visibility_of(locator)
 
 
-    def write_to_file(self, data):
-        with open('data.csv', 'a', encoding='utf-8') as file:
+    def write_to_file(self, data, file_name):
+        with open('datas/' + file_name, 'a', encoding='utf-8') as file:
             writer = csv.DictWriter(file, fieldnames = config.headers)
             # writer.writeheader()
             writer.writerow(data)

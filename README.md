@@ -30,14 +30,14 @@ _____
 - [М.Видео](https://www.mvideo.ru/product-list-page/f/tolko-v-nalichii=da?q=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA&category=noutbuki-118 "Данные по ноутбукам")
 - [Amazon](https://www.amazon.com/s?k=laptop&crid=2JUKYBAPLWFUW&page={} "Данные по ноутбукам")
 - [Wildberries](https://www.wildberries.ru/catalog/0/search.aspx?sort=popular&search=ноутбук "Данные по ноутбукам")
-- [DNS](https://www.dns-shop.ru/catalog/17a892f816404e77/noutbuki/?stock=now-today-tomorrow-later-out_of_stock&order=6 "Данные по ноутбукам") (в плане)
+- [DNS](https://www.dns-shop.ru/catalog/17a892f816404e77/noutbuki/?stock=now-today-tomorrow-later-out_of_stock&order=6 "Данные по ноутбукам")
 
 ____
 ### Преварительный результат: 
 1. Разработан инструмент web-scraper 
 2. Разработан альтернативный web-scraper 
 3. Выбраны фитчи ноутбуков для скраппинга
-4. Применен web-scraper на сайте [М.Видео](https://www.mvideo.ru/product-list-page/f/tolko-v-nalichii=da?q=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA&category=noutbuki-118 "Данные по ноутбукам")
+4. Применен web-scraper на сайте [М.Видео](https://www.mvideo.ru/product-list-page/f/tolko-v-nalichii=da?q=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA&category=noutbuki-118 "Данные по ноутбукам"), [DNS](https://www.dns-shop.ru/catalog/17a892f816404e77/noutbuki/?stock=now-today-tomorrow-later-out_of_stock&order=6 "Данные по ноутбукам")
 5. Применен альтернативный web-scraper на сайтах [Amazon](https://www.amazon.com/s?k=laptop&crid=2JUKYBAPLWFUW&page={} "Данные по ноутбукам"), [Wildberries](https://www.wildberries.ru/catalog/0/search.aspx?sort=popular&search=ноутбук "Данные по ноутбукам")
 6. Собрана часть данных и записана в файл
 

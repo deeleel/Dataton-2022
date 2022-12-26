@@ -14,22 +14,21 @@ ____
 ____
 ### Cтруктура репозитория: 
 * main.py - реализует вызов необходимых функций
-* browser.py - имитирует действия реального пользователя при работе с браузером
-* config.py - файл с url для скраппинга
-* data.csv - сырые собранные данные
-* marketplaces/base.py - содержит реализацию класса BaseFunctions - основа для скраппинга
-* marketplaces/mvideo_base.py - содержит реализацию класса Mvideo(BaseFunctions) для скраппинга данных с [М.Видео](https://www.mvideo.ru/product-list-page/f/tolko-v-nalichii=da?q=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA&category=noutbuki-118 "Данные по ноутбукам")
-* locators/mvideo.py - содержит фитчи для парсинга [М.Видео](https://www.mvideo.ru/product-list-page/f/tolko-v-nalichii=da?q=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA&category=noutbuki-118 "Данные по ноутбукам")
-* other methods/scraper.ipynb - альтернативный web-scraper
-* datas - сырые собранные данные альтернативным методом
+* browser.py - файл для функций поднятия браузера
+* config.py - файл с необходимыми константами
+* datas/ - папка со всеми собранными данными
+* marketplaces/base.py - файл основной структуры класса для скраппинга
+* marketplaces/mvideo_base.py - содержит реализацию класса Mvideo для скраппинга данных с [М.Видео](https://www.mvideo.ru/product-list-page/f/tolko-v-nalichii=da?q=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA&category=noutbuki-118 "Данные по ноутбукам")
+* locators/mvideo.py - содержит локаторы для парсинга [М.Видео](https://www.mvideo.ru/product-list-page/f/tolko-v-nalichii=da?q=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA&category=noutbuki-118 "Данные по ноутбукам")
+* other methods/ - папка с ноутбуками собирающие данные
 _____
 ### Описание задачи для анализаа:
 Сформировать для поставщика, желающего разместить на маркетплейсе ноутбуки, рекомендации по выбору моделей ноутбуков и их стоимости, чтобы получить максимальную выгоду.
 _____
 ### Источники данных:
 - [М.Видео](https://www.mvideo.ru/product-list-page/f/tolko-v-nalichii=da?q=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA&category=noutbuki-118 "Данные по ноутбукам")
-- [Amazon](https://www.amazon.com/s?k=laptop&crid=2JUKYBAPLWFUW&page={} "Данные по ноутбукам")
 - [Wildberries](https://www.wildberries.ru/catalog/0/search.aspx?sort=popular&search=ноутбук "Данные по ноутбукам")
+- [СберМегаМаркет](https://sbermegamarket.ru/catalog/noutbuki/page-1/)
 - [DNS](https://www.dns-shop.ru/catalog/17a892f816404e77/noutbuki/?stock=now-today-tomorrow-later-out_of_stock&order=6 "Данные по ноутбукам")
 
 ____

@@ -6,7 +6,6 @@ from selenium.common.exceptions import TimeoutException
 import config
 import csv
 import time
-import json
 
 CLICK_RETRY = 3
 
@@ -18,7 +17,7 @@ class BaseFunctions:
 
     def wait(self, timeout=None):
         if timeout is None:
-            timeout = 3
+            timeout = 5
         return WebDriverWait(self.driver, timeout=timeout)
     
     def scroll_down(self):
@@ -28,7 +27,7 @@ class BaseFunctions:
         return self.wait(timeout).until(EC.presence_of_element_located(locator))
 
     
-    def click(self, locator, timeout=5):
+    def click(self, locator, timeout=4):
         for i in range(CLICK_RETRY):
             try:
                 element = self.find(locator, timeout=timeout)

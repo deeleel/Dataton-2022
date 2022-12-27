@@ -17,30 +17,29 @@ class Mvideo(BaseFunctions):
         return product
 
     def open_product_mv(self, num):
-        if num > 2:
+        if num > 4:
             for i in range(1, num):
-                prod = self.get_product_elem(i)
-                self.scroll_to(prod)
+                    prod = self.get_product_elem(i)
+                    self.scroll_to(prod)
+
         product = self.get_product_elem(num)
 
-        # while (product == False):
-        #     self.scroll_down()
-        #     product = self.get_product_elem(num)
         product.click()
-
         features = self.find(mv_locators.all_features)
         features.click()
 
     def get_features_mv(self):
-        time.sleep(2)
         data = {}
+
+        name = self.find(mv_locators.title)
+        data['Name'] = name.text
 
         try:
             # Цена со скидкой
             priceNow = self.find(mv_locators.priceNow) # надо обработать TimeoutException
             data['PriceNow'] = priceNow.text
 
-            # Цена со скидкой
+            # Цена без скидки
             priceOriginal = self.find(mv_locators.priceOriginal)
             data['PriceOriginal'] = priceOriginal.text
         except TimeoutException:
@@ -60,7 +59,7 @@ class Mvideo(BaseFunctions):
 
         try:
             # Серия
-            series = self.find(mv_locators.series) # need update!!
+            series = self.find(mv_locators.series)
             data['Series'] = series.text
         except TimeoutException:
             data['Series'] = np.nan
@@ -197,15 +196,7 @@ class Mvideo(BaseFunctions):
         except TimeoutException:
             data['Weight'] = np.nan
 
-        self.write_to_file(data)
+        self.write_to_file(data, 'data.csv')
 
         self.go_back()
         self.go_back()
-
-    def get_name(self, num):
-        data = {}
-        product = self.get_product_elem(num)
-        self.scroll_to(product)
-        data['Name'] = product.text
-        data['PriceCurrent'] = self.find(mv_locators.priceMain).text
-        self.write_to_file(data)

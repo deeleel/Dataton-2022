@@ -1,15 +1,13 @@
 from selenium.webdriver.common.by import By
 
 product_from_list = (By.XPATH, '(//*[contains(@class, "product-title__text")])[{}]')
-# product_from_list = (By.XPATH, '(//*[contains(@class, "product-title__text")])[{}]')
 all_features = (By.XPATH, '//*[contains(@class, "characteristics-link")]')
-
-# need features!
-# ...
 
 priceNow = (By.XPATH, '//*[@class="price__main-value"]')
 priceOriginal = (By.XPATH, '//*[contains(@class, "price__sale-value")]')
 priceMain = (By.XPATH, '//*[contains(@class, "price__main-value")]')
+
+title = (By.XPATH, '(//*[contains(@class, "breadcrumbs__item")])[last()]')
 
 guarantee = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Гарантия"]]//*[@class="item-with-dots__value"]')
 country = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Страна"]]//*[@class="item-with-dots__value"]')
@@ -22,7 +20,7 @@ processor = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Проце
 processor_cores = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="ядер"]]//*[@class="item-with-dots__value"]')
 processor_model = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Модель "] and descendant::*[text()="процессора"]]//*[@class="item-with-dots__value"]')
 processor_type = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Тип "] and descendant::*[text()="процессора"]]//*[@class="item-with-dots__value"]')
-processor_frequency = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Частота "] and descendant::*[text()="процессора"]]//*[@class="item-with-dots__value"]')
+processor_frequency = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Частота "] and descendant::*[text()="процессора"]]//*[@class="item-with-dots__value"]//*[@class="item-with-dots__text"]')
 
 gpu_manufacturer = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Производитель "] and descendant::*[text()="видеопроцессора"]]//*[@class="item-with-dots__value"]')
 gpu_controller = (By.XPATH, '//mvideo-item-with-dots[descendant::*[text()="Графический "] and descendant::*[text()="контроллер"]]//*[@class="item-with-dots__value"]')

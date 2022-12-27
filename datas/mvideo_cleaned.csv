@@ -1,0 +1,494 @@
+Brand,Series,PriceNow,PriceOriginal,Guarantee_year,OS,CoresNumber,Processor,ProcessorType,ProcessorModel,ProcessorFrequency_GHz,GpuManufacturer,GpuController,ScreenSize_inch,ScreenFrequency_GHz,SSDSize_GGb,RAM_GGb,RAM_type,HDMI,Material,Battery_hour,Weight_kg
+Thunderobot,GAMING,54999.0,69999,1,не установлена,6.0,Intel,Core i5,11260H,2.6,NVIDIA,GeForce GTX 1650 4GB,15.6,60,256.0,8.0,DDR4,1.0,пластик/ металл,5,2.15
+HUAWEI,Matebook D 15,58999.0,62999,1,Windows 11 Домашняя,6.0,,,,,AMD,Radeon Graphics,15.6,,512.0,16.0,DDR4,1.0,металл,7,1.63
+HUAWEI,Matebook D,46999.0,56999,1,Windows 11 Домашняя,4.0,,,,,Intel,Intel Iris Graphics,14,,512.0,8.0,DDR4,1.0,металл,,1.38
+Apple,MacBook Air,80999.0,99999,1,macOS,8.0,,,,,,,,,256.0,8.0,,,алюминий,18,1.29
+Lenovo,V15 G2 ITL,39999.0,59999,1,Windows 11 Домашняя 64,4.0,,,,,Intel,Intel Iris Xe Graphics,15.6,,256.0,8.0,DDR4,1.0,пластик,5,1.7
+HUAWEI,Matebook D 16,73999.0,86999,1,Windows 11 Домашняя 64,14.0,,,,,Intel,Intel Iris Xe Graphics,16,,512.0,16.0,DDR4,1.0,металл,7,1.71
+HUAWEI,Matebook D 15,42999.0,44999,1,Windows 11 Домашняя,2.0,,,,,Intel,Intel UHD Graphics,15.6,,256.0,8.0,DDR4,1.0,металл,7,1.63
+HUAWEI,Matebook D 15,52999.0,54999,1,Windows 11,4.0,,,,,Intel,Intel Iris Xe Graphics,15.6,,512.0,8.0,DDR4,1.0,металл,6,1.56
+Apple,,101999.0,139999,1,macOS,8.0,,,,,,,,,256.0,8.0,,,алюминий,,1.24
+HUAWEI,Matebook D,69999.0,76999,1,Windows 11 Домашняя,12.0,,,,,Intel,Intel Iris Xe Graphics,16,,512.0,16.0,DDR4,1.0,металл,,1.71
+Xiaomi,RedmiBook 15,39999.0,39999,1,Windows 11 Домашняя,2.0,,,,,Intel,Intel UHD Graphics,15.6,60,256.0,8.0,DDR4,1.0,пластик,9,1.8
+Apple,MacBook Pro,107999.0,139999,1,macOS,8.0,,,,,,,,,256.0,8.0,,,,20,
+HUAWEI,Matebook 16S,104999.0,114999,1,Windows 11 Домашняя,14.0,,,,,Intel,Intel Iris Xe Graphics,16,,1000.0,16.0,LPDDR5,1.0,металл,7,1.99
+Lenovo,IdeaPad Gaming 3 15IHU6,64999.0,69999,1,Windows 11 Домашняя 64,4.0,Intel,Core i5,11300H,3.1,NVIDIA,GeForce GTX 1650 4GB,15.6,120,512.0,8.0,DDR4,1.0,пластик,8,2.25
+ASUS,,29999.0,34999,1,Windows 10 Домашняя S-режим,,,,,,Intel,Intel UHD Graphics,14,60,128.0,8.0,DDR4,1.0,ABS-пластик,5,1.55
+Apple,MacBook Pro,154999.0,199999,1,macOS,8.0,,,,,Apple,,,120,512.0,16.0,,,алюминий,17,1.64
+HUAWEI,Matebook D 15,52999.0,54999,1,Windows 11 Домашняя,6.0,,,,,AMD,Radeon Graphics,15.6,,512.0,8.0,DDR4,1.0,металл,7,1.63
+Honor,MagicBook 15,49999.0,69999,1,не установлена,6.0,,,,,AMD,Radeon Graphics,15.6,60,512.0,16.0,DDR4,1.0,алюминиевый сплав,11.5,1.54
+Acer,Aspire 3,36999.0,41999,1,Windows 11 Домашняя 64,4.0,,,,,Intel,UHD Graphics 605,15.6,,256.0,8.0,DDR4,1.0,пластик,6,1.9
+Thunderobot,GAMING,109999.0,124999,1,Windows 11 Pro 64,8.0,Intel,Core i5,12450H,2.0,NVIDIA,GeForce RTX 3060 6GB,17.3,144,512.0,16.0,DDR4,1.0,ABS-пластик,5,2.5
+Thunderobot,GAMING,69999.0,89999,1,не установлена,8.0,Intel,Core i5,12450H,2.0,NVIDIA,GeForce RTX 3050 4GB,15.6,144,512.0,16.0,DDR4,1.0,ABS-пластик,7,2.15
+HUAWEI,Matebook D 14,42999.0,44999,1,Windows 11 Домашняя,2.0,,,,,Intel,Intel Iris Graphics,14,,256.0,8.0,DDR4,1.0,металл,7,1.38
+Lenovo,IdeaPad 3,38999.0,51999,1,Windows 10 Домашняя 64,4.0,,,,,AMD,Radeon Vega 8,14,60,512.0,8.0,DDR4,1.0,пластик,12,1.6
+Lenovo,IdeaPad 3 15IGL05,17999.0,24999,1,не установлена,2.0,,,,,Intel,UHD Graphics 600,15.6,,,4.0,DDR4,1.0,пластик,14,1.7
+HP,240 G7,17999.0,24999,1,Windows 10 Pro,2.0,,,,,Intel,Intel UHD Graphics 600,14,60,128.0,4.0,DDR4,1.0,пластик,12,1.52
+Irbis,NBC,35999.0,35999,1,Windows 11 Pro,2.0,,,,,AMD,Radeon Vega 3,15.6,60,256.0,8.0,DDR4,1.0,металл/ пластик,5,1.65
+Irbis,NB,18999.0,21999,1,Windows 10 Pro,4.0,,,,,Intel,Intel HD Graphics,15.6,60,,4.0,,1.0,пластик,5,1.570
+HP,HP Notebook 15,49999.0,54999,1,Windows 11 Домашняя S-режим,4.0,,,,,Intel,Intel Iris Xe Graphics,15.6,,256.0,12.0,DDR4,1.0,пластик/ алюминий,9,1.7
+Digma,EVE,19999.0,25999,1,Windows 10 Домашняя,2.0,,,,,Intel,Intel HD Graphics 500,15.5,60,,4.0,DDR3,1.0,пластик,8,1.25
+HUAWEI,Matebook X Pro,119999.0,131999,1,Windows 11,12.0,,,,,Intel,Intel Iris Xe Graphics,14.2,90,1000.0,16.0,LPDDR5,,магниевый сплав,8,1.26
+HUAWEI,Matebook 14,68999.0,68999,1,Windows 11,6.0,,,,,AMD,Radeon Vega,14,60,512.0,16.0,DDR4,1.0,металл,7,1.49
+Honor,MagicBook X 14,54999.0,59899,1,Windows 10 Домашняя 64,4.0,,,,,Intel,Intel UHD Graphics,14,60,512.0,8.0,DDR4,1.0,алюминиевый сплав,13,
+Honor,MagicBook 16,79999.0,89999,1,Windows 11 Домашняя 64,6.0,,,,,AMD,Radeon Graphics,16.1,60,512.0,16.0,DDR4,1.0,алюминиевый сплав,8,1.84
+Apple,MacBook Pro,104999.0,104999,1,macOS,8.0,,,,,,,,,256.0,8.0,,,алюминий,20,1.4
+Honor,MagicBook X15,54999.0,59999,1,Windows 10 Домашняя 64,4.0,,,,,Intel,Intel UHD Graphics,15.6,60,512.0,8.0,DDR4,1.0,алюминиевый сплав,7,1.56
+Apple,,109999.0,139999,1,macOS,8.0,,,,,,,,,256.0,8.0,,,алюминий,18,1.24
+HUAWEI,Matebook 14S,94999.0,106999,1,Windows 11 Домашняя,14.0,,,,,Intel,Intel Iris Xe Graphics,14,,1000.0,16.0,LPDDR4X,1.0,металл,9,1.43
+Irbis,,19999.0,25999,1,Windows 10,4.0,,,,,Intel,Intel HD Graphics,15.6,,,4.0,SDRAM,1.0,пластик,4.5,1.57
+HUAWEI,Matebook 14,70999.0,77999,1,Windows 11,4.0,,,,,Intel,Intel Iris Xe Graphics,14,60,512.0,16.0,DDR4,1.0,металл,7,1.49
+Honor,MagicBook 15,71999.0,79999,1,Windows 10 Домашняя 64,6.0,,,,,AMD,Radeon Graphics,15.6,60,512.0,16.0,DDR4,1.0,алюминиевый сплав,11.5,1.54
+Apple,,109999.0,139999,1,macOS,8.0,,,,,,,,,256.0,8.0,,,алюминий,,1.24
+Acer,Spin 1,33999.0,37999,1,Windows 10 Домашняя 64,2.0,,,,,Intel,UHD Graphics,14,,128.0,4.0,DDR4,1.0,пластик,9,1.5
+GIGABYTE,KD-52EE123SD,89999.0,109999,1,не установлена,6.0,Intel,Core i5,11400H,2.7,NVIDIA,GeForce RTX 3060 6GB,15.6,144,512.0,16.0,DDR4,1.0,пластик,5,2.18
+ASUS,,59999.0,74999,1,Windows 11 Домашняя,4.0,,,,,Intel,Intel UHD Graphics,14,,512.0,16.0,DDR4,1.0,пластик,5,1.6
+Irbis,,15999.0,15999,1,Windows 10,2.0,,,,,Intel,Intel UHD Graphics 600,11.6,,,4.0,LPDDR3,1.0,пластик,5,1
+Thunderobot,GAMING,129999.0,149999,1,Windows 11 Pro 64,8.0,AMD,Ryzen 7,5800H,3.2,NVIDIA,GeForce RTX 3070 8GB,15.6,144,512.0,16.0,DDR4,1.0,пластик/ металл,5,2.2
+Honor,MagicBook X 15,62999.0,69999,1,Windows 10 Домашняя 64,4.0,,,,,Intel,Intel UHD Graphics,15.6,60,512.0,16.0,DDR4,1.0,алюминиевый сплав,7,
+Haier,GAMING,69999.0,74999,1,Windows 11 Домашняя,6.0,Intel,Core i5,11400H,2.2,NVIDIA,GeForce GTX 1650 4GB Max-Q,15.6,,512.0,8.0,DDR4,1.0,пластик,5,1.85
+Acer,Swift 1,31999.0,39999,1,Windows 10 Домашняя,4.0,,,,,Intel,Intel UHD Graphics,14,,256.0,4.0,LPDDR4X,1.0,пластик,15,1.3
+Irbis,,15999.0,19999,1,Windows 10 Домашняя,2.0,,,,,Intel,Intel HD Graphics 500,14,,,4.0,LPDDR4,1.0,пластик,4,1.273
+Lenovo,IdeaPad 3 15IGL05,21999.0,24999,1,не установлена,2.0,,,,,Intel,UHD Graphics 600,15.6,,,4.0,DDR4,1.0,пластик,14,1.7
+Digma,EVE,9999.0,13999,1,Windows 10 Домашняя 64,2.0,,,,,Intel,Intel HD Graphics 500,11.6,60,,4.0,DDR3,1.0,пластик,7,1.07
+Lenovo,,59999.0,69999,1,Windows 10 Домашняя 64,4.0,,,,,Intel,Intel Iris Xe Graphics,17.3,,256.0,8.0,DDR4,1.0,ABS-пластик,5,2.1
+Honor,MagicBook X15,47999.0,52999,1,Windows 10 Домашняя 64,2.0,,,,,Intel,Intel UHD Graphics,15.6,60,256.0,8.0,DDR4,1.0,алюминиевый сплав,7,1.56
+Acer,Aspire 3,29999.0,34999,1,не установлена,4.0,,,,,Intel,UHD Graphics,15.6,,256.0,8.0,DDR4,1.0,пластик,6,1.9
+Lenovo,IdeaPad,29999.0,36999,1,Windows 10,2.0,,,,,AMD,Radeon Graphics,14,60,256.0,4.0,DDR4,1.0,пластик,4.5,1.6
+Digma,EVE,17999.0,17999,1,Windows 10 Домашняя,2.0,,,,,Intel,Intel UHD Graphics 600,11.6,60,,4.0,DDR3,1.0,пластик,8,1.06
+Apple,,109999.0,124999,1,macOS,8.0,,,,,,,,,256.0,8.0,,,алюминий,,1.24
+Apple,,134999.0,159999,1,macOS,8.0,,,,,,,,,512.0,8.0,,,алюминий,18,1.24
+Apple,MacBook Pro,144999.0,159999,1,macOS,8.0,,,,,Apple,,,120,512.0,16.0,,,алюминий,17,1.64
+HUAWEI,Matebook 16S,96999.0,105999,1,Windows 11 Домашняя,14.0,,,,,Intel,Intel Iris Xe Graphics,16,,1000.0,16.0,LPDDR5,1.0,металл,7,1.99
+Xiaomi,RedmiBook 15,49999.0,49999,1,Windows 11 Домашняя,4.0,,,,,Intel,Intel Iris Xe Graphics,15.6,60,512.0,8.0,DDR4,1.0,пластик,9,1.8
+HUAWEI,Matebook X Pro,107999.0,117999,1,Windows 11,12.0,,,,,Intel,Intel Iris Xe Graphics,14.2,90,1000.0,16.0,LPDDR5,,алюминиевый сплав,8,1.38
+Thunderobot,GAMING,69999.0,86999,1,не установлена,6.0,Intel,Core i5,11400H,2.7,NVIDIA,GeForce RTX 3050 4GB,15.6,60,256.0,16.0,DDR4,1.0,пластик/ металл,5,2.15
+Acer,Aspire 3 A315,42999.0,47999,1,Windows 11 Домашняя,2.0,,,,,Intel,Intel UHD Graphics,15.6,,512.0,8.0,DDR4,1.0,пластик,8,1.9
+Lenovo,IdeaPad 3,44999.0,49999,1,Windows 11 Домашняя 64,2.0,,,,,Intel,Intel UHD Graphics,15.6,,256.0,8.0,DDR4 SO-DIMM,1.0,пластик,7.5,1.85
+ASUS,ROG STRIX G17,129999.0,149999,1,Windows 11 Домашняя,8.0,AMD,Ryzen 7,4800H,2.9,NVIDIA,GeForce RTX 3060 6GB,17.3,144,512.0,16.0,DDR4,1.0,пластик,6,2.7
+ASUS,,36999.0,49999,1,Windows 11 Домашняя,2.0,,,,,Intel,Intel UHD Graphics,14,,512.0,8.0,DDR4,1.0,пластик,7,1.6
+Lenovo,Legion 5 15ITH6H,104999.0,104999,1,не установлена,8.0,Intel,Core i7,11800H,2.3,NVIDIA,GeForce RTX 3060 6GB,15.6,165,1000.0,16.0,DDR4,1.0,пластик,8,2.4
+Lenovo,IdeaPad 1 14IGL05,25999.0,29999,1,Windows 11 Домашняя 64,2.0,,,,,Intel,Intel UHD Graphics 600,14,,128.0,4.0,DDR4,1.0,пластик,5,1.4
+Thunderobot,GAMING,93999.0,104999,1,Windows 11 Pro 64,8.0,Intel,Core i5,12450H,2.0,NVIDIA,GeForce RTX 3050 Ti 4GB,17.3,144,512.0,16.0,DDR4,1.0,ABS-пластик,5,2.5
+Haier,URBAN,21999.0,21999,1,Windows 11 Домашняя,2.0,,,,,Intel,Intel UHD Graphics 600,15.6,60,,4.0,DDR4,1.0,пластик,5,1.5
+Apple,MacBook Pro,119999.0,139999,1,macOS,8.0,,,,,,,,,256.0,8.0,,,алюминий,20,1.4
+ASUS,,29999.0,34999,1,не установлена,2.0,,,,,NVIDIA,GeForce MX130 2ГБ,15.6,,256.0,4.0,DDR4,1.0,пластик,5,1.8
+Haier,URBAN,27999.0,27999,1,Windows 11 Домашняя,2.0,,,,,Intel,Intel UHD Graphics 600,15.6,60,128.0,4.0,DDR4,1.0,пластик/ металл,5,1.65
+Lenovo,IdeaPad 3,39999.0,47999,1,Windows 10 Домашняя,4.0,,,,,AMD,Radeon Vega 8,14,60,256.0,8.0,DDR4,1.0,пластик,5,1.6
+Apple,MacBook Pro,189999.0,189999,1,macOS,10.0,,,,,Apple,,,120,512.0,16.0,,,алюминий,21,2.15
+Acer,,32999.0,39999,1,не установлена,2.0,,,,,Intel,UHD Graphics,15.6,,256.0,8.0,DDR4,1.0,пластик,6,1.9
+Haier,,34999.0,44999,1,Windows 11 Домашняя,2.0,,,,,Intel,Intel HD Graphics,15.6,60,256.0,8.0,DDR4,1.0,пластик,5,1.65
+Haier,GAMING,79999.0,99999,1,не установлена,6.0,Intel,Core i5,11400H,2.4,NVIDIA,GeForce RTX 3050 Ti 4GB,15.6,144,512.0,16.0,DDR4,1.0,пластик,5,2.5
+ASUS,R429MA,25999.0,31999,1,Windows 11 Домашняя,4.0,,,,,Intel,Intel UHD Graphics 605,14,60,128.0,4.0,DDR4,1.0,пластик,12,1.3
+ASUS,,47999.0,57999,1,Windows 11 Домашняя,4.0,,,,,Intel,Intel UHD Graphics,15.6,,512.0,8.0,DDR4,1.0,пластик,5,1.8
+ASUS,,17999.0,24999,1,Windows 11 Домашняя S-режим,2.0,,,,,Intel,UHD Graphics 600,14,,,4.0,DDR4,1.0,ABS-пластик,5,1.25
+Lenovo,Yoga Slim7 14ARE05,69999.0,79999,1,Windows 10 Домашняя 64,6.0,,,,,AMD,Radeon,,60,512.0,8.0,DDR4,1.0,алюминий,14,1.4
+Lenovo,,34999.0,49999,1,Windows 11 Домашняя S-режим,2.0,,,,,Intel,Intel UHD Graphics,15.6,,256.0,8.0,DDR4,1.0,ABS-пластик,5.5,1.7
+HP,250 G7,18999.0,24999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics 600,15.5,,,4.0,DDR4,1.0,пластик,10,1.78
+Lenovo,IdeaPad 3 15ALC6,42999.0,49999,1,не установлена,6.0,,,,,AMD,Radeon Graphics,15.6,,,8.0,DDR4,1.0,пластик,9,1.65
+HP,250 G8,24999.0,24999,1,не установлена,2.0,,,,,Intel,UHD Graphics 600,15.6,60,,4.0,DDR4,1.0,пластик,6.5,1.78
+Acer,Swift 3,64999.0,74999,1,Windows 11 Домашняя 64,6.0,,,,,AMD,Radeon Graphics,14,,512.0,16.0,LPDDR4X,1.0,алюминий,12,1.2
+Honor,MagicBook X14,49299.0,49299,1,Windows 10 Домашняя 64,2.0,,,,,Intel,Intel UHD Graphics,14,60,256.0,8.0,DDR4,1.0,алюминиевый сплав,7,1.38
+Digma,EVE,15999.0,15999,1,Windows 10 Домашняя 64,2.0,,,,,Intel,Intel UHD Graphics 600,14,60,,4.0,DDR4,1.0,пластик,7,1.26
+Digma,EVE,22999.0,22999,1,Windows 10 Домашняя 64,4.0,,,,,Intel,Intel HD Graphics 405,15.6,60,,4.0,DDR4,,пластик,7,1.54
+ASUS,Vivobook S14,54999.0,59999,1,Windows 10 Домашняя 64,4.0,,,,,NVIDIA,GeForce MX350 2ГБ,14,60,512.0,8.0,DDR4,1.0,алюминиевый сплав,,1.4
+HUAWEI,MateBook 14S,99999.0,119999,1,Windows 10 Домашняя 64,4.0,,,,,Intel,Intel Iris Xe Graphics,14.2,,512.0,16.0,LPDDR4X,1.0,металл,7,1.43
+HP,Victus Gaming Laptop PC,64999.0,69999,1,Windows 11 Домашняя,8.0,Intel,Core i5,12450H,2.0,NVIDIA,GeForce GTX 1650 4GB,15.6,144,512.0,8.0,DDR4,1.0,ABS-пластик,8,2.29
+ASUS,Zenbook 15,39999.0,39999,1,Windows 11 Домашняя,2.0,,,,,Intel,Intel UHD Graphics,15.6,,256.0,8.0,DDR4,1.0,пластик,6,1.8
+HUAWEI,MateBook E,79999.0,99999,1,Windows 11 Домашняя S-режим,4.0,,,,,Intel,Intel Iris Xe Graphics,12.6,,512.0,16.0,LPDDR4X,,металл,7,0.709
+ASUS,R522MA,34999.0,39999,1,Windows 11 Домашняя 64,4.0,,,,,Intel,Intel UHD Graphics 605,15.6,,256.0,8.0,DDR4,1.0,пластик,5,1.57
+Acer,Aspire 5,45990.0,45990,1,Windows 10 Домашняя 64,4.0,,,,,Intel,Intel UHD Graphics 620,15.6,,,6.0,DDR4,1.0,пластик,8,1.8
+Lenovo,IdeaPad Flex 5 14ITL05,45999.0,45999,1,Windows 10,2.0,,,,,Intel,Intel UHD Graphics,14,,256.0,8.0,DDR4,1.0,пластик,5,1.5
+ASUS,,49999.0,54999,1,Windows 11 Домашняя,4.0,,,,,Intel,Intel UHD Graphics,14,,512.0,8.0,DDR4,1.0,пластик,5,1.6
+Lenovo,IdeaPad 3 15ITL05,49999.0,54999,1,Windows 11 Домашняя 64,4.0,,,,,Intel,Intel Iris Xe Graphics,15.6,,512.0,8.0,DDR4,1.0,пластик,5,1.7
+Acer,Aspire 3,24999.0,29999,1,Windows 10 Домашняя 64,2.0,,,,,Intel,Intel UHD Graphics 600,15.6,,128.0,4.0,DDR4 SO-DIMM,1.0,пластик,6,1.9
+MSI,Modern 15 A10M,49999.0,56999,1,Windows 10 Домашняя 64,2.0,,,,,Intel,Intel UHD Graphics 620,15.6,60,256.0,8.0,DDR4,1.0,пластик/ металл,9,1.6
+Digma,EVE,15999.0,17999,1,Windows 10 Домашняя,2.0,,,,,Intel,Intel HD Graphics 500,14,60,,4.0,DDR3,1.0,пластик,6,1.3
+Irbis,NB,15999.0,18999,1,Windows 10 Домашняя,2.0,,,,,Intel,Intel HD Graphics 500,14,60,,4.0,LPDDR4,1.0,пластик,5,1.273
+Acer,Spin 1,43999.0,49999,1,Windows 11 Домашняя 64,4.0,,,,,Intel,UHD Graphics,14,,256.0,8.0,DDR4,1.0,пластик,7,1.5
+Lenovo,IdeaPad Gaming 3 15IHU6,71999.0,79999,1,не установлена,4.0,Intel,Core i5,11300H,3.1,NVIDIA,GeForce RTX 3050 4GB,15.6,60,256.0,8.0,DDR4,1.0,пластик,8,2.25
+Acer,Swift 3,54999.0,62999,1,Windows 11 Домашняя 64,6.0,,,,,AMD,Radeon,14,,512.0,8.0,LPDDR4X,1.0,металл,9,1.2
+Lenovo,IdeaPad Gaming 3 15ACH6,74999.0,84999,1,не установлена,6.0,AMD,Ryzen 5,Ryzen 5 5600H,3.2,NVIDIA,GeForce RTX 3050,,60,512.0,8.0,DDR4 SO-DIMM,1.0,пластик,,2.25
+HUAWEI,Matebook D 15,74899.0,74899,1,Windows 11 Домашняя 64,4.0,,,,,Intel,Intel Iris Xe Graphics,15.6,,512.0,16.0,DDR4,1.0,металл,7,1.56
+HP,,45999.0,49999,1,Windows 11 Домашняя 64,2.0,,,,,Intel,Intel UHD Graphics,15.6,,512.0,8.0,DDR4,1.0,пластик,7,1.69
+ASUS,,84999.0,99999,1,Windows 11 Домашняя,6.0,,,,,NVIDIA,GeForce RTX 3050 4GB,15.6,,512.0,16.0,DDR4,1.0,алюминий/ пластик,5,1.65
+Acer,Aspire 3,37999.0,44999,1,не установлена,4.0,,,,,AMD,Radeon Vega 8,15.6,,512.0,8.0,DDR4 SO-DIMM,1.0,пластик,7,1.9
+Apple,,134999.0,134999,1,macOS,8.0,,,,,,,,,512.0,8.0,,,алюминий,,1.24
+HP,,44999.0,54999,1,Windows 11 Домашняя 64,4.0,,,,,AMD,Radeon,15.6,,256.0,8.0,DDR4,1.0,пластик,9.5,1.69
+ASUS,VivoBook 15,41999.0,48999,1,Windows 11 Домашняя 64,2.0,,,,,Intel,Intel UHD Graphics,15.6,,256.0,8.0,DDR4,1.0,пластик,6,1.8
+Irbis,NB,17999.0,19999,1,Windows 10,2.0,,,,,Intel,Intel HD Graphics 500,14.1,,,4.0,LPDDR3,1.0,пластик,3,1.28
+HUAWEI,Matebook X Pro,99999.0,109999,1,Windows 10 Домашняя 64,4.0,,,,,Intel,Intel Iris Xe Graphics,13.9,,512.0,16.0,LPDDR4X,,металл,7,1.33
+Acer,Aspire 3,22999.0,22999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics,15.6,,256.0,4.0,DDR4 SO-DIMM,1.0,пластик,9,1.7
+ASUS,,37999.0,44999,1,Windows 10 Домашняя,2.0,,,,,Intel,Intel UHD Graphics,14,,512.0,8.0,DDR4,1.0,пластик,6,1.5
+ASUS,,37999.0,44999,1,Windows 10 Домашняя,2.0,,,,,NVIDIA,GeForce MX130 2ГБ,15.6,,256.0,8.0,DDR4,1.0,пластик,5,1.8
+ASUS,Laptop,24999.0,29999,1,Windows 11 Домашняя 64,2.0,,,,,Intel,Intel UHD Graphics 600,15.6,60,,4.0,DDR4,1.0,пластик,5,1.57
+Apple,MacBook Pro,229999.0,229999,1,macOS,10.0,,,,,Apple,,,120,512.0,16.0,,,алюминий,21,2.15
+Acer,SF114-34,25999.0,28999,1,Windows 10 Домашняя,2.0,,,,,Intel,Intel HD Graphics 615,14,60,,4.0,DDR4,1.0,пластик/ металл,15,1.3
+Honor,MagicBook 15,69999.0,69999,1,Windows 10 Домашняя 64,6.0,,,,,AMD,Radeon Graphics,15.6,60,512.0,8.0,DDR4,1.0,алюминиевый сплав,11.5,1.54
+Lenovo,V15 G2 ALC,39999.0,59999,1,Windows 11 Домашняя 64,6.0,,,,,AMD,Radeon Graphics,15.6,,256.0,8.0,DDR4,1.0,пластик,7,1.7
+Acer,Swift 3,59999.0,64999,1,Windows 10 Домашняя 64,6.0,,,,,AMD,Radeon Vega 5,14,60,1000.0,8.0,LPDDR4X,1.0,металл,13,1.2
+ASUS,R565,49999.0,57999,1,не установлена,4.0,,,,,Intel,Intel UHD Graphics,15.6,60,512.0,16.0,DDR4,1.0,пластик,6,1.8
+HUAWEI,Matebook X Pro,99999.0,114999,1,Windows 10 Домашняя 64,4.0,,,,,Intel,Intel Iris Xe Graphics,13.9,,1000.0,16.0,LPDDR4X,,металл,7,1.33
+Lenovo,IdeaPad Gaming 3 15ACH6,89999.0,89999,1,не установлена,6.0,AMD,Ryzen 5,Ryzen 5 5600H,3.2,NVIDIA,GeForce RTX 3050 Ti 4GB,,120,512.0,16.0,DDR4 SO-DIMM,1.0,пластик,,2.25
+Haier,,49999.0,49999,1,Windows 11 Домашняя,4.0,,,,,Intel,Intel UHD Graphics 605,15.6,60,128.0,4.0,DDR4,1.0,пластик/ металл,5,1.5
+Irbis,,17899.0,17899,1,Windows 10 Pro,2.0,,,,,Intel,Intel UHD Graphics 600,14.1,,,4.0,LPDDR4,1.0,пластик,5,1.28
+Irbis,NB,19999.0,19999,1,Windows 10 Домашняя,4.0,,,,,Intel,Intel HD Graphics,15.6,60,,4.0,DDR3,1.0,пластик,5,1.57
+Apple,MacBook Pro,129999.0,129999,1,macOS,8.0,,,,,,,,,512.0,8.0,,,алюминий,20,1.4
+HP,,43999.0,49999,1,Windows 11 Домашняя 64,2.0,,,,,AMD,Radeon,17.3,,256.0,8.0,DDR4,1.0,пластик,5.75,2.07
+HP,,48999.0,54999,1,Windows 11 Домашняя 64,2.0,,,,,Intel,Intel UHD Graphics,15.6,,512.0,8.0,DDR4,1.0,пластик,7,1.69
+ASUS,Laptop 14,35999.0,41999,1,Windows 11 Домашняя,2.0,,,,,Intel,Intel UHD Graphics,14,60,256.0,8.0,DDR4,1.0,ABS-пластик,6,1.55
+HUAWEI,MateBook 14,74999.0,74999,1,Windows 10 Домашняя 64,6.0,,,,,AMD,Radeon Graphics,14,,512.0,16.0,DDR4,,металл,7,1.49
+HP,,34999.0,39999,1,Windows 11 Домашняя 64,2.0,,,,,AMD,Radeon,15.6,,256.0,4.0,DDR4,1.0,пластик,5,1.69
+Acer,Nitro,139999.0,149999,1,Windows 11 Домашняя 64,8.0,Intel,Core i7,11800H,2.3,NVIDIA,GeForce RTX 3070 8GB,17.3,144,512.0,16.0,DDR4,1.0,пластик,8,2.7
+Haier,GAMING,79999.0,99999,1,Windows 11 Домашняя,6.0,Intel,Core i5,11400H,2.4,NVIDIA,GeForce RTX 3050 Ti 4GB,15.6,144,512.0,16.0,DDR4,1.0,пластик,5,2.5
+HP,Pavilion Aero,69999.0,89999,1,Windows 10 Домашняя 64,6.0,,,,,AMD,Radeon,13.3,,512.0,8.0,DDR4,1.0,магниевый сплав,10,1
+Acer,Aspire 1,24999.0,24999,1,Windows 10,2.0,,,,,AMD,Radeon Graphics,14,,,4.0,DDR4,1.0,пластик,6,1.9
+MSI,CROSSHAIR 15,134999.0,149999,1,Windows 11 Домашняя 64,14.0,Intel,Core i7,12700H,3.5,NVIDIA,GeForce RTX 3060 6GB,15.6,144,512.0,16.0,DDR4 SO-DIMM,1.0,металл/ пластик,6,2.3
+HP,,34999.0,39999,1,Windows 11 Домашняя 64,4.0,,,,,Intel,Intel UHD Graphics 605,15.6,,256.0,4.0,DDR4,1.0,пластик,5,1.65
+Apple,MacBook Pro,137999.0,137999,1,macOS,8.0,,,,,,,,,512.0,8.0,,,алюминий,20,1.4
+Apple,MacBook Pro,234999.0,249999,1,macOS,10.0,,,,,Apple,,,120,1000.0,16.0,,,алюминий,17,1.64
+Honor,MagicBook 14,59999.0,64999,1,Windows 10 Домашняя 64,6.0,,,,,AMD,Radeon Graphics,14,60,512.0,8.0,DDR4,1.0,алюминиевый сплав,11,1.38
+HP,HP Pavilion,74999.0,79999,1,Windows 11 Домашняя 64,8.0,,,,,AMD,Radeon Graphics,15.6,,1000.0,16.0,DDR4,1.0,пластик/ металл,8.75,1.75
+Lenovo,IdeaPad 1 14IGL05,19999.0,19999,1,Windows 11 Домашняя S-режим,4.0,,,,,Intel,Intel UHD Graphics 605,14,,128.0,4.0,DDR4,1.0,пластик,8,1.4
+ASUS,R565MA,28800.0,31999,1,Windows 11 Домашняя 64,4.0,,,,,Intel,Intel UHD Graphics 605,15.6,,128.0,4.0,DDR4,1.0,пластик,5,1.8
+Acer,Acer Spin 7,87150.0,124499,1,Windows 10 Домашняя,8.0,,,,,Qualcomm,Adreno 685,14,,512.0,8.0,LPDDR4X,,металл,29,1.4
+Lenovo,ThinkBook 15 G2,59999.0,69999,1,Windows 10 Pro 64,4.0,,,,,Intel,Intel Iris Xe Graphics,15.6,60,256.0,8.0,DDR4,1.0,пластик/ металл,6,1.7
+ASUS,Zenbook Pro Duo,129999.0,149999,1,Windows 11 Домашняя,4.0,,,,,NVIDIA,GeForce MX450 2ГБ,14,,512.0,16.0,LPDDR4X,1.0,алюминиевый сплав,9,1.62
+Digma,EVE,9999.0,13999,1,Windows 10 Домашняя 64,4.0,,,,,Intel,Intel HD Graphics,10.1,60,64.0,2.0,DDR3,1.0,пластик,5,0.935
+ASUS,,74999.0,84999,1,Windows 11 Домашняя,4.0,,,,,Intel,Intel Iris Xe Graphics,15.6,,512.0,16.0,DDR4,1.0,алюминий/ пластик,5,1.8
+ASUS,,24899.0,24899,1,Windows 11 Домашняя,2.0,,,,,Intel,Intel UHD Graphics 600,14,,128.0,4.0,DDR4,1.0,пластик,5,1.3
+Acer,Spin 1,29999.0,37999,1,Windows 11 Домашняя 64,2.0,,,,,Intel,UHD Graphics,14,,128.0,4.0,DDR4,1.0,пластик,7,1.5
+Acer,Aspire 7,79999.0,89999,1,Windows 11 Домашняя 64,6.0,AMD,Ryzen 5,5500U,2.1,NVIDIA,GeForce RTX 3050 Ti 4GB,15.6,144,512.0,16.0,DDR4,1.0,пластик,10,2.15
+HP,Laptop 15s,47999.0,54999,1,не установлена,8.0,,,,,AMD,Radeon Graphics,15.6,,512.0,8.0,DDR4,1.0,пластик/ металл,9.5,1.69
+ASUS,,44999.0,49999,1,Windows 11 Домашняя 64,2.0,,,,,Intel,UHD Graphics,15.6,60,512.0,8.0,DDR4,1.0,пластик,5,1.8
+Irbis,NB,19999.0,19999,1,Windows 10 Pro,4.0,,,,,Intel,Intel HD Graphics,13.5,60,,4.0,,1.0,металл,6,1.185
+Haier,ALPHA,21999.0,21999,1,Windows 11 Домашняя,2.0,,,,,Intel,Intel UHD Graphics 600,14.1,60,,4.0,DDR4,1.0,пластик,5,1.2
+Apple,,145999.0,145999,1,macOS,8.0,,,,,,,,,512.0,8.0,,,алюминий,,1.24
+Acer,Aspire 3,39999.0,45999,1,Windows 10 Домашняя 64,2.0,,,,,NVIDIA,GeForce MX330 2ГБ,15.6,60,256.0,8.0,DDR4,1.0,пластик,8,1.9
+HP,VICTUS,99999.0,114999,1,Windows 11 Домашняя 64,6.0,AMD,Ryzen 5,5600H,3.3,NVIDIA,GeForce RTX 3050 Ti 4GB,16.1,144,512.0,8.0,DDR4,1.0,пластик/ металл,8.75,2.48
+Acer,SF114-34,26999.0,28999,1,Windows 10 Домашняя,2.0,,,,,Intel,Intel HD Graphics 615,14,60,128.0,4.0,DDR4,1.0,пластик/ металл,15,1.3
+HP,Pavilion Aero,65999.0,79999,1,Windows 11 Домашняя 64,6.0,,,,,AMD,Radeon,13.3,,512.0,8.0,DDR4,1.0,магниевый сплав,10,0.98
+Lenovo,V15 G2 ITL,29999.0,31999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics,15.6,,256.0,4.0,DDR4,1.0,пластик,5,1.7
+MSI,Katana GF66,99999.0,124999,1,не установлена,6.0,Intel,Core i5,11400H,2.7,NVIDIA,GeForce RTX 3060 6GB,15.6,144,512.0,16.0,DDR4,1.0,пластик,4,2.25
+ASUS,Zenbook 14X OLED,89999.0,109999,1,Windows 11 Домашняя 64,4.0,,,,,Intel,Intel Iris Xe Graphics,14,90,512.0,8.0,LPDDR4X,1.0,алюминий,12,1.40
+Acer,Aspire 3,21999.0,24999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics 600,15.6,,256.0,4.0,DDR4 SO-DIMM,1.0,пластик,6,1.9
+HUAWEI,Matebook D,42999.0,44999,1,Windows 11 Домашняя,2.0,,,,,Intel,Intel UHD Graphics,15.6,,256.0,8.0,DDR4,1.0,металл,6,1.63
+HP,HP Pavilion,53999.0,53999,1,Windows 11 Домашняя 64,6.0,,,,,AMD,Radeon Graphics,15.6,,512.0,8.0,DDR4,1.0,пластик/ металл,8.75,1.75
+Acer,Aspire 3,25999.0,29999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics 600,15.6,,,4.0,DDR4,1.0,пластик,6,2.1
+HP,Victus,79999.0,89999,1,Windows 11 Домашняя,6.0,Intel,Core i5,11400H,2.7,NVIDIA,GeForce RTX 3050 4GB,16.1,,256.0,8.0,DDR4,,пластик/ металл,6.5,2.46
+HP,HP Pavilion,54999.0,54999,1,Windows 11 Домашняя 64,6.0,,,,,AMD,Radeon Graphics,15.6,,512.0,8.0,DDR4,1.0,пластик/ металл,8.75,1.75
+Acer,Spin 1,45999.0,54999,1,Windows 10 Домашняя 64,4.0,,,,,Intel,UHD Graphics,14,,256.0,8.0,DDR4,1.0,пластик,9,1.5
+ASUS,,39999.0,44999,1,Windows 11 Домашняя 64,2.0,,,,,Intel,UHD Graphics,15.6,60,256.0,8.0,DDR4,1.0,пластик,5,1.8
+ASUS,S533JQ-BQ042T,59999.0,64999,1,Windows 10 Домашняя,4.0,,,,,NVIDIA,GeForce MX350,15.6,,512.0,8.0,DDR4,1.0,алюминий,,1.8
+Irbis,NB,15499.0,17999,1,Windows 10 Pro,2.0,,,,,Intel,Intel HD Graphics,11.6,60,,4.0,DDR4,1.0,пластик,,0.990
+Lenovo,,45999.0,59999,1,Windows 10 Pro 64,6.0,,,,,AMD,Radeon Graphics,15.6,,256.0,8.0,DDR4,1.0,ABS-пластик,9,1.7
+ASUS,TUF,89999.0,89999,1,не установлена,6.0,Intel,Core i5,11400H,2.2,NVIDIA,GeForce RTX 3050 4GB,15.6,144,512.0,16.0,DDR4,1.0,пластик,6,2.3
+ASUS,,64999.0,84999,1,Windows 11 Домашняя,4.0,,,,,Intel,Intel Iris Xe Graphics,14,,512.0,8.0,DDR4,1.0,алюминий/ пластик,5,1.4
+Thunderobot,GAMING,89999.0,99999,1,Windows 11 Домашняя 64,8.0,Intel,Core i5,12450H,2.0,NVIDIA,GeForce RTX 3050 4GB,15.6,144,512.0,16.0,DDR4,1.0,ABS-пластик,7,2.15
+MSI,Summit E16 Flip Evo,94999.0,104999,1,Windows 11,4.0,,,,,Intel,Intel Iris Xe Graphics,16,120,1000.0,16.0,DDR4 SO-DIMM,1.0,алюминий,7,2
+ASUS,,79999.0,84999,1,Windows 11 Домашняя,4.0,,,,,Intel,Intel Iris Xe Graphics,15.6,,512.0,16.0,DDR4,1.0,алюминиевый сплав/ пластик,6,1.8
+HP,ENVY x360,99999.0,99999,1,Windows 10 Домашняя 64,4.0,,,,,Intel,Intel Iris Xe Graphics,13.3,,512.0,8.0,DDR4,,металл,12,1.32
+Apple,MacBook Pro,207999.0,207999,1,macOS,10.0,,,,,Apple,,,120,1000.0,16.0,,,алюминий,17,1.64
+Honor,MagicBook 14 2021,78999.0,78999,1,Windows 10 Домашняя 64,4.0,,,,,Intel,Intel Iris Xe Graphics,14,60,512.0,16.0,DDR4,1.0,алюминиевый сплав,11,1.38
+Acer,TravelMate P4,57999.0,79999,3,Windows 10 Pro,4.0,,,,,Intel,Intel Iris Xe Graphics,14,,256.0,8.0,DDR4,1.0,металл/ пластик,13.5,1.4
+Lenovo,IdeaPad 3 15ITL6,28999.0,32999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics,15.6,,,4.0,DDR4,1.0,пластик,8,1.65
+Lenovo,IdeaPad Gaming 3 15ACH6,79999.0,89999,1,не установлена,8.0,AMD,Ryzen 7,5800H,3.2,NVIDIA,GeForce RTX 3050 Ti 4GB,15.6,165,512.0,8.0,DDR4,1.0,пластик,5,2.25
+HP,OMEN,99999.0,109999,1,Windows 10 Домашняя 64,6.0,AMD,Ryzen 5,5600H,3.3,AMD,Radeon RX 6600M 8GB,16.1,144,512.0,16.0,DDR4,1.0,пластик/ металл,9,2.36
+Acer,,59999.0,69999,1,Windows 11 Домашняя,2.0,,,,,NVIDIA,GeForce MX350 2ГБ,15.6,,512.0,8.0,DDR4,1.0,пластик,9,1.9
+ASUS,VivoBook 15,69999.0,79999,1,Windows 11 Домашняя,4.0,,,,,Intel,Intel Iris Xe Graphics,15.6,60,512.0,16.0,DDR4,1.0,алюминиевый сплав/ пластик,6,1.8
+Apple,,154999.0,154999,1,macOS,8.0,,,,,,,,,256.0,16.0,,,алюминий,,1.24
+ASUS,M515DA-BQ1247T,39999.0,39999,1,Windows 10 Домашняя,2.0,,,,,AMD,Radeon Graphics,15.6,,256.0,8.0,DDR4,1.0,пластик,,1.8
+Lenovo,IdeaPad Gaming 3 15IHU6,79999.0,92999,1,не установлена,4.0,Intel,Core i5,Intel Core i5-11300H,3.1,NVIDIA,GeForce RTX 3050,,120,512.0,8.0,DDR4 SO-DIMM,1.0,пластик,,2.25
+HP,Pavilion Gaming,99999.0,119999,1,не установлена,4.0,Intel,Core i5,11300H,3.1,NVIDIA,GeForce RTX 3050 Ti 4GB,17.3,144,512.0,8.0,DDR4,1.0,пластик,4,2.75
+HP,VICTUS,99999.0,119999,1,не установлена,6.0,AMD,Ryzen 5,5600H,3.3,NVIDIA,GeForce RTX 3050 Ti 4GB,16.1,144,512.0,8.0,DDR4,1.0,пластик/ металл,8.75,2.48
+HP,Pavilion,54999.0,54999,1,Windows 11 Домашняя 64,6.0,,,,,AMD,Radeon,14,,512.0,8.0,DDR4,1.0,пластик/ металл,10.5,1.41
+Apple,MacBook Pro,199999.0,219999,1,macOS,10.0,,,,,Apple,,,120,512.0,16.0,,,алюминий,17,1.64
+Lenovo,IdeaPad 3 14IGL05,17999.0,24999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics 600,14,,,4.0,DDR4,1.0,пластик,14,1.5
+ASUS,Vivobook 15,49999.0,59999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics,15.6,,512.0,16.0,DDR4,1.0,пластик,7,1.8
+HUAWEI,MateBook 14,69999.0,69999,1,Windows 10 Домашняя 64,6.0,,,,,AMD,Radeon Graphics,14,,512.0,16.0,DDR4,,металл,7,1.49
+Lenovo,IdeaPad 3 14ITL05,31999.0,34999,1,Windows 11 Домашняя 64,2.0,,,,,Intel,UHD Graphics,14,,256.0,8.0,DDR4,1.0,пластик,6,1.5
+HP,Laptop 15,52999.0,60899,1,не установлена,4.0,,,,,NVIDIA,GeForce MX450 2ГБ,15.6,,512.0,8.0,DDR4,1.0,пластик,9,1.75
+Lenovo,IdeaPad 3 15,39999.0,44999,1,Windows 11 Домашняя 64,2.0,,,,,Intel,UHD Graphics 600,15.6,,256.0,8.0,DDR4,1.0,пластик,5,1.7
+Haier,,29999.0,29999,1,DOS,4.0,,,,,Intel,Intel UHD Graphics 605,15.6,60,256.0,8.0,DDR4,1.0,пластик/ металл,5,1.65
+Irbis,NB,17999.0,19999,1,Windows 10 Pro,4.0,,,,,Intel,Intel HD Graphics,13.5,60,,4.0,,1.0,металл,6,1.185
+ASUS,VivoBook 14,49999.0,59999,1,Windows 10 Домашняя 64,4.0,,,,,AMD,Radeon Vega,14,,256.0,8.0,DDR4,1.0,пластик,9,1.5
+HP,Pavilion 14,64999.0,64999,1,Windows 11 Домашняя 64,6.0,,,,,AMD,Radeon Graphics,14,,512.0,16.0,DDR4,1.0,пластик/ металл,6,2.2
+Thunderobot,GAMING,224999.0,249999,1,Windows 11 Домашняя 64,14.0,Intel,Core i9,12900H,2.5,NVIDIA,GeForce RTX 3080 Ti 16GB,16,165,2000.0,32.0,DDR5,1.0,пластик/ металл,5,2.58
+Acer,Aspire 5,54999.0,59999,1,Windows 10 Домашняя 64,6.0,,,,,AMD,Radeon,15.6,,512.0,8.0,DDR4,1.0,ABS-пластик,10,1.8
+ASUS,ZenBook 13,62999.0,69999,1,Windows 11 Домашняя 64,4.0,,,,,Intel,Intel Iris Xe Graphics,13.3,,512.0,8.0,DDR4,1.0,алюминиевый сплав,13,1.14
+Haier,,31999.0,39999,1,не установлена,2.0,,,,,Intel,Intel HD Graphics,15.6,60,256.0,8.0,DDR4,1.0,пластик,5,1.65
+ASUS,,26999.0,26999,1,не установлена,2.0,,,,,Intel,UHD Graphics 600,15.6,60,256.0,8.0,DDR4,1.0,пластик,9,1.6
+Lenovo,IdeaPad 3 14IML05,29999.0,34999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics,14,,,4.0,DDR4,1.0,пластик,9,1.5
+ASUS,VivoBook 17,44999.0,49999,1,Windows 11 Домашняя,4.0,,,,,Intel,Intel UHD Graphics 600,17.3,,256.0,8.0,DDR4,1.0,пластик,5,2.1
+Lenovo,Lenovo V15,45999.0,52999,1,Windows 10 Pro,2.0,,,,,Intel,Intel HD Graphics 620,15.6,60,256.0,8.0,DDR4,1.0,пластик,6,1.85
+ASUS,,29999.0,34999,1,Windows 11 Домашняя,2.0,,,,,Intel,Intel HD Graphics 600,15.6,,,4.0,DDR4,1.0,пластик,6,1.57
+HUAWEI,Matebook D,55999.0,67999,1,Windows 11 Домашняя,4.0,,,,,Intel,Intel Iris Xe Graphics,15.6,60,512.0,8.0,DDR4,1.0,металл,7,1.53
+ASUS,,129999.0,149999,1,Windows 11 Домашняя,8.0,,,,,NVIDIA,GeForce RTX 3050 Ti 4GB,15.6,,512.0,16.0,LPDDR4X,1.0,алюминий,5,2
+HP,Victus 16,79999.0,89999,1,не установлена,6.0,AMD,Ryzen 5,5600H,3.3,NVIDIA,GeForce RTX 3050 4GB,16.1,144,512.0,16.0,DDR4,1.0,пластик,6.5,2.46
+ASUS,ZenBook 14 Flip OLED,119999.0,119999,2,Windows 11 Домашняя 64,4.0,,,,,Intel,Intel Iris Xe Graphics,14,90,512.0,16.0,LPDDR4X,1.0,алюминиевый сплав,12,1.4
+ASUS,ZenBook 14X OLED,99999.0,109999,1,Windows 11 Домашняя,6.0,,,,,AMD,Radeon Graphics,14,90,512.0,16.0,LPDDR4X,1.0,алюминий,7,1.4
+Thunderobot,GAMING,84999.0,94999,1,не установлена,8.0,Intel,Core i5,12450H,3.3,NVIDIA,GeForce RTX 3050 Ti 4GB,17.3,144,512.0,16.0,DDR4,1.0,пластик/ металл,5,2.5
+HP,Victus,119999.0,139999,1,Windows 11 Домашняя 64,8.0,AMD,Ryzen 7,5800H,3.2,NVIDIA,GeForce RTX 3060 6GB,16.1,144,1000.0,16.0,DDR4,1.0,пластик,6.5,2.48
+Thunderobot,GAMING,98999.0,111999,1,не установлена,8.0,Intel,Core i5,12450H,3.3,NVIDIA,GeForce RTX 3060 6GB,15.6,144,512.0,16.0,DDR4,1.0,пластик/ металл,5,2.2
+Haier,URBAN,17899.0,17899,1,Windows 10 Домашняя,2.0,,,,,Intel,Intel UHD Graphics 600,15.6,60,,4.0,LPDDR4,1.0,пластик,8,1.5
+ASUS,,109999.0,129999,1,Windows 11 Домашняя,4.0,Intel,Core i5,11300H,3.1,NVIDIA,GeForce RTX 3050 4GB,16,,512.0,16.0,DDR4,1.0,алюминий,5,1.95
+Lenovo,IdeaPad 3 15ITL6,44999.0,54999,1,не установлена,4.0,,,,,NVIDIA,GeForce MX350 2ГБ,15.6,,,8.0,DDR4,1.0,пластик,8,1.65
+ASUS,ExpertBook B1,49999.0,54999,1,Windows 10 Pro 64,2.0,,,,,Intel,Intel UHD Graphics,15.6,60,256.0,8.0,DDR4,1.0,пластик/ металл,7,1.73
+HP,Pavilion Aero,89999.0,119999,1,Windows 11,8.0,,,,,AMD,Radeon,13.3,,1000.0,16.0,DDR4,1.0,магниевый сплав,10,1
+HP,Laptop 15s,54999.0,59999,1,не установлена,10.0,,,,,Intel,Intel Iris Xe Graphics,15.6,,512.0,8.0,DDR4,1.0,ABS-пластик,6,1.69
+MSI,,69999.0,69999,1,Windows 10 Домашняя,4.0,Intel,Core i5,10300H,2.5,NVIDIA,GeForce GTX 1650 4GB Max-Q,15.6,60,256.0,8.0,DDR4,1.0,пластик/ металл,5,2.3
+Acer,Extensa,29999.0,29999,1,Windows 10 Домашняя,2.0,,,,,Intel,Intel UHD Graphics,15.6,,128.0,4.0,DDR4,1.0,пластик,7,1.9
+HP,HP Notebook 15,39999.0,44999,1,не установлена,4.0,,,,,Intel,Intel UHD Graphics,15.6,,,8.0,DDR4,1.0,пластик,10,1.78
+ASUS,TUF Gaming A15,69999.0,69999,1,Windows 11 Домашняя 64,8.0,AMD,Ryzen 5,4600H,3.0,NVIDIA,GeForce GTX 1650 4GB,15.6,144,512.0,8.0,DDR4,1.0,алюминий/ пластик,5,2.3
+LYAMBDA,,189999.0,189999,1,не установлена,14.0,Intel,Core i9,12900H,2.5,NVIDIA,GeForce RTX 3070 Ti 8GB,17.3,144,1000.0,32.0,DDR4,1.0,металл,5,2.82
+ASUS,,26999.0,29999,1,Windows 10,2.0,,,,,Intel,Intel UHD Graphics,14,,128.0,4.0,DDR4,1.0,пластик,6,1.5
+Apple,MacBook Pro,269999.0,269999,1,macOS,10.0,,,,,Apple,,,120,1000.0,16.0,,,алюминий,17,1.64
+HP,Laptop 15,59999.0,59999,1,DOS,4.0,,,,,NVIDIA,GeForce MX450 2ГБ,15.6,,512.0,8.0,DDR4,1.0,пластик,6,1.45
+ASUS,,36000.0,39999,1,Windows 10 Домашняя,2.0,,,,,NVIDIA,GeForce MX130 2ГБ,15.6,,256.0,8.0,DDR4,1.0,пластик,5,1.7
+ASUS,,84999.0,109999,1,Windows 11 Домашняя,4.0,,,,,Intel,Intel Iris Xe Graphics,14,,512.0,8.0,LPDDR4X,1.0,алюминий,5,1.17
+Lenovo,Legion 5 15ITH6,84999.0,84999,1,не установлена,6.0,Intel,Core i5,11400H,2.7,NVIDIA,GeForce RTX 3050 Ti 4GB,15.6,165,512.0,16.0,DDR4,1.0,пластик,8,2.4
+VAIO,VAIO E series,45999.0,45999,1,Windows 11 Домашняя,2.0,,,,,AMD,Radeon RX Vega 3,15.6,,512.0,8.0,DDR4,1.0,ABS-пластик,8,1.59
+Prestigio,C6,19999.0,24999,1,Windows 10 Pro,2.0,,,,,AMD,Radeon R3,14.1,50,,4.0,DDR4,1.0,пластик,8,1.4
+ASUS,,26999.0,29999,1,Windows 11 Домашняя,2.0,,,,,Intel,Intel UHD Graphics 600,14,,128.0,4.0,DDR4,1.0,пластик,6,1.5
+Lenovo,IdeaPad 3 15ITL6,54999.0,54999,1,не установлена,4.0,,,,,NVIDIA,GeForce MX350 2ГБ,15.6,60,,8.0,DDR4,1.0,пластик,6,3.6
+ASUS,VivoBook,59999.0,64999,1,Windows 10,4.0,,,,,NVIDIA,GeForce MX350 2ГБ,14,,512.0,8.0,DDR4,1.0,пластик,8,1.22
+MSI,Katana GF76,139999.0,139999,1,Windows 11 Домашняя 64,14.0,Intel,Core i7,12700H,3.5,NVIDIA,GeForce RTX 3060 6GB,17.3,144,512.0,16.0,DDR4,1.0,металл/ пластик,8,2.6
+ASUS,VivoBook 15,39999.0,39999,1,Windows 11 Домашняя,2.0,,,,,Intel,Intel UHD Graphics,15.6,,256.0,8.0,DDR4,1.0,пластик,5,1.8
+Apple,MacBook Pro,279999.0,279999,1,macOS,10.0,,,,,Apple,,,120,1000.0,16.0,,,алюминий,21,2.15
+ASUS,K413JA,54000.0,59999,1,Windows 10 Домашняя,4.0,,,,,Intel,Intel UHD Graphics,14,,512.0,8.0,DDR4,1.0,алюминий,,1.4
+HP,250 G7,32999.0,32999,1,DOS,2.0,,,,,Intel,UHD Graphics 600,15.6,60,256.0,8.0,DDR4,1.0,пластик,6.5,1.78
+Acer,Extensa,24999.0,26999,1,,2.0,,,,,Intel,Intel UHD Graphics,15.6,,256.0,4.0,DDR4,1.0,пластик,7,1.9
+MSI,MODERN 14,39999.0,44999,1,Windows 11 Домашняя,2.0,,,,,Intel,Intel UHD Graphics,14,,256.0,4.0,DDR4,1.0,алюминиевый сплав,5,1.39
+Digma,EVE,17999.0,17999,1,Windows 10 Домашняя 64,2.0,,,,,Intel,Intel UHD Graphics 600,14,60,,4.0,DDR4,1.0,пластик,7,1.26
+Prestigio,C7,17999.0,24999,1,Windows 10 Домашняя,2.0,,,,,Intel,Intel HD Graphics 500,14.1,50,,4.0,DDR4,1.0,пластик,8,1.4
+Prestigio,C6,24999.0,24999,1,Windows 10 Pro,2.0,,,,,AMD,Radeon R3,14.1,50,,4.0,DDR4,1.0,пластик,8,1.4
+Lenovo,IdeaPad Gaming 3i 15IMH05,66999.0,79999,1,Windows 10 Домашняя 64,4.0,Intel,Core i5,10300H,2.5,NVIDIA,GeForce GTX 1650 Ti 4GB,15.6,120,512.0,8.0,DDR4,1.0,пластик,7,2.2
+Honor,MagicBook 16,61999.0,69999,1,не установлена,6.0,,,,,AMD,Radeon Graphics,16.1,60,512.0,16.0,DDR4,1.0,алюминиевый сплав,8,1.84
+Prestigio,C7,24999.0,24999,1,Windows 10 Домашняя,2.0,,,,,Intel,Intel HD Graphics 500,14.1,50,,4.0,DDR4,1.0,пластик,8,1.4
+Lenovo,IdeaPad 3 15IML05,27999.0,32999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics,15.6,,,4.0,DDR4,1.0,пластик,9,1.7
+Lenovo,ThinkPad X1 Fold,210000.0,299999,3,Windows 10 Pro 64,5.0,,,,,Intel,Intel UHD Graphics,13.3,60,512.0,8.0,LPDDR4X,,магниевый сплав,10,0.999
+Lenovo,Legion 5 17ACH6H,139999.0,139999,1,не установлена,8.0,AMD,Ryzen 7,5800H,3.2,NVIDIA,GeForce RTX 3060 6GB,17.3,144,1000.0,16.0,DDR4,1.0,пластик,7,2.98
+Lenovo,IdeaPad 3 17ITL6,49999.0,49999,1,Windows 11 Домашняя 64,2.0,,,,,Intel,UHD Graphics,17.3,,256.0,8.0,DDR4,1.0,пластик,11,2.1
+HP,250 G7,24999.0,26999,1,,2.0,,,,,Intel,UHD Graphics,15.6,,256.0,4.0,DDR4,1.0,,,1.75
+ASUS,Vivobook Go 14 Flip,36999.0,39999,1,Windows 11,2.0,,,,,Intel,Intel UHD Graphics,14,,,4.0,DDR4,1.0,ABS-пластик,7,1.45
+ASUS,Zenbook Duo 14,104999.0,114999,2,Windows 10 Домашняя,4.0,,,,,NVIDIA,GeForce MX450 2ГБ,14,,512.0,16.0,LPDDR4X,1.0,магний/ алюминий,9,1.62
+Haier,URBAN,20799.0,20799,1,Windows 10 Домашняя,2.0,,,,,Intel,Intel UHD Graphics 600,15.6,60,128.0,4.0,LPDDR4,1.0,пластик,8,1.5
+ASUS,TUF Dash F15,109999.0,119999,1,Windows 11 Домашняя 64,10.0,Intel,Core i7,12650H,3.5,NVIDIA,GeForce RTX 3060 6GB,15.6,144,512.0,16.0,DDR4,1.0,алюминий/ пластик,5,2
+ASUS,,159999.0,159999,1,не установлена,8.0,AMD,Ryzen 7,6800H,3.2,NVIDIA,GeForce RTX 3070 8GB,15.6,165,1000.0,16.0,DDR5,1.0,алюминий/ пластик,5,2.2
+Lenovo,Legion 5 Pro 16ITH6,114999.0,114999,1,Windows 11 Домашняя 64,8.0,Intel,Core i7,11800H,2.3,NVIDIA,GeForce RTX 3050 Ti 4GB,16,165,1000.0,16.0,DDR4,1.0,алюминий,7,2.3
+HP,Pavilion Gaming,109999.0,145499,1,Windows 11 Домашняя 64,4.0,Intel,Core i5,11300H,3.1,NVIDIA,GeForce RTX 3050 Ti 4GB,17.3,144,512.0,8.0,DDR4,1.0,пластик,4,2.75
+Irbis,NB,17999.0,17999,1,Windows 10 Pro,2.0,,,,,Intel,Intel UHD Graphics 600,14.1,60,,4.0,DDR4,1.0,пластик,5,1.28
+Irbis,NB,16999.0,18999,1,Windows 10 Pro,2.0,,,,,Intel,Intel HD Graphics 500,14,60,,4.0,LPDDR4,1.0,пластик,4,1.273
+Acer,Extensa 15,24999.0,27999,1,не установлена,4.0,,,,,Intel,Intel UHD Graphics,15.6,,128.0,4.0,DDR4,1.0,пластик,6,1.9
+LYAMBDA,,99999.0,99999,1,не установлена,12.0,Intel,Core i5,12500H,2.5,NVIDIA,GeForce RTX 3050 Ti 4GB,17.3,144,512.0,16.0,DDR4,1.0,металл,5,2.52
+LYAMBDA,,79999.0,79999,1,не установлена,12.0,Intel,Core i5,12500H,2.5,NVIDIA,GeForce GTX 1650 4GB,15.6,,256.0,8.0,DDR4,1.0,металл,5,2.17
+MSI,GF 63 Thin,89999.0,99999,1,Windows 11 Домашняя 64,6.0,Intel,Core i5,11400H,2.7,NVIDIA,GeForce RTX 3050 4GB,15.6,,512.0,8.0,DDR4,1.0,алюминиевый сплав,7,1.9
+ASUS,TUF Gaming A15,72999.0,79999,1,Windows 11 Домашняя 64,6.0,,,,,NVIDIA,GeForce RTX 3050 4GB,15.6,144,512.0,8.0,DDR4,1.0,пластик,6,2.3
+ASUS,TUF Dash F15,84999.0,99999,1,не установлена,8.0,Intel,Core i5,12450H,3.3,NVIDIA,GeForce RTX 3050 Ti 4GB,15.6,,512.0,16.0,DDR4,1.0,алюминий/ пластик,5,2
+Lenovo,ideapad L340-15IRH Gaming,69999.0,74999,1,не установлена,4.0,Intel,Core i5,9300HF,2.4,NVIDIA,GeForce GTX 1650 4GB,15.6,60,512.0,8.0,DDR4,1.0,пластик,9,2.2
+Lenovo,Legion 5 17ACH6H,159999.0,159999,1,не установлена,8.0,,,,,NVIDIA,GeForce RTX 3070 8GB,17.3,144,1000.0,16.0,DDR4,1.0,пластик,7,2.98
+Lenovo,IdeaPad 3 15IML05,31999.0,31999,1,Windows 10 Домашняя 64,2.0,,,,,Intel,UHD Graphics,15.6,,,4.0,DDR4,1.0,пластик,9,1.7
+Thunderobot,GAMING,89999.0,99999,1,не установлена,6.0,Intel,Core i5,11400H,2.7,NVIDIA,GeForce RTX 3060 6GB,17.3,144,256.0,8.0,DDR4,1.0,пластик/ металл,5,2.5
+Irbis,NB,15999.0,18999,1,Windows 10 Домашняя,2.0,,,,,Intel,Intel HD Graphics 500,14,60,,4.0,DDR4,1.0,пластик,5,1.273
+Lenovo,V130-15IGM,24999.0,24999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics 600,15.6,,,4.0,DDR4,1.0,пластик,6,1.85
+Thunderobot,GAMING,179999.0,199999,1,Windows 11 Домашняя 64,14.0,Intel,Core i7,12700H,3.7,NVIDIA,GeForce RTX 3070 Ti 8GB,16,165,1000.0,32.0,DDR5,1.0,пластик/ металл,5,2.58
+Lenovo,IdeaPad 3 14ALC6,52999.0,59999,1,не установлена,8.0,,,,,AMD,Radeon Graphics,14,,512.0,12.0,DDR4,1.0,пластик,11,1.41
+Lenovo,IdeaPad 3 15IGL05,24999.0,24999,1,Windows 11 Домашняя 64,2.0,,,,,Intel,UHD Graphics 600,15.6,,,4.0,DDR4,1.0,пластик,14,1.7
+Lenovo,IdeaPad 3 15IML05,29999.0,31999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics,15.6,,,4.0,DDR4,1.0,пластик,9,1.7
+HP,240 G8,43999.0,46999,1,Windows 10 Pro 64,2.0,,,,,Intel,Intel UHD Graphics,14,60,256.0,8.0,DDR4,1.0,пластик,5,1.47
+ASUS,VivoBook,54999.0,64999,1,Windows 10,4.0,,,,,NVIDIA,GeForce MX350 2ГБ,14,,512.0,8.0,DDR4,1.0,пластик,8,1.22
+Apple,MacBook Pro,314999.0,329999,1,macOS,10.0,,,,,Apple,,,120,1000.0,32.0,,,алюминий,21,2.15
+Lenovo,IdeaPad Flex 5 14ITL05,64999.0,64999,1,Windows 11 Домашняя 64,4.0,,,,,Intel,Intel Iris Xe Graphics,14,,512.0,8.0,DDR4,1.0,пластик,11,1.5
+Lenovo,IdeaPad Gaming 3 15ACH6,77399.0,77399,1,не установлена,6.0,AMD,Ryzen 5,5600H,3.3,NVIDIA,GeForce RTX 3050 Ti 4GB,15.6,60,512.0,16.0,DDR4,1.0,пластик,5,2.25
+GIGABYTE,SE4-73EE213SH,139999.0,159999,1,Windows 11 Домашняя,14.0,Intel,Core i7,12700H,2.3,NVIDIA,GeForce RTX 3070 8GB,15.6,144,512.0,16.0,DDR4,1.0,алюминий/ пластик,5,2.3
+Lenovo,IdeaPad 5 15ITL05,59999.0,59999,1,Windows 11 Домашняя 64,4.0,,,,,Intel,Intel Iris Xe Graphics,15.6,,256.0,8.0,DDR4,1.0,алюминий,11,1.66
+Lenovo,,25999.0,25999,1,Windows 11 Домашняя 64,2.0,,,,,Intel,UHD Graphics 600,14,,,4.0,DDR4,1.0,пластик,14,1.4
+Acer,Nitro 5,114999.0,124999,1,не установлена,6.0,,,,,NVIDIA,GeForce RTX 3060 6GB,15.6,144,512.0,16.0,DDR4,1.0,пластик,10,2.3
+HP,Omen,154999.0,179999,1,не установлена,8.0,AMD,Ryzen 7,5800H,3.2,NVIDIA,GeForce RTX 3070 8GB,16.1,144,1000.0,16.0,DDR4,1.0,пластик,9.5,2.46
+HP,HP Notebook 15,54999.0,54999,1,не установлена,4.0,,,,,Intel,UHD Graphics,15.6,60,,8.0,DDR4,1.0,пластик,8,1.78
+Lenovo,IdeaPad Flex 5 14ITL05,79999.0,79999,1,Windows 10 Домашняя 64,4.0,,,,,Intel,Intel Iris Xe Graphics,14,,512.0,8.0,DDR4,1.0,пластик,11,1.5
+ASUS,Vivobook S15 OLED,89999.0,89999,1,Windows 11 Домашняя,8.0,,,,,AMD,Radeon Graphics,15.6,120,512.0,16.0,DDR4,1.0,алюминий/ пластик,6,1.8
+ASUS,VivoBook,59999.0,67999,1,не установлена,4.0,,,,,NVIDIA,GeForce GTX 1650 4GB,15.6,,512.0,8.0,DDR4,1.0,ABS-пластик,5,1.94
+Lenovo,Legion 5 15ITH6H,99999.0,119999,1,не установлена,8.0,Intel,Core i7,11800H,2.3,NVIDIA,GeForce RTX 3050 Ti 4GB,15.6,165,512.0,16.0,DDR4,1.0,пластик,8,2.4
+HP,,45999.0,49999,1,не установлена,4.0,,,,,Intel,Intel Iris Xe Graphics,15.6,,512.0,8.0,DDR4,1.0,ABS-пластик,9,1.82
+Acer,Aspire 3,17999.0,24999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics 600,15.6,,,4.0,DDR4,1.0,пластик,6,2.1
+LYAMBDA,,99999.0,99999,1,не установлена,12.0,Intel,Core i5,12500H,2.5,NVIDIA,GeForce RTX 3050 4GB,17.3,144,512.0,16.0,DDR4,1.0,металл,5,2.52
+GIGABYTE,KD-52EE123SO,97999.0,97999,1,Windows 11 Домашняя,6.0,Intel,Core i5,11400H,2.7,NVIDIA,GeForce RTX 3060 6GB,15.6,144,512.0,16.0,DDR4,1.0,пластик,5,2.18
+Apple,,154999.0,154999,1,macOS,8.0,,,,,,,,,256.0,16.0,,,алюминий,18,1.24
+Lenovo,ThinkBook 15 G2 ITL,54999.0,59999,1,не установлена,4.0,,,,,Intel,Intel Iris Xe Graphics,15.6,,256.0,8.0,DDR4,1.0,пластик/ металл,6,1.7
+Lenovo,IdeaPad 1 11IGL05,24999.0,24999,1,Windows 11 Домашняя S-режим,2.0,,,,,Intel,Intel UHD Graphics 600,11.6,,128.0,4.0,DDR4,1.0,пластик,8,1.2
+Lenovo,IdeaPad Flex 5 14ITL05,64999.0,64999,1,Windows 11 Домашняя 64,4.0,,,,,Intel,Intel Iris Xe Graphics,14,,256.0,8.0,DDR4,1.0,пластик,11,1.5
+Lenovo,,129999.0,149999,1,Windows 11 Pro 64,10.0,,,,,Intel,Intel Iris Xe Graphics,15.6,,512.0,16.0,DDR4,1.0,алюминиевый сплав/ пластик,12,1.7
+Acer,Nitro 5,114999.0,139999,1,не установлена,12.0,Intel,Core i5,12500H,2.5,NVIDIA,GeForce RTX 3060 6GB,17.3,,512.0,16.0,DDR4,1.0,пластик,6,3
+HP,15 Laptop,29999.0,29999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics,15.6,,,4.0,DDR4,1.0,пластик,10,2.57
+LYAMBDA,,199999.0,199999,1,не установлена,14.0,Intel,Core i9,12900H,2.5,NVIDIA,GeForce RTX 3070 Ti 8GB,15.6,144,1000.0,32.0,DDR4,1.0,металл,5,2.45
+MSI,Katana,143999.0,159999,1,Windows 11,14.0,Intel,Core i7,12700H,4.7,NVIDIA,GeForce RTX 3070 Ti 8GB,17.3,144,512.0,16.0,DDR5,1.0,пластик,5,2.6
+LYAMBDA,,169999.0,169999,1,не установлена,14.0,Intel,Core i7,12700H,2.3,NVIDIA,GeForce RTX 3070 Ti 8GB,17.3,144,512.0,16.0,DDR4,1.0,металл,5,2.82
+Lenovo,Legion 5 Pro,159999.0,159999,1,не установлена,6.0,AMD,Ryzen 5,5600H,3.3,NVIDIA,GeForce RTX 3060 6GB,16,165,1000.0,16.0,DDR4,1.0,анодированный алюминий,8,2.45
+Lenovo,ThinkBook 13s G2 ITL,84999.0,99999,1,Windows 10 Pro 64,4.0,,,,,Intel,Intel Iris Xe Graphics,13.3,,512.0,16.0,LPDDR4X,1.0,металл,12,1.26
+Lenovo,V15 G2 ITL,34999.0,39999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics,15.6,,,4.0,DDR4,1.0,пластик,5,1.7
+MSI,,139999.0,179999,1,Windows 11 Домашняя 64,14.0,Intel,Core i7,12700H,3.5,NVIDIA,GeForce RTX 3060 6GB,17.3,144,512.0,16.0,DDR4,1.0,металл/ пластик,8,2.6
+MSI,Katana,107999.0,119999,1,DOS,10.0,Intel,Core i7,12650H,4.7,NVIDIA,GeForce RTX 3060 6GB,17.3,144,1000.0,16.0,DDR4,1.0,пластик,5,2.6
+MSI,Katana,107999.0,119999,1,DOS,10.0,Intel,Core i7,12650H,4.7,NVIDIA,GeForce RTX 3060 6GB,,,1000.0,16.0,,,,5,2.6
+Lenovo,,28999.0,34999,1,Windows 10 Домашняя 64,2.0,,,,,Intel,UHD Graphics 600,15.6,,256.0,8.0,DDR4,1.0,ABS-пластик,6,1.85
+Dell,G15,89999.0,99999,1,Linux,8.0,,,,,NVIDIA,GeForce RTX 3050 Ti 4GB,15.6,,512.0,16.0,DDR4,1.0,пластик,5,2.65
+GIGABYTE,51EE123SO,89999.0,99999,1,Windows 11 Домашняя,6.0,Intel,Core i5,11400H,2.7,NVIDIA,GeForce RTX 3050 4GB,15.6,144,512.0,16.0,DDR4,1.0,пластик,5,2.03
+GIGABYTE,XD-73UK325SH,169999.0,189999,1,Windows 10 Домашняя,8.0,Intel,Core i7,11800H,2.3,NVIDIA,GeForce RTX 3070 8GB,17.3,300,512.0,32.0,DDR4,1.0,алюминий/ пластик,5,2.77
+Lenovo,IdeaPad 3 15ITL6,28999.0,31999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics,15.6,,,4.0,DDR4,1.0,пластик,8,1.65
+Acer,Nitro 5,109999.0,119999,1,не установлена,12.0,Intel,Core i5,12500H,2.5,NVIDIA,GeForce RTX 3060 6GB,15.6,144,512.0,16.0,DDR4,1.0,пластик,6,2.5
+HP,,69999.0,69999,1,Windows 11 Домашняя,6.0,,,,,AMD,Radeon Graphics,14,,256.0,8.0,DDR4,1.0,ABS-пластик,9,1.46
+Lenovo,V15 IML,59999.0,59999,1,Windows 10 Pro,4.0,,,,,Intel,Intel UHD Graphics,15.6,,256.0,8.0,DDR4,1.0,пластик,9,1.85
+HP,HP Notebook 15,29999.0,29999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics,15.6,,,4.0,DDR4,1.0,пластик,7,2.57
+MSI,Crosshair 17,199999.0,199999,1,Windows 11 Домашняя 64,14.0,Intel,Core i9,12900H,1.8,NVIDIA,GeForce RTX 3070 Ti 8GB,17.3,360,1000.0,32.0,DDR4,1.0,ABS-пластик,5,2.8
+HP,,59999.0,59999,1,не установлена,10.0,,,,,Intel,Intel Iris Xe Graphics,15.6,,512.0,8.0,DDR4,1.0,пластик,8,1.69
+HP,Victus 16,89999.0,99999,1,не установлена,6.0,AMD,Ryzen 5,6600H,3.3,NVIDIA,GeForce RTX 3050 Ti 4GB,16.1,144,512.0,16.0,DDR5,1.0,пластик,6.5,2.46
+Lenovo,Legion 5,119999.0,119999,1,не установлена,6.0,AMD,Ryzen 5,5600H,3.3,NVIDIA,GeForce RTX 3060 6GB,15.6,120,1000.0,16.0,DDR4,1.0,пластик,9,2.4
+MSI,Vector GP76,209999.0,229999,1,не установлена,14.0,Intel,Core i7,12700H,2.3,NVIDIA,GeForce RTX 3070 Ti 8GB,17.3,,1000.0,32.0,DDR5,1.0,ABS-пластик,5,2.9
+Lenovo,V15 IGL,26999.0,26999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics 600,15.6,,,4.0,DDR4,1.0,пластик,6,1.85
+Lenovo,V14 ADA,29999.0,29999,1,не установлена,2.0,,,,,AMD,Radeon Graphics,14,,,4.0,DDR4,1.0,пластик,6,1.6
+MSI,,129999.0,139999,1,Windows 11 Pro,12.0,,,,,Intel,Intel Iris Xe Graphics,13.4,120,1000.0,16.0,LPDDR5,1.0,металл/ пластик,9,1.35
+ASUS,TUF Gaming A15,94999.0,94999,1,Windows 10 Домашняя 64,8.0,,,,,NVIDIA,GeForce RTX 3050 4GB,15.6,144,512.0,16.0,DDR4,1.0,алюминий/ пластик,5,2.3
+HP,Victus 16,114999.0,114999,1,не установлена,12.0,Intel,Core i5,12500H,2.5,NVIDIA,GeForce RTX 3060 6GB,16.1,,512.0,16.0,DDR5,,пластик/ металл,6,2.46
+ASUS,VivoBook 15,39999.0,39999,1,Windows 11 Домашняя,2.0,,,,,AMD,Radeon Graphics,15.6,,256.0,8.0,DDR4,1.0,пластик,5,1.8
+Lenovo,,49999.0,54999,1,Windows 11 Домашняя 64,6.0,,,,,AMD,Radeon Graphics,14,,256.0,8.0,DDR4,1.0,ABS-пластик,11,1.41
+Acer,,54999.0,54999,1,Endless OS,2.0,,,,,NVIDIA,GeForce MX350 2ГБ,15.6,,256.0,8.0,DDR4,1.0,пластик,9,1.1
+Lenovo,IdeaPad Gaming 3 15IHU6,77999.0,77999,1,Windows 11 Домашняя 64,4.0,Intel,Core i5,11300H,3.1,NVIDIA,GeForce RTX 3050 4GB,15.6,120,256.0,8.0,DDR4,1.0,пластик,8,2.25
+HP,,43999.0,49999,1,не установлена,4.0,,,,,Intel,Intel Iris Xe Graphics,14,,256.0,8.0,DDR4,1.0,ABS-пластик,11,1.46
+HP,Victus,89999.0,89999,1,не установлена,6.0,AMD,Ryzen 5,5600H,3.3,NVIDIA,GeForce RTX 3050 4GB,16.1,144,512.0,16.0,DDR4,,пластик/ металл,8,2.46
+GIGABYTE,51EE123SH,89999.0,99999,1,Windows 10 Домашняя,6.0,Intel,Core i5,11400H,2.7,NVIDIA,GeForce RTX 3050 4GB,15.6,144,512.0,16.0,DDR4,1.0,пластик,5,2.03
+HP,,24999.0,24999,1,не установлена,2.0,,,,,Intel,UHD Graphics 600,15.6,,,4.0,DDR4,1.0,ABS-пластик,10,1.76
+Acer,,64999.0,64999,1,Endless OS,4.0,,,,,NVIDIA,GeForce MX350 2ГБ,15.6,,256.0,8.0,DDR4,1.0,пластик,9,1.1
+Lenovo,ThinkPad E14 Gen 4 (Intel),69999.0,74999,1,не установлена,10.0,,,,,Intel,Intel Iris Xe Graphics,14,,512.0,8.0,DDR4,1.0,алюминиевый сплав,12,1.64
+Lenovo,,64999.0,64999,1,Windows 10 Pro 64,4.0,,,,,Intel,Intel Iris Xe Graphics,14,,256.0,8.0,DDR4,1.0,ABS-пластик,8.5,1.6
+HP,,24999.0,24999,1,не установлена,4.0,,,,,Intel,UHD Graphics 600,15.6,,,4.0,DDR4,1.0,ABS-пластик,10,1.76
+Lenovo,ThinkPad E15 Gen 4 (Intel),69999.0,74999,1,не установлена,10.0,,,,,Intel,Intel Iris Xe Graphics,15.6,,512.0,8.0,DDR4,1.0,алюминиевый сплав,12,1.7
+HP,Pavilion 14,52999.0,59999,1,Windows 11 Домашняя 64,6.0,,,,,AMD,Radeon Graphics,14,,512.0,16.0,DDR4,1.0,пластик/ металл,6,2.2
+HP,EliteBook 830 G8,89999.0,89999,1,не установлена,4.0,,,,,Intel,Intel Iris Xe Graphics,13.3,,512.0,16.0,DDR4,1.0,ABS-пластик,,1.24
+Lenovo,Legion 5 Pro 16IAH7H,219999.0,219999,1,не установлена,14.0,Intel,Core i9,12900H,3.8,NVIDIA,GeForce RTX 3070 Ti 8GB,16,165,1000.0,32.0,DDR5,1.0,анодированный алюминий,7,2.49
+Lenovo,,84999.0,99999,1,Windows 10 Pro 64,4.0,,,,,Intel,Intel Iris Xe Graphics,14,,256.0,8.0,DDR4,1.0,ABS-пластик,11,1.59
+MSI,Raider GE76,239999.0,239999,1,Windows 11 Домашняя,14.0,Intel,Core i9,12900HK,2.5,NVIDIA,GeForce RTX 3070 Ti 8GB,17.3,,1000.0,32.0,DDR5,1.0,ABS-пластик,5,2.9
+HP,,49999.0,54999,1,не установлена,4.0,,,,,NVIDIA,GeForce MX450 2ГБ,15.6,,512.0,8.0,DDR4,1.0,ABS-пластик,7,1.75
+Lenovo,IdeaPad 3 15IGL05,24999.0,24999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics 600,15.6,,,4.0,DDR4,1.0,пластик,14,1.7
+Lenovo,,49999.0,59999,1,Windows 11 Pro 64,4.0,,,,,Intel,Intel Iris Xe Graphics,14,,256.0,8.0,DDR4,1.0,ABS-пластик,6,1.6
+Irbis,NB,17999.0,18999,1,Windows 10 Домашняя 64,4.0,,,,,Intel,Intel HD Graphics 500,13.3,60,,4.0,DDR3L,1.0,пластик,5,1.27
+ASUS,ZenBook 14X OLED,114999.0,129999,1,Windows 11 Домашняя,8.0,,,,,AMD,Radeon Graphics,14,90,512.0,16.0,LPDDR4X,1.0,алюминий,6,1.4
+ASUS,ProArt Studiobook Pro 16 OLED,259999.0,259999,1,Windows 10 Домашняя 64,8.0,,,,,NVIDIA,NVIDIA RTX A3000 6GB,16,60,1000.0,32.0,DDR4,1.0,металл,6,2.4
+HP,Pavilion,49999.0,49999,1,Windows 10 Домашняя 64,4.0,,,,,NVIDIA,Radeon Graphics,14,,512.0,8.0,DDR4,1.0,пластик/ алюминий,7,1.41
+HUAWEI,,99999.0,119999,1,Windows 10 Домашняя 64,4.0,,,,,Intel,Intel Iris Graphics,14.2,,512.0,16.0,LPDDR4X,1.0,металл,,1.43
+Apple,MacBook Pro,195999.0,195999,1,macOS,10.0,,,,,Apple,,,120,512.0,16.0,,,алюминий,17,1.64
+HP,340S G7,39999.0,53999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics,14,60,128.0,4.0,DDR4,1.0,пластик,10,1.47
+ASUS,VivoBook 15,49999.0,49999,1,Windows 10 Домашняя,2.0,,,,,NVIDIA,GeForce MX330 2ГБ,15.6,,256.0,8.0,DDR4,1.0,пластик,6,1.8
+Apple,MacBook Pro,419999.0,419999,1,macOS,8.0,,,,,Apple,,,120,8000.0,32.0,,,алюминий,17,1.64
+ASUS,Vivobook 15,54999.0,59999,1,Windows 11 Домашняя 64,2.0,,,,,Intel,Intel UHD Graphics,15.6,60,512.0,8.0,DDR4,1.0,пластик,6,1.8
+HP,240 G7,37999.0,37999,1,DOS,4.0,,,,,Intel,Intel UHD Graphics,14,60,,4.0,DDR4,1.0,пластик,12,1.52
+Acer,Nitro 5,109999.0,124999,1,не установлена,6.0,AMD,Ryzen 5,6600H,3.3,NVIDIA,GeForce RTX 3060 6GB,15.6,,512.0,16.0,LPDDR5,1.0,пластик,6,2
+MSI,Creator,242999.0,269999,1,Windows 11 Pro,14.0,,,,,NVIDIA,GeForce RTX 3070 Ti 8GB,17,165,2000.0,32.0,DDR5,1.0,алюминий/ пластик,5,2.49
+MSI,Katana,62999.0,69999,1,DOS,6.0,Intel,Core i5,11400H,4.5,NVIDIA,GeForce GTX 1650 4GB,15.6,144,512.0,8.0,DDR4,1.0,пластик,5,2.25
+MSI,Katana,78999.0,86999,1,DOS,12.0,Intel,Core i5,12500H,4.5,NVIDIA,GeForce RTX 3050 4GB,17.3,144,512.0,16.0,DDR4,1.0,пластик,5,2.6
+MSI,Raider,242999.0,269999,1,Windows 11,16.0,Intel,Core i9,12900HX,2.3,NVIDIA,GeForce RTX 3070 Ti 8GB,17.3,240,2000.0,32.0,DDR5,1.0,алюминий/ пластик,5,2.9
+MSI,Prestige,96999.0,105999,1,Windows 11,12.0,,,,,NVIDIA,GeForce GTX 1650 4GB,15.6,60,512.0,16.0,LPDDR5,1.0,пластик,5,1.69
+MSI,Summit,112999.0,124999,1,Windows 11 Pro,12.0,,,,,Intel,Intel Iris Xe Graphics,13.4,120,1000.0,16.0,LPDDR5,1.0,алюминий/ пластик,5,1.35
+MSI,Stealth,211999.0,234999,1,Windows 11,14.0,Intel,Core i7,12700H,2.3,NVIDIA,GeForce RTX 3070 Ti 8GB,17.3,240,2000.0,32.0,DDR5,1.0,алюминий/ пластик,5,2.8
+MSI,Summit,112999.0,124999,1,Windows 11 Pro,12.0,,,,,Intel,Intel Iris Xe Graphics,16,165,1000.0,16.0,LPDDR5,1.0,алюминий/ пластик,5,1.9
+MSI,CROSSHAIR 15,121999.0,134999,1,Windows 11 Домашняя 64,14.0,Intel,Core i7,12700H,3.5,NVIDIA,GeForce RTX 3060 6GB,15.6,144,512.0,16.0,DDR4 SO-DIMM,1.0,металл/ пластик,6,2.3
+MSI,Vector,166499.0,184999,1,Windows 11,14.0,Intel,Core i7,12700H,2.3,NVIDIA,GeForce RTX 3070 Ti 8GB,17.3,144,1000.0,16.0,DDR5,1.0,алюминий/ пластик,5,2.9
+MSI,Katana GF76,64999.0,71999,1,DOS,6.0,Intel,Core i5,11400H,2.7,NVIDIA,GeForce GTX 1650 4GB Max-Q,17.3,144,512.0,8.0,DDR4 SO-DIMM,1.0,металл/ пластик,5,2.6
+MSI,Katana,89999.0,99999,1,Windows 11,8.0,Intel,Core i5,12450H,4.4,NVIDIA,GeForce RTX 3050 Ti 4GB,17.3,144,512.0,16.0,DDR4,1.0,пластик,5,2.6
+MSI,Katana,99999.0,109999,1,Windows 11,8.0,Intel,Core i5,12450H,4.4,NVIDIA,GeForce RTX 3060 6GB,17.3,144,512.0,16.0,DDR4,1.0,пластик,5,2.6
+HP,ProBook 450 G9,69999.0,69999,1,не установлена,10.0,,,,,Intel,Intel Iris Xe Graphics,15.6,,512.0,8.0,DDR4,1.0,алюминий,10,1.74
+Lenovo,IdeaPad 3 15ABA7,49999.0,49999,1,Windows 11 Домашняя 64,6.0,,,,,AMD,Radeon Graphics,15.6,,256.0,8.0,DDR4,1.0,ABS-пластик,13,1.65
+HP,ProBook 450 G8,59999.0,88999,1,Windows 10 Pro,2.0,,,,,Intel,Intel UHD Graphics,15.6,,256.0,8.0,DDR4,1.0,алюминий,12.5,1.74
+Lenovo,IdeaPad 1 15ADA7,44999.0,44999,1,Windows 11 Домашняя 64,2.0,,,,,AMD,Radeon Graphics,15.6,,256.0,8.0,DDR4,1.0,ABS-пластик,9.5,1.6
+Lenovo,IdeaPad 1 15ADA7,39999.0,39999,1,не установлена,2.0,,,,,AMD,Radeon Graphics,15.6,,256.0,8.0,DDR4,1.0,ABS-пластик,9.5,1.6
+Lenovo,IdeaPad Gaming 3 16IAH7,104999.0,104999,1,не установлена,12.0,Intel,Core i5,12500H,3.3,NVIDIA,GeForce RTX 3050 Ti 4GB,16,165,1000.0,16.0,DDR4,1.0,ABS-пластик,10,2.6
+Haier,,69999.0,69999,1,Windows 11,4.0,,,,,Intel,Intel Iris Xe Graphics,15.6,60,512.0,8.0,DDR4,1.0,металл/ пластик,9,1.6
+Lenovo,V14 G2 ITL,42999.0,49999,1,Windows 10 Pro 64,2.0,,,,,Intel,Intel UHD Graphics,14,,256.0,8.0,DDR4,1.0,пластик,6,1.6
+MSI,Prestige 14,109999.0,155999,1,Windows 10 Домашняя 64,4.0,,,,,NVIDIA,GeForce GTX 1650 4GB Max-Q,14,,1000.0,16.0,DDR4,,алюминиевый сплав,10,1.29
+ASUS,Vivobook,38999.0,43499,1,Windows 11 Домашняя,2.0,,,,,Intel,Intel UHD Graphics,15.6,,256.0,8.0,DDR4,1.0,пластик,5,1.8
+MSI,Prestige 14,170499.0,170499,1,Windows 10 Домашняя 64,4.0,,,,,NVIDIA,GeForce GTX 1650 4GB Max-Q,14,,1000.0,16.0,DDR4,,алюминиевый сплав,10,1.29
+MSI,Pulse GL66,85899.0,85899,1,не установлена,6.0,Intel,Core i5,11400H,2.7,NVIDIA,GeForce RTX 3050 Ti 4GB,15.6,144,512.0,8.0,DDR4,1.0,алюминиевый сплав,5.17,2.25
+Dell,Vostro,59999.0,100899,1,Linux,4.0,,,,,NVIDIA,GeForce MX350 2ГБ,15.6,60,512.0,8.0,DDR4,1.0,пластик,5,1.69
+Lenovo,Ideapad 3 15,39999.0,50899,1,не установлена,4.0,,,,,AMD,Radeon Graphics,15.6,,256.0,8.0,DDR4,1.0,пластик,9,1.65
+Dell,Vostro 15,59999.0,68899,1,Linux,4.0,,,,,AMD,Radeon RX Vega 8,15.6,60,256.0,8.0,DDR4,1.0,пластик,5,1.7
+Lenovo,IdeaPad 3,41899.0,41899,1,Windows 10 Домашняя,2.0,,,,,AMD,Radeon Graphics,15.6,,256.0,4.0,DDR4,1.0,пластик,9,1.85
+Acer,Extensa,51999.0,51999,1,,2.0,,,,,AMD,Radeon Graphics,15.6,,512.0,8.0,DDR4,1.0,пластик,9,1.9
+ASUS,Vivobook,34999.0,34999,1,Windows 10 Домашняя,2.0,,,,,NVIDIA,GeForce MX130 2ГБ,14,,256.0,4.0,DDR4,1.0,пластик,5,1.6
+Acer,Extensa,39999.0,45999,1,Windows 10 Домашняя,2.0,,,,,AMD,Radeon Graphics,15.6,,512.0,4.0,DDR4,1.0,пластик,9,1.9
+Dell,Vostro,149799.0,149799,1,Windows 10 Pro,4.0,,,,,Intel,Intel Iris Xe Graphics,15.6,,512.0,16.0,DDR4,1.0,пластик,5,1.78
+HP,255 G8,54999.0,54999,1,Windows 10 Pro,4.0,,,,,AMD,Radeon Graphics,15.6,,256.0,8.0,DDR4,1.0,пластик,7,1.78
+HP,15S,63599.0,63599,1,Windows 10 Домашняя,4.0,,,,,AMD,Radeon Graphics,15.6,,256.0,4.0,DDR4,1.0,пластик,7,1.7
+MSI,Pulse GL66,104999.0,104999,1,Windows 10 Домашняя,8.0,Intel,Core i7,11800H,2.3,NVIDIA,GeForce RTX 3050 4GB,15.6,144,512.0,8.0,DDR4,1.0,алюминиевый сплав,5.17,2.25
+MSI,"GE63 Raider RGB (15"")",163690.0,163690,2,Windows 10 Домашняя 64,6.0,Intel,Core i7,8750H,2.2,NVIDIA,GeForce RTX 2080 8GB,15.6,,256.0,16.0,,1.0,алюминий/ пластик,5,2.6
+Acer,Extensa,27999.0,34899,1,,2.0,,,,,AMD,Radeon Graphics,15.6,,128.0,4.0,DDR4,1.0,пластик,9,1.9
+ASUS,VivoBook 15 OLED,48999.0,63899,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics,15.6,60,256.0,8.0,DDR4,1.0,алюминий/ пластик,5,1.8
+Acer,Extensa,44199.0,44199,1,не установлена,4.0,,,,,AMD,Radeon Vega 8,15.6,60,512.0,8.0,DDR4,1.0,пластик,5,1.9
+HP,,63799.0,63799,1,DOS,6.0,,,,,AMD,Radeon Graphics,15.6,60,512.0,8.0,DDR4,1.0,пластик,8,1.69
+ASUS,Vivobook Go 14,27199.0,27199,1,Windows 11 Домашняя,2.0,,,,,Intel,Intel UHD Graphics 600,14,60,,4.0,DDR4,1.0,пластик,10,1.3
+HP,250 G8,54899.0,54899,1,Windows 11 Pro,2.0,,,,,Intel,Intel UHD Graphics,15.6,60,256.0,8.0,DDR4,1.0,пластик,8,1.74
+Acer,Extensa,38999.0,45999,1,не установлена,4.0,,,,,AMD,Radeon Vega 8,15.6,60,256.0,8.0,DDR4,1.0,пластик,5,1.9
+Lenovo,V15-ADA,49999.0,49999,1,DOS,4.0,,,,,AMD,Radeon Vega 8,15.6,60,256.0,8.0,DDR4,1.0,пластик,6,1.85
+Lenovo,IdeaPad 5 15ALC05,76899.0,76899,1,не установлена,8.0,,,,,AMD,Radeon Graphics,15.6,60,512.0,16.0,DDR4,1.0,пластик,9,1.66
+HP,,48399.0,48399,1,DOS,4.0,,,,,AMD,Radeon Graphics,15.6,60,512.0,8.0,DDR4,1.0,пластик,7,1.74
+HP,Omen,207699.0,207699,1,не установлена,8.0,,,,,NVIDIA,GeForce RTX 3070 8GB,16.1,165,1000.0,16.0,DDR5,1.0,алюминий/ пластик,6,2.36
+Dell,Latitude,81999.0,81999,3,Linux,4.0,,,,,Intel,Intel Iris Xe Graphics,13.3,,256.0,8.0,DDR4,1.0,углеродное волокно,12,1.18
+HP,250 G8,50899.0,50899,1,DOS,4.0,,,,,Intel,Intel UHD Graphics,15.6,60,256.0,4.0,DDR4,1.0,пластик,8,1.74
+Dell,Vostro 15,54999.0,88599,1,Linux,4.0,,,,,AMD,Radeon RX Vega 10,15.6,60,512.0,8.0,DDR4,1.0,пластик,5,1.7
+MSI,Summit E13 Flip EVO,154999.0,154999,1,Windows 10 Pro,4.0,,,,,Intel,Intel Iris Xe Graphics,13.4,60,512.0,16.0,DDR4,,алюминиевый сплав,20,1.35
+HP,255 G8,54999.0,75999,1,DOS,8.0,,,,,AMD,Radeon Graphics,15.6,60,256.0,8.0,DDR4,1.0,пластик,7,1.74
+MSI,PRESTIGE 15,174499.0,174499,1,Windows 11 Домашняя 64,4.0,,,,,NVIDIA,GeForce RTX 3050 4GB,15.6,,512.0,16.0,DDR4,1.0,алюминиевый сплав,16,1.65
+HP,VICTUS,106999.0,106999,1,Windows 11,6.0,AMD,Ryzen 5,5600H,3.3,NVIDIA,GeForce RTX 3060 6GB,16.1,144,512.0,8.0,DDR4,1.0,пластик,8.5,2.48
+Lenovo,ThinkPad X,145999.0,145999,3,Windows 10 Pro 64,4.0,,,,,Intel,Intel UHD Graphics 620,13.3,60,256.0,8.0,DDR4,1.0,пластик,17,1.22
+MSI,Pulse GL66,274499.0,274499,1,Windows 11 Домашняя,14.0,Intel,Core i7,12700H,3.5,NVIDIA,GeForce RTX 3070 8GB,15.6,144,1000.0,16.0,DDR4,1.0,алюминиевый сплав,5.17,2.25
+Dell,Vostro,131499.0,131499,1,Windows 10,4.0,,,,,NVIDIA,GeForce MX450 2ГБ,15.6,60,512.0,8.0,DDR4,1.0,алюминиевый сплав,7.75,1.75
+MSI,Bravo 15,118999.0,118999,1,Windows 10 Домашняя,8.0,AMD,Ryzen 7,5800H,3.2,AMD,Radeon RX 5500M 4ГБ,15.6,144,512.0,16.0,DDR4,1.0,алюминиевый сплав,7.75,2.35
+Acer,Extensa,35399.0,35399,1,не установлена,2.0,,,,,AMD,Radeon Graphics,15.6,,256.0,4.0,DDR4,1.0,пластик,9,1.9
+Acer,Extensa,59299.0,59299,1,не установлена,2.0,,,,,AMD,Radeon Vega 3,15.6,,256.0,8.0,DDR4,1.0,пластик,9,1.9
+Dell,Vostro 15,61999.0,68899,1,Linux,4.0,,,,,AMD,Radeon RX Vega 8,15.6,60,256.0,8.0,DDR4,1.0,пластик,5,1.7
+Lenovo,V14,77999.0,77999,1,Windows 10 Pro,2.0,,,,,Intel,UHD Graphics,14,,256.0,4.0,DDR4,1.0,пластик,6,1.6
+Lenovo,IdeaPad 3 15ITL6,41999.0,41999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics,15.6,60,256.0,8.0,DDR4,1.0,пластик,6,3.6
+HP,OMEN,258699.0,258699,1,Windows 10 Домашняя 64,8.0,Intel,Core i7,11800H,2.3,NVIDIA,GeForce RTX 3070 8GB,17.3,144,1000.0,16.0,DDR4,1.0,алюминий/ поликарбонат,6,2.78
+Acer,,53999.0,63999,1,,4.0,,,,,Intel,Intel Iris Plus Graphics,15.6,60,512.0,8.0,DDR4,1.0,пластик,8,1.9
+Acer,Aspire 3,45999.0,45999,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics,15.6,60,512.0,8.0,DDR4,1.0,пластик,7,1.9
+MSI,Summit E16 FLIP,179199.0,179199,2,Windows 10 Pro,4.0,,,,,Intel,Intel Iris Xe Graphics,16,,512.0,16.0,DDR4,,алюминиевый сплав,11,2
+HP,17-cp,68999.0,68999,1,Windows 11 Домашняя,6.0,,,,,AMD,Radeon Graphics,15.6,60,512.0,8.0,DDR4,1.0,пластик,7,2.07
+Lenovo,V15 G2 ALC,57999.0,57999,1,не установлена,8.0,,,,,AMD,Radeon Graphics,15.6,60,512.0,8.0,DDR4,1.0,пластик,8,1.7
+ASUS,TUF Dash F15,146399.0,146399,1,не установлена,10.0,Intel,Core i7,12650H,2.3,NVIDIA,GeForce RTX 3060 6GB,15.6,144,512.0,16.0,DDR5,1.0,алюминиевый сплав/ пластик,12,2
+ASUS,TUF Gaming A15,77999.0,77999,1,не установлена,6.0,AMD,Ryzen 5,4600H,3,NVIDIA,GeForce GTX 1650 4GB,15.6,144,512.0,16.0,DDR4,1.0,пластик,4,2.3
+HUAWEI,,84990.0,84990,1,Windows 10 Pro,4.0,,,,,Intel,Intel UHD Graphics,14,60,512.0,8.0,DDR4,1.0,пластик,9,1.38
+Apple,,260990.0,260990,1,macOS Monterey,10.0,,,,,,интегрированная,,60,1000.0,16.0,,,алюминий,,2.15
+Apple,,179990.0,179990,1,macOS Monterey,10.0,,,,,,интегрированная,,60,512.0,16.0,,,алюминий,,1.61
+Apple,,195990.0,195990,1,macOS Monterey,10.0,,,,,,интегрированная,,60,512.0,16.0,,,алюминий,,1.61
+Apple,,159990.0,159990,1,macOS Monterey,8.0,,,,,,интегрированная,,60,512.0,8.0,,,алюминий,,1.24
+MSI,,168190.0,168190,1,DOS,8.0,,,,,AMD,AMD Radeon,15.6,240,1024.0,,DDR4,1.0,пластик,6,1.96
+Apple,,91490.0,91490,1,macOS,8.0,,,,,,интегрированная,,60,256.0,8.0,,,алюминий,,1.4
+Haier,,17990.0,17990,1,не установлена,2.0,,,,,Intel,Intel HD Graphics,15.6,60,,4.0,LPDDR4,1.0,пластик,,1.6
+Apple,,131990.0,131990,1,macOS,8.0,,,,,Apple,интегрированная,,,2097152.0,8.0,,,алюминий,Да,1.24
+Apple,,219990.0,219990,1,macOS Monterey,10.0,,,,,,интегрированная,,60,1000.0,16.0,,,алюминий,,1.61
+HUAWEI,,114190.0,114190,1,Windows 10 Pro,4.0,,,,,Intel,Intel Iris Xe Graphics,14,60,128.0,8.0,DDR4,1.0,пластик,11,1.49
+Apple,MacBook Air 13 Late 2020 (MGN93LL/A),89990.0,89990,1,macOS,8.0,,,,,Apple,встроенный,,,65536.0,8.0,DDR4,,алюминий,18,1.29
+Apple,,89990.0,89990,1,macOS,8.0,,,,,,интегрированный,,60,65536.0,8.0,,,алюминий,18,1.29
+ASUS,,48990.0,48990,1,Windows 11,6.0,,,,,,Intel UHD Graphics,,,256.0,4.0,,1.0,,,1.45
+Apple,,249990.0,249990,1,macOS,10.0,,,,,,,,,262144.0,16.0,DDR5,,алюминий,21,2.15
+Acer,,47990.0,47990,1,не установлена,2.0,,,,,,Intel UHD Graphics,,,512.0,8.0,DDR4,1.0,алюминий/ пластик,Да,1.7
+ASUS,VivoBook 15 OLED,66590.0,66590,1,Windows 11 Домашняя,4.0,,,,,Intel,Intel Iris Xe Graphics,15.6,60,512.0,8.0,DDR4,1.0,пластик,6,1.8
+Apple,,128990.0,128990,1,macOS Monterey,8.0,,,,,,интегрированная,,60,256.0,8.0,,,алюминий,,1.24
+ASUS,,64990.0,64990,1,DOS,4.0,,,,,Intel,Intel UHD Graphics,15.6,60,256.0,,DDR4,1.0,,5,1.8
+Lenovo,Lenovo IP3,37790.0,37790,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics,15.6,60,256.0,4.0,DDR4,1.0,пластик,5.5,1.65
+realme,Realme CloudPro002,79990.0,79990,1,Windows 11 Домашняя,4.0,,,,,Intel,Intel Iris Xe graphics,14,60,512.0,16.0,LPDDR4,,пластик/ алюминий,11,1.38
+Apple,Apple MacBook Air,103990.0,103990,1,macOS,8.0,,,,,Apple,Apple M2 GPU (интегрированный),,60,65536.0,8.0,,,алюминий,18,1.24
+Apple,,127990.0,127990,1,macOS,8.0,,,,,Apple,Apple M2 (интегрированный),,60,262144.0,8.0,Apple M2,,алюминий,18,1.24
+HP,15-DB1240UR (22N10EA) Grey,60290.0,60290,1,не установлена,2.0,,,,,AMD,Radeon Graphics,15.6,,256.0,4.0,DDR4,1.0,пластик,7,1.8
+ASUS,,85190.0,85190,1,Windows 11 Домашняя,8.0,,,,,,Radeon Graphics,,90,512.0,16.0,,1.0,пластик,,1.4
+Apple,,109990.0,109990,1,macOS,8.0,,,,,Apple,интегрированная,,,524288.0,8.0,,,алюминий,Да,1.24
+Apple,,243990.0,243990,1,macOS Monterey,10.0,,,,,,интегрированная,,60,512.0,16.0,,,алюминий,,2.15
+HP,HP 15s-fq2011ur 2X1R7EA,61490.0,61490,1,не установлена,4.0,,,,,Intel,Intel Iris Xe Graphics,15.6,60,512.0,8.0,DDR4,1.0,пластик,7,1.69
+Apple,,83990.0,83990,1,macOS,8.0,,,,,,интегрированная,,60,256.0,8.0,,,алюминий,,1.4
+Maibenben,X558 156 X558FSGCLGRE0 серый,91990.0,91990,1,Linux,8.0,,,,,,GeForce RTX 3060,,,1024000.0,16.0,DDR4,1.0,пластик,Да,1.96
+Acer,,28990.0,28990,1,Eshell,2.0,,,,,AMD,AMD Radeon,15.6,60,128.0,4.0,DDR4,1.0,пластик,6,1.9
+Lenovo,Lenovo IP3,79990.0,79990,1,не установлена,4.0,,,,,NVIDIA,GeForce MX450 2ГБ,15.6,60,128.0,8.0,DDR4,1.0,пластик,5.5,1.65
+Lenovo,Lenovo IdeaPad 3,39990.0,39990,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics,15.6,60,1000.0,4.0,DDR4,1.0,пластик,6.5,2.2
+Acer,ACER A315-56-33Z3,46990.0,46990,1,не установлена,2.0,,,,,Intel,Intel UHD Graphics,15.6,60,512.0,8.0,DDR4,1.0,ABS-пластик,8,1.9
+Lenovo,V15 G2 ALC 82KD0031RU черный,39990.0,39990,1,не установлена,4.0,,,,,,Radeon Graphics,15.6,90,,4.0,DDR4,1.0,пластик,7,1.7
+ASUS,,88190.0,88190,1,Windows 11 Домашняя,4.0,,,,,,Intel Iris Xe Graphics,,90,512.0,8.0,,1.0,алюминиевый сплав,Да,1.4
+Apple,,109990.0,109990,1,macOS,8.0,,,,,Apple,0,,60,524288.0,8.0,,,алюминий,Да,1.24
+HUAWEI,,79190.0,79190,1,Windows 10 Pro,2.0,,,,,Intel,Intel Iris Xe Graphics,15.6,,512.0,8.0,DDR4,1.0,металл,5,1.56

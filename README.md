@@ -17,8 +17,8 @@
 * browser.py - файл с функциями для поднятия браузера
 * config.py - файл с необходимыми константами
 * marketplaces/base.py - файл основной структуры класса для скраппинга, там находятся основные функции
-* marketplaces/mvideo_base.py - содержит реализацию класса Mvideo для скраппинга данных с [М.Видео](https://www.mvideo.ru/product-list-page/f/tolko-v-nalichii=da?q=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA&category=noutbuki-118 "Данные по ноутбукам")
-* locators/mvideo.py - содержит локаторы для парсинга [М.Видео](https://www.mvideo.ru/product-list-page/f/tolko-v-nalichii=da?q=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA&category=noutbuki-118 "Данные по ноутбукам")
+* marketplaces/{name}.py - содержит реализацию класса Mvideo для скраппинга данных с сайта {name}
+* locators/{name}.py - содержит локаторы для парсинга сайта {name}
 _____
 #### Как аналитика помогает селлеру начать продавать на маркетплейсах
 ___

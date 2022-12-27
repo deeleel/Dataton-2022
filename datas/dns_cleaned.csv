@@ -1,0 +1,481 @@
+Brand;Series;PriceNow;PriceOriginal;Guarantee_year;OS;CoresNumber;Processor;ProcessorType;ProcessorModel;ProcessorFrequency_GHz;GpuManufacturer;GpuController;ScreenSize_inch;ScreenFrequency_GHz;SsdSize_GGb;RAM_GGb;RAM_type;HDMI;Material;Battery_hour;Weight_kg
+Echips;Modern 15 ;44999;52 999;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;2.3;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.75
+MSI;Echips Envy;44999;52 999;1;Windows 10 Pro;4;nan;nan;Intel Celeron J4125;2;nan;Intel UHD Graphics 600;15.6;60;240;8;LPDDR4;1;пластик;nan;2
+MSI;GE77 ;254999;299 999;2;Windows 11 Домашняя;16;nan;nan;Core i9;nan;nan;Intel UHD Graphics;17.3;240;2000;32;DDR5;1;пластик;nan;2.9
+MSI;Stealth 15M ;109799;121 999;2;Windows 11 Домашняя;14;nan;nan;Core i7;1.8;nan;Intel Iris Xe Graphics;15.6;144;1000;16;DDR4;1;алюминий;nan;1.8
+Honor;GE77 ;94499;104 999;1;Windows 11 Домашняя;14;nan;nan;Core i7;nan;nan;Intel UHD Graphics;17.3;144;512;16;DDR4;1;пластик;nan;2.6
+Honor;MagicBook X ;nan;54 999 ?;1;Windows 10 Домашняя;4;nan;nan;Intel Core i5-10210U;1.6;nan;Intel UHD Graphics;15.6;60;512;8;DDR4;1;алюминий;nan;1.56
+MSI;MagicBook 16 ;nan;79 999 ?;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;3.3;nan;AMD Radeon Graphics;16.1;60;512;16;DDR4;1;алюминий;nan;1.84
+Echips;Modern 15 ;44999;52 999;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;2.3;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.75
+MSI;Echips Envy;nan;28 999 ?;1;Windows 10 Pro;4;nan;nan;Intel Celeron J4125;2;nan;Intel UHD Graphics 600;15.6;60;240;8;LPDDR4;1;пластик;nan;2
+MSI;GE77 ;254999;299 999;2;Windows 11 Домашняя;16;nan;nan;Core i9;nan;nan;Intel UHD Graphics;17.3;240;2000;32;DDR5;1;пластик;nan;2.9
+MSI;Stealth 15M ;109799;121 999;2;Windows 11 Домашняя;14;nan;nan;Core i7;1.8;nan;Intel Iris Xe Graphics;15.6;144;1000;16;DDR4;1;алюминий;nan;1.8
+Honor;GE77 ;94499;104 999;1;Windows 11 Домашняя;14;nan;nan;Core i7;nan;nan;Intel UHD Graphics;17.3;144;512;16;DDR4;1;пластик;nan;2.6
+MSI;MagicBook X ;nan;54 999 ?;1;Windows 10 Домашняя;4;nan;nan;Intel Core i5-10210U;1.6;nan;Intel UHD Graphics;15.6;60;512;8;DDR4;1;алюминий;nan;1.56
+Echips;Modern 15 ;44999;52 999;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;2.3;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.75
+MSI;Echips Envy;nan;28 999 ?;1;Windows 10 Pro;4;nan;nan;Intel Celeron J4125;2;nan;Intel UHD Graphics 600;15.6;60;240;8;LPDDR4;1;пластик;nan;2
+MSI;GE77 ;254999;299 999;2;Windows 11 Домашняя;16;nan;nan;Core i9;nan;nan;Intel UHD Graphics;17.3;240;2000;32;DDR5;1;пластик;nan;2.9
+MSI;Stealth 15M ;109799;121 999;2;Windows 11 Домашняя;14;nan;nan;Core i7;1.8;nan;Intel Iris Xe Graphics;15.6;144;1000;16;DDR4;1;алюминий;nan;1.8
+Honor;GE77 ;94499;104 999;1;Windows 11 Домашняя;14;nan;nan;Core i7;nan;nan;Intel UHD Graphics;17.3;144;512;16;DDR4;1;пластик;nan;2.6
+Apple;MagicBook X ;nan;54 999 ?;1;Windows 10 Домашняя;4;nan;nan;Intel Core i5-10210U;1.6;nan;Intel UHD Graphics;15.6;60;512;8;DDR4;1;алюминий;nan;1.56
+Honor;MacBook Pro;156399;169 999;1;macOS;8;nan;nan;Apple M1 Pro;nan;nan;Apple M1 Pro 14-core;14.2;120;512;16;LPDDR5;1;алюминий;nan;1.61
+HUAWEI;MagicBook 16 ;nan;79 999 ?;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;3.3;nan;AMD Radeon Graphics;16.1;60;512;16;DDR4;1;алюминий;nan;1.84
+MSI;MateBook 16;104999;114 999;1;Windows 11 Домашняя;14;nan;nan;Core i9;nan;nan;Intel Iris Xe Graphics;16;60;1000;16;LPDDR5;1;алюминий;nan;1.99
+Maibenben;Modern 14 ;nan;41 999 ?;1;Windows 11 Домашняя;2;nan;nan;Core i3;3;nan;Intel UHD Graphics;14;60;256;8;DDR4;1;алюминий;nan;1.3
+HUAWEI;Maibenben X568;nan;109 999;1;Linux;8;nan;nan;Intel Core i7-11800H;2.3;nan;Intel UHD Graphics;15.6;165;512;16;DDR4;1;магниевый сплав;nan;1.93
+AORUS;MateBook D 15 ;nan;42 999 ?;1;Windows 11 Домашняя;2;nan;nan;Core i3;3;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;алюминий;nan;1.53
+Apple;AORUS 5 ;nan;139 999 ?;2;Windows 11 Домашняя;14;nan;nan;Core i7;3.5;nan;Intel Iris Xe Graphics;15.6;240;1000;16;DDR4;1;пластик;nan;2.3
+MSI;MacBook Pro;156399;169 999;1;macOS;8;nan;nan;Apple M1 Pro;nan;nan;Apple M1 Pro 14-core;14.2;120;512;16;LPDDR5;1;алюминий;nan;1.61
+MSI;GE77 ;178499;209 999;2;Windows 11 Домашняя;14;nan;nan;Core i7;nan;nan;Intel UHD Graphics;17.3;360;2000;32;DDR4;1;алюминий;nan;2.9
+Honor;Modern 15 ;56099;65 999;1;Windows 11 Домашняя;10;nan;nan;Core i7;nan;nan;Intel Iris Xe Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.7
+Apple;MagicBook X ;nan;54 999 ?;1;Windows 10 Домашняя;4;nan;nan;Intel Core i5-10210U;1.6;nan;Intel UHD Graphics;14;60;512;8;DDR4;1;алюминий;nan;1.38
+MSI;MacBook Pro;124699;135 499;1;macOS;8;nan;nan;Apple M2;nan;nan;Apple M2 10-core;13.3;60;512;8;DDR4;1;алюминий;nan;1.4
+Echips;Modern 15 ;44999;52 999;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;2.3;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.75
+Echips;Echips Envy;nan;28 999 ?;1;Windows 10 Pro;4;nan;nan;Intel Celeron J4125;2;nan;Intel UHD Graphics 600;15.6;60;240;8;LPDDR4;1;пластик;nan;2
+MSI;Echips Envy;nan;28 999 ?;1;Windows 10 Pro;4;nan;nan;Intel Celeron J4125;2;nan;Intel UHD Graphics 600;15.6;60;240;8;LPDDR4;1;пластик;nan;2
+MSI;GE77 ;254999;299 999;2;Windows 11 Домашняя;16;nan;nan;Core i9;nan;nan;Intel UHD Graphics;17.3;240;2000;32;DDR5;1;пластик;nan;2.9
+MSI;Stealth 15M ;109799;121 999;2;Windows 11 Домашняя;14;nan;nan;Core i7;1.8;nan;Intel Iris Xe Graphics;15.6;144;1000;16;DDR4;1;алюминий;nan;1.8
+Honor;GE77 ;94499;104 999;1;Windows 11 Домашняя;14;nan;nan;Core i7;nan;nan;Intel UHD Graphics;17.3;144;512;16;DDR4;1;пластик;nan;2.6
+Apple;MagicBook X ;nan;54 999 ?;1;Windows 10 Домашняя;4;nan;nan;Intel Core i5-10210U;1.6;nan;Intel UHD Graphics;15.6;60;512;8;DDR4;1;алюминий;nan;1.56
+Honor;MacBook Pro;156399;169 999;1;macOS;8;nan;nan;Apple M1 Pro;nan;nan;Apple M1 Pro 14-core;14.2;120;512;16;LPDDR5;1;алюминий;nan;1.61
+HUAWEI;MagicBook 16 ;nan;79 999 ?;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;3.3;nan;AMD Radeon Graphics;16.1;60;512;16;DDR4;1;алюминий;nan;1.84
+MSI;MateBook 16;104999;114 999;1;Windows 11 Домашняя;14;nan;nan;Core i9;nan;nan;Intel Iris Xe Graphics;16;60;1000;16;LPDDR5;1;алюминий;nan;1.99
+Maibenben;Modern 14 ;nan;41 999 ?;1;Windows 11 Домашняя;2;nan;nan;Core i3;3;nan;Intel UHD Graphics;14;60;256;8;DDR4;1;алюминий;nan;1.3
+HUAWEI;Maibenben X568;79199;109 999;1;Linux;8;nan;nan;Intel Core i7-11800H;2.3;nan;Intel UHD Graphics;15.6;165;512;16;DDR4;1;магниевый сплав;nan;1.93
+AORUS;MateBook D 15 ;nan;42 999 ?;1;Windows 11 Домашняя;2;nan;nan;Core i3;3;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;алюминий;nan;1.53
+Apple;AORUS 5 ;nan;139 999 ?;2;Windows 11 Домашняя;14;nan;nan;Core i7;3.5;nan;Intel Iris Xe Graphics;15.6;240;1000;16;DDR4;1;пластик;nan;2.3
+MSI;MacBook Pro;156399;169 999;1;macOS;8;nan;nan;Apple M1 Pro;nan;nan;Apple M1 Pro 14-core;14.2;120;512;16;LPDDR5;1;алюминий;nan;1.61
+MSI;GE77 ;178499;209 999;2;Windows 11 Домашняя;14;nan;nan;Core i7;nan;nan;Intel UHD Graphics;17.3;360;2000;32;DDR4;1;алюминий;nan;2.9
+Honor;Modern 15 ;56099;65 999;1;Windows 11 Домашняя;10;nan;nan;Core i7;nan;nan;Intel Iris Xe Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.7
+AORUS;MagicBook X ;nan;54 999 ?;1;Windows 10 Домашняя;4;nan;nan;Intel Core i5-10210U;1.6;nan;Intel UHD Graphics;14;60;512;8;DDR4;1;алюминий;nan;1.38
+MSI;AORUS 15 ;nan;149 999 ?;2;Windows 11 Домашняя;14;nan;nan;Core i7;2.3;nan;Intel Iris Xe Graphics;15.6;165;1000;16;DDR4;1;пластик;nan;2.4
+Echips;Modern 15 ;44999;52 999;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;2.3;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.75
+MSI;Echips Envy;nan;28 999 ?;1;Windows 10 Pro;4;nan;nan;Intel Celeron J4125;2;nan;Intel UHD Graphics 600;15.6;60;240;8;LPDDR4;1;пластик;nan;2
+MSI;GE77 ;254999;299 999;2;Windows 11 Домашняя;16;nan;nan;Core i9;nan;nan;Intel UHD Graphics;17.3;240;2000;32;DDR5;1;пластик;nan;2.9
+MSI;Stealth 15M ;109799;121 999;2;Windows 11 Домашняя;14;nan;nan;Core i7;1.8;nan;Intel Iris Xe Graphics;15.6;144;1000;16;DDR4;1;алюминий;nan;1.8
+Honor;GE77 ;94499;104 999;1;Windows 11 Домашняя;14;nan;nan;Core i7;nan;nan;Intel UHD Graphics;17.3;144;512;16;DDR4;1;пластик;nan;2.6
+AORUS;MagicBook X ;nan;54 999 ?;1;Windows 10 Домашняя;4;nan;nan;Intel Core i5-10210U;1.6;nan;Intel UHD Graphics;15.6;60;512;8;DDR4;1;алюминий;nan;1.56
+MSI;AORUS 15 ;nan;149 999 ?;2;Windows 11 Домашняя;14;nan;nan;Core i7;2.3;nan;Intel Iris Xe Graphics;15.6;165;1000;16;DDR4;1;пластик;nan;2.4
+Echips;Modern 15 ;44999;52 999;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;2.3;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.75
+MSI;Echips Envy;nan;28 999 ?;1;Windows 10 Pro;4;nan;nan;Intel Celeron J4125;2;nan;Intel UHD Graphics 600;15.6;60;240;8;LPDDR4;1;пластик;nan;2
+MSI;GE77 ;254999;299 999;2;Windows 11 Домашняя;16;nan;nan;Core i9;nan;nan;Intel UHD Graphics;17.3;240;2000;32;DDR5;1;пластик;nan;2.9
+MSI;Stealth 15M ;109799;121 999;2;Windows 11 Домашняя;14;nan;nan;Core i7;1.8;nan;Intel Iris Xe Graphics;15.6;144;1000;16;DDR4;1;алюминий;nan;1.8
+Honor;GE77 ;94499;104 999;1;Windows 11 Домашняя;14;nan;nan;Core i7;nan;nan;Intel UHD Graphics;17.3;144;512;16;DDR4;1;пластик;nan;2.6
+Apple;MagicBook X ;nan;54 999 ?;1;Windows 10 Домашняя;4;nan;nan;Intel Core i5-10210U;1.6;nan;Intel UHD Graphics;15.6;60;512;8;DDR4;1;алюминий;nan;1.56
+Apple;MacBook Pro;156399;169 999;1;macOS;8;nan;nan;Apple M1 Pro;nan;nan;Apple M1 Pro 14-core;14.2;120;512;16;LPDDR5;1;алюминий;nan;1.61
+Honor;MacBook Pro;156399;169 999;1;macOS;8;nan;nan;Apple M1 Pro;nan;nan;Apple M1 Pro 14-core;14.2;120;512;16;LPDDR5;1;алюминий;nan;1.61
+HUAWEI;MagicBook 16 ;nan;79 999 ?;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;3.3;nan;AMD Radeon Graphics;16.1;60;512;16;DDR4;1;алюминий;nan;1.84
+MSI;MateBook 16;104999;114 999;1;Windows 11 Домашняя;14;nan;nan;Core i9;nan;nan;Intel Iris Xe Graphics;16;60;1000;16;LPDDR5;1;алюминий;nan;1.99
+Maibenben;Modern 14 ;nan;41 999 ?;1;Windows 11 Домашняя;2;nan;nan;Core i3;3;nan;Intel UHD Graphics;14;60;256;8;DDR4;1;алюминий;nan;1.3
+HUAWEI;Maibenben X568;79199;109 999;1;Linux;8;nan;nan;Intel Core i7-11800H;2.3;nan;Intel UHD Graphics;15.6;165;512;16;DDR4;1;магниевый сплав;nan;1.93
+AORUS;MateBook D 15 ;nan;42 999 ?;1;Windows 11 Домашняя;2;nan;nan;Core i3;3;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;алюминий;nan;1.53
+Apple;AORUS 5 ;nan;139 999 ?;2;Windows 11 Домашняя;14;nan;nan;Core i7;3.5;nan;Intel Iris Xe Graphics;15.6;240;1000;16;DDR4;1;пластик;nan;2.3
+MSI;MacBook Pro;156399;169 999;1;macOS;8;nan;nan;Apple M1 Pro;nan;nan;Apple M1 Pro 14-core;14.2;120;512;16;LPDDR5;1;алюминий;nan;1.61
+MSI;GE77 ;178499;209 999;2;Windows 11 Домашняя;14;nan;nan;Core i7;nan;nan;Intel UHD Graphics;17.3;360;2000;32;DDR4;1;алюминий;nan;2.9
+AORUS;Modern 15 ;56099;65 999;1;Windows 11 Домашняя;10;nan;nan;Core i7;nan;nan;Intel Iris Xe Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.7
+AORUS;AORUS 15 ;nan;139 999 ?;2;не установлена;14;nan;nan;Intel Core i7-12700H;3.5;nan;Intel Iris Xe Graphics;15.6;165;1000;16;DDR4;1;пластик;nan;2.4
+AORUS;AORUS 15 ;nan;149 999 ?;2;Windows 11 Домашняя;14;nan;nan;Core i7;2.3;nan;Intel Iris Xe Graphics;15.6;165;1000;16;DDR4;1;пластик;nan;2.4
+AORUS;AORUS 15 ;nan;139 999 ?;2;не установлена;14;nan;nan;Intel Core i7-12700H;3.5;nan;Intel Iris Xe Graphics;15.6;165;1000;16;DDR4;1;пластик;nan;2.4
+MSI;AORUS 15;nan;149 999 ?;2;Windows 11 Домашняя;14;nan;nan;Core i7;2.3;nan;Intel Iris Xe Graphics;15.6;165;1000;16;DDR4;1;пластик;nan;2.4
+Echips;Modern 15 ;44999;52 999;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;2.3;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.75
+MSI;Echips Envy;nan;28 999 ?;1;Windows 10 Pro;4;nan;nan;Intel Celeron J4125;2;nan;Intel UHD Graphics 600;15.6;60;240;8;LPDDR4;1;пластик;nan;2
+MSI;Stealth 15M ;109799;121 999;2;Windows 11 Домашняя;14;nan;nan;Core i7;1.8;nan;Intel Iris Xe Graphics;15.6;144;1000;16;DDR4;1;алюминий;nan;1.8
+Honor;GE77 ;94499;104 999;1;Windows 11 Домашняя;14;nan;nan;Core i7;nan;nan;Intel UHD Graphics;17.3;144;512;16;DDR4;1;пластик;nan;2.6
+Apple;MagicBook X ;nan;54 999 ?;1;Windows 10 Домашняя;4;nan;nan;Intel Core i5-10210U;1.6;nan;Intel UHD Graphics;15.6;60;512;8;DDR4;1;алюминий;nan;1.56
+Honor;MacBook Pro;nan;169 999;1;macOS;8;nan;nan;Apple M1 Pro;nan;nan;Apple M1 Pro 14-core;14.2;120;512;16;LPDDR5;1;алюминий;nan;1.61
+HUAWEI;MagicBook 16 ;nan;79 999 ?;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;3.3;nan;AMD Radeon Graphics;16.1;60;512;16;DDR4;1;алюминий;nan;1.84
+MSI;MateBook 16;104999;114 999;1;Windows 11 Домашняя;14;nan;nan;Core i9;nan;nan;Intel Iris Xe Graphics;16;60;1000;16;LPDDR5;1;алюминий;nan;1.99
+Maibenben;Modern 14 ;nan;41 999 ?;1;Windows 11 Домашняя;2;nan;nan;Core i3;3;nan;Intel UHD Graphics;14;60;256;8;DDR4;1;алюминий;nan;1.3
+HUAWEI;Maibenben X568;79199;109 999;1;Linux;8;nan;nan;Intel Core i7-11800H;2.3;nan;Intel UHD Graphics;15.6;165;512;16;DDR4;1;магниевый сплав;nan;1.93
+AORUS;MateBook D 15 ;nan;42 999 ?;1;Windows 11 Домашняя;2;nan;nan;Core i3;3;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;алюминий;nan;1.53
+Apple;AORUS 5 ;nan;139 999 ?;2;Windows 11 Домашняя;14;nan;nan;Core i7;3.5;nan;Intel Iris Xe Graphics;15.6;240;1000;16;DDR4;1;пластик;nan;2.3
+MSI;MacBook Pro;156399;169 999;1;macOS;8;nan;nan;Apple M1 Pro;nan;nan;Apple M1 Pro 14-core;14.2;120;512;16;LPDDR5;1;алюминий;nan;1.61
+MSI;GE77 ;178499;209 999;2;Windows 11 Домашняя;14;nan;nan;Core i7;nan;nan;Intel UHD Graphics;17.3;360;2000;32;DDR4;1;алюминий;nan;2.9
+Honor;Modern 15 ;56099;65 999;1;Windows 11 Домашняя;10;nan;nan;Core i7;nan;nan;Intel Iris Xe Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.7
+Apple;MagicBook X ;nan;54 999 ?;1;Windows 10 Домашняя;4;nan;nan;Intel Core i5-10210U;1.6;nan;Intel UHD Graphics;14;60;512;8;DDR4;1;алюминий;nan;1.38
+Honor;MacBook Pro;156399;169 999;1;macOS;8;nan;nan;Apple M1 Pro;nan;nan;Apple M1 Pro 14-core;14.2;120;512;16;LPDDR5;1;алюминий;nan;1.61
+AORUS;MagicBook 16 ;nan;79 999 ?;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;3.3;nan;AMD Radeon Graphics;16.1;60;512;16;DDR4;1;алюминий;nan;1.84
+AORUS;AORUS 15 ;nan;149 999 ?;2;Windows 11 Домашняя;14;nan;nan;Core i7;2.3;nan;Intel Iris Xe Graphics;15.6;165;1000;16;DDR4;1;пластик;nan;2.4
+AORUS;AORUS 15 ;nan;149 999 ?;2;Windows 11 Домашняя;14;nan;nan;Core i7;2.3;nan;Intel Iris Xe Graphics;15.6;165;1000;16;DDR4;1;пластик;nan;2.4
+MSI;AORUS 15 ;nan;149 999 ?;2;Windows 11 Домашняя;14;nan;nan;Core i7;2.3;nan;Intel Iris Xe Graphics;15.6;165;1000;16;DDR4;1;пластик;nan;2.4
+AORUS;Modern 15 ;44999;52 999;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;2.3;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.75
+MSI;AORUS 15 ;nan;"149 999 ?
+от 14 622 ?/ мес.";2;Windows 11 Домашняя;14;nan;nan;Core i7;2.3;nan;Intel Iris Xe Graphics;15.6;165;1000;16;DDR4;1;пластик;nan;2.4
+Echips;Modern 15 ;44999;52 999;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;2.3;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.75
+MSI;Echips Envy;nan;"28 999 ?
+от 2 827 ?/ мес.";1;Windows 10 Pro;4;nan;nan;Intel Celeron J4125;2;nan;Intel UHD Graphics 600;15.6;60;240;8;LPDDR4;1;пластик;nan;2
+MSI;GE77 ;254999;299 999;2;Windows 11 Домашняя;16;nan;nan;Core i9;nan;nan;Intel UHD Graphics;17.3;240;2000;32;DDR5;1;пластик;nan;2.9
+AORUS;Stealth 15M ;109799;121 999;2;Windows 11 Домашняя;14;nan;nan;Core i7;1.8;nan;Intel Iris Xe Graphics;15.6;144;1000;16;DDR4;1;алюминий;nan;1.8
+AORUS;AORUS 15 ;nan;"149 999 ?
+от 14 622 ?/ мес.";2;Windows 11 Домашняя;14;nan;nan;Core i7;2.3;nan;Intel Iris Xe Graphics;15.6;165;1000;16;DDR4;1;пластик;nan;2.4
+MSI;AORUS 15 ;nan;149 999 ?;2;Windows 11 Домашняя;14;nan;nan;Core i7;2.3;nan;Intel Iris Xe Graphics;15.6;165;1000;16;DDR4;1;пластик;nan;2.4
+Echips;Modern 15 ;44999;52 999;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;2.3;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.75
+MSI;Echips Envy;nan;28 999 ?;1;Windows 10 Pro;4;nan;nan;Intel Celeron J4125;2;nan;Intel UHD Graphics 600;15.6;60;240;8;LPDDR4;1;пластик;nan;2
+MSI;GE77 ;254999;299 999;2;Windows 11 Домашняя;16;nan;nan;Core i9;nan;nan;Intel UHD Graphics;17.3;240;2000;32;DDR5;1;пластик;nan;2.9
+MSI;Stealth 15M ;109799;121 999;2;Windows 11 Домашняя;14;nan;nan;Core i7;1.8;nan;Intel Iris Xe Graphics;15.6;144;1000;16;DDR4;1;алюминий;nan;1.8
+Honor;GE77 ;94499;104 999;1;Windows 11 Домашняя;14;nan;nan;Core i7;nan;nan;Intel UHD Graphics;17.3;144;512;16;DDR4;1;пластик;nan;2.6
+Apple;MagicBook X ;nan;54 999 ?;1;Windows 10 Домашняя;4;nan;nan;Intel Core i5-10210U;1.6;nan;Intel UHD Graphics;15.6;60;512;8;DDR4;1;алюминий;nan;1.56
+Honor;MacBook Pro;156399;169 999;1;macOS;8;nan;nan;Apple M1 Pro;nan;nan;Apple M1 Pro 14-core;14.2;120;512;16;LPDDR5;1;алюминий;nan;1.61
+AORUS;MagicBook 16 ;nan;79 999 ?;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;3.3;nan;AMD Radeon Graphics;16.1;60;512;16;DDR4;1;алюминий;nan;1.84
+MSI;AORUS 15 ;nan;149 999 ?;2;Windows 11 Домашняя;14;nan;nan;Core i7;2.3;nan;Intel Iris Xe Graphics;15.6;165;1000;16;DDR4;1;пластик;nan;2.4
+Apple;Modern 15 ;44999;52 999;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;2.3;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.75
+Maibenben;MacBook Pro;124699;135 499;1;macOS;8;nan;nan;Apple M2;nan;nan;Apple M2 10-core;13.3;60;512;8;DDR4;1;алюминий;nan;1.4
+MSI;Maibenben X568;114999;134 999;1;не установлена;8;nan;nan;Intel Core i7-11800H;2.3;nan;Intel UHD Graphics;15.6;165;512;16;DDR4;1;магниевый сплав;nan;1.93
+MSI;Prestige 14 ;71999;79 999;1;Windows 11 Домашняя;12;nan;nan;Core i5;1.7;nan;Intel Iris Xe Graphics;14;60;512;16;LPDDR4x;1;алюминий;nan;1.29
+MSI;Modern 14 ;46699;54 999;1;Windows 11 Домашняя;10;nan;nan;Core i5;nan;nan;Intel Iris Xe Graphics;14;60;512;16;DDR4;1;пластик;nan;1.4
+Honor;Katana GF76 ;79199;87 999;1;Windows 11 Домашняя;8;nan;nan;Core i5;nan;nan;Intel UHD Graphics;17.3;144;512;16;DDR4;1;пластик;nan;2.6
+Acer;MagicBook X ;nan;49 999 ?;1;Windows 10 Домашняя;2;nan;nan;Intel Core i3-10110U;2.1;nan;Intel UHD Graphics;14;60;256;8;DDR4;1;алюминий;nan;1.38
+MSI;Echips Envy;79999;89 999;1;Windows 11 Домашняя;6;nan;nan;AMD Ryzen 5 5500U;2.1;nan;AMD Radeon Graphics;15.6;144;512;8;DDR4;1;пластик;nan;2.15
+MSI;Katana GF76 ;71999;79 999;1;не установлена;8;nan;nan;Intel Core i5-12450H;nan;nan;Intel UHD Graphics;17.3;144;512;16;DDR4;1;пластик;nan;2.6
+Acer;Summit E13 ;107999;119 999;1;Windows 11 Pro;14;nan;nan;Intel Core i7-1280P;1.8;nan;Intel Iris Xe Graphics;13.4;120;512;16;LPDDR5;1;алюминий;nan;1.35
+Apple;Aspire 5;nan;54 999 ?;1;Windows 10 Домашняя;6;nan;nan;AMD Ryzen 5 5500U;2.1;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.8
+Apple;MacBook Air;80999;87 999;1;macOS;8;nan;nan;Apple M1;nan;nan;Apple M1 7-core;13.3;60;256;8;DDR4;1;алюминий;nan;1.29
+MSI;MacBook Pro;104899;113 999;1;macOS;8;nan;nan;Apple M2;nan;nan;Apple M2 10-core;13.3;60;256;8;DDR4;1;алюминий;nan;1.4
+MSI;Prestige 14 ;89099;98 999;1;Windows 11 Домашняя;14;nan;nan;Core i7;1.8;nan;Intel Iris Xe Graphics;14;60;512;16;LPDDR4x;1;алюминий;nan;1.29
+MSI;Katana GF76 ;89999;99 999;1;Windows 11 Домашняя;10;nan;nan;Core i7;nan;nan;Intel UHD Graphics;17.3;144;512;16;DDR4;1;пластик;nan;2.6
+HUAWEI;Vector GP66 ;188999;209 999;1;не установлена;14;nan;nan;Intel Core i7-12700H;2.3;nan;Intel Iris Xe Graphics;15.6;240;1000;16;DDR4;1;пластик;nan;2.38
+MSI;MateBook X Pro ;119999;131 999;1;Windows 11 Домашняя;12;nan;nan;Core i7;nan;nan;Intel Iris Xe Graphics;14.2;90;1000;16;LPDDR5;1;магниевый сплав;nan;1.26
+MSI;Prestige 14 ;80999;89 999;1;Windows 11 Домашняя;12;nan;nan;Core i5;1.7;nan;Intel Iris Xe Graphics;14;60;512;16;LPDDR4x;1;алюминий;nan;1.29
+MSI;Summit E16 ;93599;103 999;1;Windows 11 Pro;12;nan;nan;Intel Core i5-1240P;1.7;nan;Intel Iris Xe Graphics;16;165;512;16;LPDDR5;1;алюминий;nan;1.9
+MSI;Katana GF76 ;79199;87 999;1;не установлена;10;nan;nan;Intel Core i7-12650H;nan;nan;Intel UHD Graphics;17.3;144;512;16;DDR4;1;пластик;nan;2.6
+GIGABYTE;Modern 15 ;50099;58 999;1;Windows 11 Домашняя;10;nan;nan;Core i5;nan;nan;Intel Iris Xe Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.7
+Irbis;GIGABYTE AERO ;nan;164 999 ?;2;Windows 11 Pro;14;nan;nan;Intel Core i7-12700H;2.3;nan;Intel Iris Xe Graphics;16;60;1000;16;DDR5;1;алюминий;nan;2.3
+Lenovo;Irbis ;nan;19 999 ?;1;Windows 10 Pro;4;nan;nan;Intel Pentium J3710;1.6;nan;Intel HD Graphics;15.6;60;нет;4;LPDDR4;1;пластик;nan;1.57
+Apple;Lenovo V15 ;nan;49 999 ?;1;не установлена;6;nan;nan;AMD Ryzen 5 5500U;2.1;nan;AMD Radeon Graphics;15.6;60;512;8;DDR4;1;пластик;nan;1.7
+MSI;MacBook Air;80999;87 999;1;macOS;8;nan;nan;Apple M1;nan;nan;Apple M1 7-core;13.3;60;256;8;DDR4;1;алюминий;nan;1.29
+HP;Creator Z17;nan;224 999 ?;2;Windows 11 Pro;14;nan;nan;Intel Core i7-12700H;nan;nan;Intel UHD Graphics;17.3;165;1000;16;DDR5;1;алюминий;nan;2.49
+MSI;Laptop 17;nan;79 999 ?;1;не установлена;6;nan;nan;AMD Ryzen 5 5500U;2.1;nan;AMD Radeon Graphics;17.3;60;512;16;DDR4;1;пластик;nan;2.07
+Lenovo;Modern 15 ;47599;55 999;1;не установлена;10;nan;nan;Intel Core i5-1235U;nan;nan;Intel Iris Xe Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.7
+Lenovo;Lenovo V15 ;nan;41 999 ?;1;не установлена;2;nan;nan;Intel Core i3-1115G4;3;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.7
+AORUS;Lenovo V15 ;nan;74 999 ?;1;не установлена;10;nan;nan;Intel Core i7-1255U;1.7;nan;Intel UHD Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.7
+Chuwi;AORUS 5 ;nan;136 999 ?;2;Windows 11 Домашняя;14;nan;nan;Core i7;2.7;nan;Intel Iris Xe Graphics;15.6;240;1000;16;DDR4;1;пластик;nan;2.3
+MSI;CoreBook XPro;nan;47 999 ?;1;Windows 11 Домашняя;4;nan;nan;Core i5;1.6;nan;Intel UHD Graphics;15.6;60;512;16;DDR4;1;алюминий;nan;1.78
+MSI;Summit E13 ;98999;109 999;1;Windows 11 Pro;12;nan;nan;Intel Core i5-1240P;1.7;nan;Intel Iris Xe Graphics;13.4;120;1000;16;LPDDR5;1;алюминий;nan;1.35
+Lenovo;Katana GF76 ;76499;84 999;1;не установлена;8;nan;nan;Intel Core i5-12450H;nan;nan;Intel UHD Graphics;17.3;144;512;16;DDR4;1;пластик;nan;2.6
+GIGABYTE;IdeaPad 3;nan;37 999 ?;1;не установлена;4;nan;nan;AMD Ryzen 3 5300U;2.6;nan;AMD Radeon Graphics;15.6;60;нет;4;DDR4;1;пластик;nan;1.65
+HP;GIGABYTE A5 ;nan;144 999 ?;2;Windows 11 Домашняя;8;nan;nan;Ryzen 9;3.3;nan;AMD Radeon Graphics;15.6;240;512;16;DDR4;1;пластик;nan;2.12
+Lenovo;Victus 16;nan;94 999 ?;1;не установлена;6;nan;nan;Intel Core i5-11400H;2.7;nan;Intel UHD Graphics;16.1;144;512;16;DDR4;1;пластик;nan;2.46
+Apple;Lenovo V15 ;nan;42 999 ?;1;не установлена;4;nan;nan;AMD Ryzen 3 5300U;2.6;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.7
+Apple;MacBook Air;102999;111 999;1;macOS;8;nan;nan;Apple M2;nan;nan;Apple M2 8-core;13.6;60;256;8;LPDDR5;1;алюминий;nan;1.24
+Honor;MacBook Air;80999;87 999;1;macOS;8;nan;nan;Apple M1;nan;nan;Apple M1 7-core;13.3;60;256;8;DDR4;1;алюминий;nan;1.29
+Lenovo;MagicBook X ;nan;47 999 ?;1;Windows 10 Домашняя;2;nan;nan;Intel Core i3-10110U;2.1;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;алюминий;nan;1.6
+Apple;IdeaPad 3;nan;59 999 ?;1;не установлена;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel Iris Xe Graphics;15.6;60;512;8;DDR4;1;пластик;nan;1.7
+HP;MacBook Pro;104899;113 999;1;macOS;8;nan;nan;Apple M2;nan;nan;Apple M2 10-core;13.3;60;256;8;DDR4;1;алюминий;nan;1.4
+Lenovo;Laptop 15s;nan;74 999 ?;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;2.1;nan;AMD Radeon Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.69
+MSI;IdeaPad 3;nan;41 999 ?;1;не установлена;6;nan;nan;Intel Core i3-1215U;nan;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.7
+Lenovo;Katana GF76 ;103499;114 999;1;Windows 11 Домашняя;10;nan;nan;Core i7;nan;nan;Intel UHD Graphics;17.3;144;1000;16;DDR4;1;пластик;nan;2.6
+MSI;IdeaPad 3;nan;34 499 ?;1;не установлена;2;nan;nan;Intel Core i3-1115G4;3;nan;Intel UHD Graphics;15.6;60;нет;4;DDR4;1;пластик;nan;1.65
+Lenovo;Modern 14 ;42499;49 999;1;Windows 11 Домашняя;10;nan;nan;Core i5;nan;nan;Intel Iris Xe Graphics;14;60;512;8;DDR4;1;пластик;nan;1.4
+Lenovo;Legion 5 ;nan;83 999 ?;2;не установлена;6;nan;nan;Intel Core i5-10500Н;2.5;nan;Intel UHD Graphics;15.6;120;256;16;DDR4;1;пластик;nan;2.3
+Maibenben;Lenovo V15 ;nan;57 999 ?;1;не установлена;10;nan;nan;Intel Core i7-1255U;1.7;nan;Intel UHD Graphics;15.6;60;512;8;DDR4;1;пластик;nan;1.7
+Acer;Maibenben M547;42999;49 999;1;не установлена;8;nan;nan;AMD Ryzen 7 4700U;2;nan;AMD Radeon Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.75
+ASUS;;79999;85 999;1;не установлена;6;nan;nan;Intel Core i5-11400H;2.7;nan;Intel UHD Graphics;15.6;144;512;16;DDR4;1;пластик;nan;2.3
+Lenovo;VivoBook Pro 14 ;nan;67 999 ?;1;не установлена;4;nan;nan;Intel Core i7-11370H;3.3;nan;Intel Iris Xe Graphics;14;60;512;8;DDR4;1;пластик;nan;1.4
+ASUS;ThinkBook 15;nan;119 999 ?;1;Windows 11 Pro;10;nan;nan;Intel Core i7-1255U;1.7;nan;Intel UHD Graphics;15.6;60;1000;16;DDR4;1;пластик;nan;1.7
+MSI;VivoBook 15 ;nan;74 999 ?;1;не установлена;8;nan;nan;Intel Core i7-10870H;2.2;nan;Intel UHD Graphics;15.6;60;512;16;DDR4;1;пластик;nan;2.14
+Apple;Katana GF76 ;84599;93 999;1;не установлена;8;nan;nan;Intel Core i5-12450H;nan;nan;Intel UHD Graphics;17.3;144;512;16;DDR4;1;пластик;nan;2.6
+Chuwi;MacBook Air;102999;111 999;1;macOS;8;nan;nan;Apple M2;nan;nan;Apple M2 8-core;13.6;60;256;8;LPDDR5;1;алюминий;nan;1.24
+Acer;CoreBook XPro;nan;44 999 ?;1;Windows 11 Домашняя;4;nan;nan;Core i5;1.6;nan;Intel UHD Graphics;15.6;60;512;8;DDR4;1;алюминий;nan;1.78
+Chuwi;Swift X ;nan;69 999 ?;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;2.3;nan;AMD Radeon Graphics;14;60;512;8;LPDDR4x;1;алюминий;nan;1.39
+HP;CoreBook XPro;nan;49 999 ?;1;Windows 11 Домашняя;4;nan;nan;Core i5;1.6;nan;Intel UHD Graphics;15.6;60;1000;16;DDR4;1;алюминий;nan;1.78
+MSI;Laptop 15s;nan;48 999 ?;1;Windows 10 Домашняя;4;nan;nan;AMD Ryzen 3 5300U;2.6;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.69
+Lenovo;Summit E13 ;89999;99 999;1;Windows 11 Pro;12;nan;nan;Intel Core i5-1240P;1.7;nan;Intel Iris Xe Graphics;13.4;120;512;16;LPDDR5;1;алюминий;nan;1.35
+Irbis;Lenovo V15 ;nan;59 999 ?;1;Windows 11 Pro;10;nan;nan;Intel Core i5-1235U;1.3;nan;Intel UHD Graphics;15.6;60;512;8;DDR4;1;пластик;nan;1.7
+Lenovo;Irbis ;nan;15 999 ?;1;Windows 10 Pro;2;nan;nan;Intel Celeron N4020;1.1;nan;Intel UHD Graphics 600;14.1;60;нет;4;LPDDR4;1;пластик;nan;1.28
+Lenovo;IdeaPad 3;nan;85 999 ?;1;не установлена;6;nan;nan;AMD Ryzen 5 5600H;3.3;nan;AMD Radeon Graphics;15.6;60;512;16;DDR4;1;пластик;nan;2.25
+Honor;IdeaPad 3;nan;89 999 ?;1;не установлена;6;nan;nan;AMD Ryzen 5 5600H;3.3;nan;AMD Radeon Graphics;15.6;120;512;16;DDR4;1;пластик;nan;2.25
+Lenovo;MagicBook 16 ;nan;69 999 ?;1;Windows 10 Домашняя;6;nan;nan;AMD Ryzen 5 5500U;2.1;nan;AMD Radeon Graphics;15.6;60;512;8;DDR4;1;алюминий;nan;1.53
+Acer;Lenovo V15 ;25199;27 999;1;не установлена;2;nan;nan;AMD 3020e;1.2;nan;AMD Radeon Graphics;15.6;60;256;4;DDR4;1;пластик;nan;1.85
+Lenovo;Aspire 3;41999;46 999;1;Windows 11 Домашняя;2;nan;nan;Core i3;3;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.9
+ASUS;Lenovo V15 ;nan;43 999 ?;1;не установлена;4;nan;nan;AMD Ryzen 3 5300U;2.6;nan;AMD Radeon Graphics;15.6;60;нет;8;DDR4;1;пластик;nan;1.7
+HP;ZenBook 14 ;80999;89 999;1;Windows 10 Домашняя;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel Iris Xe Graphics;14;60;512;16;LPDDR4x;1;алюминий;nan;0.98
+Lenovo;Laptop 14;nan;38 999 ?;1;не установлена;2;nan;nan;AMD Ryzen 3 3250U;2.6;nan;AMD Radeon Graphics;14;60;256;8;DDR4;1;пластик;nan;1.46
+ASUS;Lenovo V15 ;nan;57 999 ?;1;не установлена;8;nan;nan;AMD Ryzen 7 5700U;1.8;nan;AMD Radeon Vega 8;15.6;60;512;8;DDR4;1;пластик;nan;1.7
+ASUS;VivoBook Pro 14 ;65999;74 999;1;Windows 11 Домашняя;4;nan;nan;Core i5;3.1;nan;Intel Iris Xe Graphics;14;90;512;8;DDR4;1;пластик;nan;1.4
+Lenovo;Laptop 15 ;nan;32 999 ?;1;не установлена;2;nan;nan;Intel Pentium Gold 7505;2;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.8
+Lenovo;IdeaPad 3;nan;37 999 ?;1;не установлена;2;nan;nan;Intel Core i3-10110U;2.1;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.7
+Lenovo;IdeaPad 3;nan;37 999 ?;1;не установлена;2;nan;nan;Intel Core i3-10110U;2.1;nan;Intel UHD Graphics;15.6;60;нет;4;DDR4;1;пластик;nan;1.7
+Irbis;IdeaPad 3;nan;42 999 ?;1;Windows 10 Домашняя;2;nan;nan;Intel Core i3-1115G4;3;nan;Intel UHD Graphics;15.6;60;нет;8;DDR4;1;пластик;nan;2.2
+Apple;Irbis ;nan;22 999 ?;1;Windows 10 Домашняя;4;nan;nan;Intel Pentium J3710;1.6;nan;Intel HD Graphics;15.6;60;нет;4;LPDDR3;1;пластик;nan;1.56
+ASUS;MacBook Air;135199;146 999;1;macOS;8;nan;nan;Apple M2;nan;nan;Apple M2 10-core;13.6;60;512;8;LPDDR5;1;алюминий;nan;1.24
+HP;Laptop 15 ;nan;32 999 ?;1;не установлена;2;nan;nan;Intel Celeron N4500;1.1;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.8
+Lenovo;Laptop 15s;nan;39 999 ?;1;не установлена;2;nan;nan;AMD Ryzen 3 3250U;2.6;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.69
+HP;IdeaPad 3;nan;42 999 ?;1;Windows 11 Домашняя S-режим;2;nan;nan;Intel Core i3-1115G4;3;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.7
+Lenovo;HP 255 G8;nan;37 999 ?;1;Windows 10 Pro;2;nan;nan;AMD Athlon Silver 3050U;2.3;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.74
+GIGABYTE;IdeaPad 3;25199;27 999;1;не установлена;2;nan;nan;Intel Celeron N4020;1.1;nan;Intel UHD Graphics 600;15.6;60;256;4;DDR4;1;пластик;nan;1.7
+ASUS;GIGABYTE G5 ;nan;99 999 ?;2;Windows 11 Домашняя;6;nan;nan;Core i5;2.5;nan;Intel UHD Graphics;15.6;144;512;16;DDR4;1;пластик;nan;2.3
+Apple;VivoBook Pro 14 ;67999;79 999;1;Windows 11 Домашняя;4;nan;nan;Core i5;3.1;nan;Intel Iris Xe Graphics;14;90;512;16;DDR4;1;пластик;nan;1.4
+MSI;MacBook Air;102999;111 999;1;macOS;8;nan;nan;Apple M2;nan;nan;Apple M2 8-core;13.6;60;256;8;DDR4;1;алюминий;nan;1.24
+Apple;Modern 15 ;38199;44 999;1;Windows 11 Домашняя;6;nan;nan;Core i3;nan;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.7
+HP;MacBook Pro;202399;219 999;1;macOS;10;nan;nan;Apple M1 Pro;nan;nan;Apple M1 Pro 16-core;14.2;120;1024;16;LPDDR5;1;алюминий;nan;1.61
+MSI;HP 255 G8;nan;29 999 ?;1;Windows 10 Pro;2;nan;nan;AMD 3020e;1.2;nan;AMD Radeon Graphics;15.6;60;128;4;DDR4;1;пластик;nan;1.74
+Lenovo;Modern 15 ;41599;48 999;1;не установлена;10;nan;nan;Intel Core i5-1235U;nan;nan;Intel Iris Xe Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.7
+Realme;IdeaPad 3;nan;52 999 ?;1;не установлена;8;nan;nan;AMD Ryzen 7 5700U;1.8;nan;AMD Radeon Graphics;15.6;60;нет;8;DDR4;1;пластик;nan;1.65
+Acer;Realme Book QHD;54999;59 999;1;Windows 11 Домашняя;4;nan;nan;Core i5;2.4;nan;Intel Iris Xe Graphics;14;60;512;8;LPDDR4x;1;алюминий;nan;1.38
+Acer;Extensa 15;26999;29 999;1;не установлена;2;nan;nan;Intel Celeron N4020;1.1;nan;Intel UHD Graphics 600;15.6;60;256;4;DDR4;1;пластик;nan;1.94
+HP;Extensa 15;nan;32 999 ?;1;не установлена;2;nan;nan;AMD Athlon Silver 3050U;2.3;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.9
+MSI;Laptop 15s;nan;32 999 ?;1;не установлена;2;nan;nan;AMD Athlon Silver 3050U;2.3;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.69
+Acer;Modern 14 ;35699;41 999;1;Windows 11 Домашняя;6;nan;nan;Core i3;nan;nan;Intel UHD Graphics;14;60;256;8;DDR4;1;пластик;nan;1.4
+Apple;Aspire 1 ;29699;32 999;1;Windows 11 Домашняя;2;nan;nan;Athlon;2.3;nan;AMD Radeon Graphics;15.6;60;нет;4;DDR4;1;пластик;nan;1.65
+ASUS;MacBook Air;102999;111 999;1;macOS;8;nan;nan;Apple M2;nan;nan;Apple M2 8-core;13.6;60;256;8;LPDDR5;1;алюминий;nan;1.24
+HUAWEI;VivoBook PRO 15 ;nan;69 999 ?;1;не установлена;4;nan;nan;Intel Core i5-11300H;3.1;nan;Intel Iris Xe Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.65
+MSI;MateBook 14S ;94999;103 999;1;Windows 11 Домашняя;14;nan;nan;Core i7;2.3;nan;Intel Iris Xe Graphics;14.2;90;1000;16;LPDDR4x;1;алюминий;nan;1.43
+Lenovo;Prestige 14 ;74699;82 999;1;Windows 11 Домашняя;12;nan;nan;Core i5;1.7;nan;Intel Iris Xe Graphics;14;60;512;8;LPDDR4x;1;алюминий;nan;1.29
+HP;IdeaPad 3;nan;79 999 ?;1;не установлена;4;nan;nan;Intel Core i7-11370H;3.3;nan;Intel Iris Xe Graphics;15.6;120;512;8;DDR4;1;пластик;nan;2.25
+Lenovo;HP 255 G8;nan;57 999 ?;1;не установлена;8;nan;nan;AMD Ryzen 7 5700U;1.8;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.74
+HP;IdeaPad 3;nan;27 999 ?;1;не установлена;2;nan;nan;Intel Celeron N4020;1.1;nan;Intel UHD Graphics 600;15.6;60;256;4;DDR4;1;пластик;nan;1.7
+Lenovo;HP 15s;nan;32 999 ?;1;Windows 10 Домашняя;2;nan;nan;Intel Pentium Gold 7505;2;nan;Intel UHD Graphics;15.6;60;256;4;DDR4;1;пластик;nan;1.69
+Acer;IdeaPad 3;25199;27 999;1;не установлена;2;nan;nan;Intel Celeron N4020;1.1;nan;Intel UHD Graphics;15.6;60;нет;4;DDR4;1;пластик;nan;1.7
+GIGABYTE;Extensa 15;36999;39 999;1;не установлена;2;nan;nan;AMD Ryzen 3 3250U;2.6;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.9
+Acer;GIGABYTE U4 ;nan;66 999 ?;2;не установлена;4;nan;nan;Intel Core i5-1155G7;2.5;nan;Intel Iris Xe Graphics;14;60;512;16;DDR4;1;алюминий;nan;0.99
+Acer;Extensa 15;nan;37 999 ?;1;Windows 10 Домашняя;2;nan;nan;AMD Athlon Silver 3050U;2.3;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.9
+Realme;Extensa 15;nan;64 999 ?;1;не установлена;4;nan;nan;AMD Ryzen 5 3500U;2.1;nan;AMD Radeon Graphics;15.6;60;1000;16;DDR4;1;пластик;nan;1.9
+Lenovo;Realme Book Prime 14;69999;79 999;1;Windows 11 Домашняя;4;nan;nan;Core i5;2.5;nan;Intel Iris Xe Graphics;14;60;512;16;LPDDR4x;1;алюминий;nan;1.48
+ASUS;IdeaPad 3;nan;57 999 ?;1;не установлена;4;nan;nan;Intel Core i7-1165G7;2.8;nan;Intel Iris Xe Graphics;15.6;60;512;8;DDR4;1;пластик;nan;1.7
+ASUS;VivoBook Pro 14 ;62999;69 999;1;Windows 11 Домашняя;4;nan;nan;Core i5;3.1;nan;Intel Iris Xe Graphics;14;90;512;8;DDR4;1;пластик;nan;1.4
+Acer;VivoBook 15 ;76499;84 999;1;Windows 11 Домашняя;4;nan;nan;Core i7;2.8;nan;Intel Iris Xe Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.8
+Lenovo;Spin 1 ;nan;35 999 ?;1;Windows 10 Домашняя;2;nan;nan;Intel Celeron N4500;1.1;nan;Intel UHD Graphics;14;60;256;4;LPDDR4;1;пластик;nan;1.5
+MSI;IdeaPad 3;nan;65 999 ?;1;не установлена;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel Iris Xe Graphics;14;60;512;8;DDR4;1;алюминий;nan;1.38
+Acer;Modern 15 ;45499;53 499;1;Windows 11 Домашняя;10;nan;nan;Core i5;nan;nan;Intel Iris Xe Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.7
+Lenovo;Nitro 5;nan;79 999 ?;1;не установлена;4;nan;nan;Intel Core i5-11300H;3.1;nan;Intel UHD Graphics;15.6;144;512;8;DDR4;1;пластик;nan;2.3
+ASUS;IdeaPad 3;nan;42 999 ?;1;Windows 11 Домашняя;2;nan;nan;Core i3;1.2;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.85
+HUAWEI;VivoBook Pro 14 ;62999;69 999;1;Windows 11 Домашняя;4;nan;nan;Core i5;3.1;nan;Intel UHD Graphics;14;90;512;8;DDR4;1;пластик;nan;1.4
+HP;MateBook 14S ;89999;103 999;1;Windows 10 Домашняя;4;nan;nan;Intel Core i7-11370H;3.3;nan;Intel Iris Xe Graphics;14.2;90;1000;16;LPDDR4x;1;алюминий;nan;1.43
+Acer;Laptop 15s;nan;42 999 ?;1;Windows 11 Домашняя;2;nan;nan;Ryzen 3;2.6;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.69
+ASUS;Aspire 3;nan;47 999 ?;1;не установлена;4;nan;nan;Intel Core i5-1035G1;1;nan;Intel UHD Graphics;15.6;60;512;12;DDR4;1;пластик;nan;1.9
+Lenovo;VivoBook Pro 14 ;67999;79 999;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;3.3;nan;AMD Radeon Graphics;14;90;512;16;DDR4;1;пластик;nan;1.45
+ASUS;Lenovo V15 ;nan;29 999 ?;1;не установлена;2;nan;nan;AMD Athlon Gold 3150U;2.4;nan;AMD Radeon Graphics;15.6;60;128;4;DDR4;1;пластик;nan;1.85
+MSI;ZenBook Flip S13 ;82799;91 999;1;Windows 11 Домашняя;4;nan;nan;Core i5;2.4;nan;Intel Iris Xe Graphics;13.3;60;512;8;LPDDR4x;1;алюминий;nan;1.2
+Acer;Katana GF66 ;85499;94 999;1;Windows 11 Домашняя;8;nan;nan;Core i5;nan;nan;Intel UHD Graphics;15.6;nan;512;16;DDR4;1;пластик;nan;2.25
+Lenovo;Extensa 15;nan;49 999 ?;1;не установлена;2;nan;nan;Intel Core i3-1005G1;1.2;nan;Intel UHD Graphics;15.6;60;512;12;DDR4;1;пластик;nan;1.9
+Acer;IdeaPad 3;nan;35 999 ?;1;не установлена;2;nan;nan;AMD Ryzen 3 3250U;2.6;nan;AMD Radeon Graphics;14;60;256;8;DDR4;1;пластик;nan;1.6
+Apple;Aspire 3;nan;39 999 ?;1;не установлена;2;nan;nan;AMD Ryzen 3 3250U;2.6;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.9
+Lenovo;MacBook Pro;188599;204 999;1;macOS;10;nan;nan;Apple M1 Pro;nan;nan;Apple M1 Pro 16-core;16.2;120;512;16;LPDDR5;1;алюминий;nan;2.15
+ASUS;Lenovo V15 ;nan;39 999 ?;1;не установлена;2;nan;nan;Intel Core i3-1115G4;3;nan;Intel UHD Graphics;15.6;60;нет;8;DDR4;1;пластик;nan;1.7
+HP;ExpertBook P1 ;nan;74 999 ?;1;не установлена;4;nan;nan;Intel Core i7-1165G7;2.8;nan;Intel Iris Xe Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.8
+Lenovo;HP 255 G8;nan;74 999 ?;1;Windows 10 Pro;8;nan;nan;AMD Ryzen 7 5700U;1.8;nan;AMD Radeon Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.74
+ASUS;IdeaPad 3;nan;31 999 ?;1;не установлена;2;nan;nan;AMD Athlon 300U;2.4;nan;AMD Radeon Vega 3;15.6;60;128;8;DDR4;1;пластик;nan;2.2
+ASUS;Laptop 14 ;nan;34 999 ?;1;не установлена;2;nan;nan;Intel Pentium Gold 7505;2;nan;Intel UHD Graphics;14;60;256;8;DDR4;1;пластик;nan;1.6
+ASUS;Laptop 15 ;33299;36 999;1;не установлена;2;nan;nan;Intel Pentium 6805;1.1;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.8
+Apple;ZenBook Flip 13 ;79199;87 999;1;Windows 10 Домашняя;4;nan;nan;Intel Core i7-1165G7;2.8;nan;Intel Iris Xe Graphics;13.3;60;512;8;LPDDR4x;1;алюминий;nan;1.3
+ASUS;MacBook Pro;nan;169 999 ?;1;macOS;8;nan;nan;Apple M1 Pro;nan;nan;Apple M1 Pro 14-core;14.2;120;512;16;LPDDR5;1;алюминий;nan;1.61
+Lenovo;IdeaPad 3;53999;59 999;1;Windows 11 Домашняя;4;nan;nan;Pentium;1.1;nan;Intel UHD Graphics;13.3;60;нет;4;LPDDR4x;1;пластик;nan;0.78
+Lenovo;IdeaPad 3;nan;37 999 ?;1;Windows 11 Домашняя;2;nan;nan;Pentium;2;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.7
+Lenovo;Lenovo V15 ;nan;33 999 ?;1;не установлена;2;nan;nan;Intel Core i3-1115G4;3;nan;Intel UHD Graphics;15.6;60;нет;4;DDR4;1;пластик;nan;1.7
+Apple;IdeaPad 3;nan;89 999 ?;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;2.3;nan;AMD Radeon Graphics;14;90;1000;16;DDR4;1;алюминий;nan;1.38
+ASUS;MacBook Pro;nan;234 999;1;macOS;10;nan;nan;Apple M1 Pro;nan;nan;Apple M1 Pro 16-core;16.2;120;1024;16;LPDDR5;1;алюминий;nan;2.15
+Lenovo;GAMING;nan;77 999 ?;1;не установлена;8;nan;nan;AMD Ryzen 7 4800H;2.9;nan;AMD Radeon Graphics;17.3;144;512;8;DDR4;1;пластик;nan;2.6
+HP;Yoga Slim 7 ;nan;69 999 ?;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;2.3;nan;AMD Radeon Graphics;13.3;60;256;8;LPDDR4x;1;алюминий;nan;1.21
+ASUS;HP 250 G8;nan;27 999 ?;1;не установлена;2;nan;nan;Intel Celeron N4020;1.1;nan;Intel UHD Graphics;15.6;60;нет;4;DDR4;1;пластик;nan;1.74
+HP;Laptop 14 ;nan;32 999 ?;1;не установлена;2;nan;nan;Intel Pentium Gold 7505;2;nan;Intel UHD Graphics;14;60;256;4;DDR4;1;пластик;nan;1.6
+Acer;HP 15s;nan;32 999 ?;1;Windows 10 Домашняя;2;nan;nan;AMD Athlon Silver 3050U;2.3;nan;AMD Radeon Graphics;15.6;60;128;4;DDR4;1;пластик;nan;1.7
+Apple;Aspire 3;nan;68 999 ?;1;не установлена;4;nan;nan;AMD Ryzen 5 3500U;2.1;nan;AMD Radeon Vega 8;15.6;60;512;12;DDR4;1;пластик;nan;1.9
+ASUS;MacBook Pro;202399;219 999;1;macOS;10;nan;nan;Apple M1 Pro;nan;nan;Apple M1 Pro 16-core;14.2;120;1024;16;LPDDR5;1;алюминий;nan;1.61
+Lenovo;VivoBook 15 ;nan;64 999 ?;1;Windows 11 Домашняя;4;nan;nan;Core i5;2.4;nan;Intel Iris Xe Graphics;15.6;60;512;8;DDR4;1;пластик;nan;1.8
+Acer;IdeaPad 3;nan;42 999 ?;1;Windows 10 Домашняя;2;nan;nan;Intel Core i3-1115G4;3;nan;Intel UHD Graphics;15.6;60;нет;8;DDR4;1;пластик;nan;1.7
+Acer;Aspire 3;36999;40 999;1;Windows 11 Домашняя;2;nan;nan;Core i3;1.2;nan;Intel UHD Graphics;15.6;60;256;4;DDR4;1;пластик;nan;1.9
+ASUS;Aspire 7;82999;89 999;1;не установлена;8;nan;nan;AMD Ryzen 7 5700U;1.8;nan;AMD Radeon Graphics;15.6;60;512;16;DDR4;1;пластик;nan;2.15
+Lenovo;VivoBook PRO 15 ;74699;82 999;1;Windows 10 Домашняя;4;nan;nan;Intel Core i5-11300H;3.1;nan;Intel Iris Xe Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.65
+ASUS;Lenovo V15 ;nan;27 999 ?;1;не установлена;2;nan;nan;AMD 3020e;1.2;nan;AMD Radeon Graphics;15.6;60;128;4;DDR4;1;пластик;nan;1.85
+AORUS;Laptop 15 ;nan;39 999 ?;1;не установлена;2;nan;nan;AMD Ryzen 3 3250U;2.6;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.8
+ASUS;AORUS 17 ;nan;159 999 ?;2;Windows 11 Домашняя;14;nan;nan;Core i7;2.3;nan;Intel Iris Xe Graphics;17.3;360;512;32;DDR5;1;карбон;nan;2.7
+ASUS;VivoBook 15 ;nan;74 999 ?;1;не установлена;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel Iris Xe Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.8
+MSI;ZenBook PRO 15 ;93999;104 499;1;Windows 10 Домашняя;4;nan;nan;Intel Core i5-10300H;2.5;nan;Intel UHD Graphics;15.6;60;512;8;LPDDR4;1;алюминий;nan;2
+Acer;Katana GF76 ;121499;134 999;1;не установлена;14;nan;nan;Intel Core i7-12700H;nan;nan;Intel UHD Graphics;17.3;144;1000;16;DDR5;1;пластик;nan;2.6
+HP;TravelMate P2;nan;56 999 ?;1;Windows 10 Pro;6;nan;nan;AMD Ryzen 5 PRO 5650U;2.3;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.8
+Acer;HP 255 G8;nan;56 299 ?;1;Windows 10 Домашняя;4;nan;nan;AMD Ryzen 3 5300U;2.6;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.74
+Acer;TravelMate P2;nan;85 999 ?;3;Windows 10 Pro;4;nan;nan;Intel Core i7-1165G7;2.8;nan;Intel Iris Xe Graphics;14;60;512;16;DDR4;1;пластик;nan;1.63
+Apple;Extensa 15;nan;48 999 ?;1;Windows 10 Домашняя;2;nan;nan;Intel Core i3-1005G1;1.2;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.9
+Irbis;MacBook Pro;216199;234 999;1;macOS;10;nan;nan;Apple M1 Pro;nan;nan;Apple M1 Pro 16-core;16.2;120;1024;16;LPDDR5;1;алюминий;nan;2.15
+ASUS;Irbis ;nan;39 999 ?;1;nan;2;nan;nan;Intel Core i3-1005G1;1.2;nan;Intel UHD Graphics;15.6;60;128;8;LPDDR4;1;пластик;nan;1.92
+Lenovo;Laptop 15 ;nan;32 999 ?;1;не установлена;2;nan;nan;Intel Pentium Gold 7505;2;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.8
+Acer;Lenovo V15 ;58499;64 999;nan;Windows 10 Pro;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel Iris Xe Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.7
+ASUS;Aspire 5;nan;52 999 ?;1;не установлена;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel Iris Xe Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.9
+ASUS;ExpertBook P1 ;nan;49 999 ?;1;не установлена;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel Iris Xe Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.8
+HP;Laptop 15 ;29699;32 999;1;Windows 11 Домашняя;4;nan;nan;Pentium;1.1;nan;Intel UHD Graphics;15.6;60;128;4;DDR4;1;пластик;nan;1.8
+Acer;Laptop 15s;nan;67 299 ?;1;Windows 11 Домашняя;4;nan;nan;Pentium;1.1;nan;Intel UHD Graphics 605;15.6;60;256;8;DDR4;1;пластик;nan;1.65
+ASUS;TravelMate P2;nan;61 299 ?;1;Windows 10 Pro;2;nan;nan;Intel Core i3-10110U;2.1;nan;Intel UHD Graphics;15.6;60;256;4;DDR4;1;пластик;nan;1.8
+Acer;Laptop 14 ;nan;39 999 ?;1;Windows 11 Домашняя;2;nan;nan;Pentium;2;nan;Intel UHD Graphics;14;60;256;8;DDR4;1;пластик;nan;1.6
+ASUS;Aspire 3;nan;39 999 ?;1;Windows 11 Домашняя;2;nan;nan;Ryzen 3;2.6;nan;AMD Radeon Graphics;15.6;60;256;4;DDR4;1;пластик;nan;1.9
+Apple;ZenBook 13 ;nan;59 999 ?;1;Windows 11 Домашняя;2;nan;nan;Core i3;3;nan;Intel UHD Graphics;13.3;60;256;8;LPDDR4x;1;алюминий;nan;1.14
+ASUS;MacBook Air;nan;113 999 ?;1;macOS;8;nan;nan;Apple M1;nan;nan;Apple M1 8-core;13.3;60;512;8;DDR4;1;алюминий;nan;1.29
+ASUS;Laptop 15 ;nan;46 799 ?;1;не установлена;4;nan;nan;Intel Core i5-1035G1;1;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.8
+ASUS;ZenBook 13 ;89999;99 999;1;Windows 11 Домашняя;4;nan;nan;Core i7;2.8;nan;Intel Iris Xe Graphics;13.3;60;512;16;LPDDR4x;1;алюминий;nan;1.14
+Irbis;ZenBook Flip 13 ;83699;92 999;1;Windows 11 Домашняя;4;nan;nan;Core i5;2.4;nan;Intel Iris Xe Graphics;13.3;60;512;16;LPDDR4x;1;алюминий;nan;1.3
+MSI;Irbis ;nan;19 999 ?;1;Windows 10 Домашняя;2;nan;nan;Intel Celeron N3350;1.1;nan;Intel HD Graphics 500;15.6;60;128;4;LPDDR3;1;пластик;nan;1.7
+ASUS;Katana GF66 ;85499;94 999;1;не установлена;10;nan;nan;Intel Core i7-12650H;2.3;nan;Intel UHD Graphics;15.6;240;512;16;DDR4;1;пластик;nan;2.25
+ASUS;VivoBook 15 ;85499;94 999;1;не установлена;2;nan;nan;Intel Core i3-1115G4;3;nan;Intel UHD Graphics;15.6;60;512;8;DDR4;1;пластик;nan;1.8
+ASUS;VivoBook 14 ;76499;84 999;1;Windows 10 Pro;4;nan;nan;Intel Core i7-1165G7;2.8;nan;Intel Iris Xe Graphics;14;60;256;16;DDR4;1;пластик;nan;1.6
+ASUS;GAMING;nan;74 999 ?;1;не установлена;6;nan;nan;Intel Core i5-11400H;2.7;nan;Intel UHD Graphics;15.6;144;512;16;DDR4;1;пластик;nan;2.3
+Acer;Laptop 15 ;nan;27 999 ?;1;Windows 11 Домашняя;2;nan;nan;Celeron;1.1;nan;Intel UHD Graphics;15.6;60;128;4;DDR4;1;пластик;nan;1.8
+Lenovo;Aspire 3;nan;43 999 ?;1;Windows 11 Домашняя;2;nan;nan;Ryzen 3;2.6;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.9
+Acer;IdeaPad 3;nan;84 999 ?;1;Windows 11 Домашняя;4;nan;nan;Core i5;2.4;nan;Intel Iris Xe Graphics;14;60;1000;16;DDR4;1;алюминий;nan;1.38
+Acer;TravelMate P2;nan;76 999 ?;1;Windows 10 Pro;4;nan;nan;Intel Core i7-1165G7;2.8;nan;Intel Iris Xe Graphics;14;60;256;8;DDR4;1;пластик;nan;1.8
+ASUS;Extensa 15;nan;74 799 ?;1;Windows 10 Домашняя;4;nan;nan;Intel Core i5-1035G1;1;nan;Intel UHD Graphics;15.6;60;нет;8;DDR4;1;пластик;nan;1.9
+ASUS;VivoBook Pro 14 ;75599;83 999;1;не установлена;4;nan;nan;Intel Core i5-11300H;3.1;nan;Intel Iris Xe Graphics;14;90;512;8;DDR4;1;алюминий;nan;1.45
+Chuwi;VivoBook Pro 14 ;nan;74 999 ?;1;не установлена;4;nan;nan;Intel Core i7-11370H;3.3;nan;Intel Iris Xe Graphics;14;60;512;16;DDR4;1;пластик;nan;1.4
+HUAWEI;CoreBook X 14;34049;36 999;1;Windows 11 Домашняя;2;nan;nan;Core i3;2.1;nan;Intel UHD Graphics;14;60;512;8;DDR4;1;алюминий/пластик;nan;1.36
+Acer;MateBook 14S ;68999;74 999;1;Windows 11 Домашняя;6;nan;nan;AMD Ryzen 5 5500U;2.1;nan;AMD Radeon Graphics;14;60;512;16;DDR4;1;алюминий;nan;1.49
+Dell;TravelMate P2;nan;72 999 ?;1;Windows 10 Pro;2;nan;nan;Intel Pentium Gold 6405U;2.4;nan;Intel UHD Graphics;14;60;256;8;DDR4;1;пластик;nan;1.6
+ASUS;Vostro ;nan;71 999 ?;1;не установлена;4;nan;nan;Intel Core i7-1165G7;2.8;nan;Intel Iris Xe Graphics;13.3;60;512;8;LPDDR4x;1;пластик;nan;1.16
+Acer;VivoBook 15 ;nan;64 999 ?;1;Windows 11 Домашняя;4;nan;nan;Core i5;2.4;nan;Intel Iris Xe Graphics;15.6;60;512;8;DDR4;1;пластик;nan;1.8
+ASUS;Aspire 3;nan;64 999 ?;1;Linux;4;nan;nan;AMD Ryzen 7 3700U;2.3;nan;AMD Radeon RX Vega 10;15.6;60;256;8;DDR4;1;пластик;nan;1.9
+Dell;VivoBook Flip 14 ;nan;62 999 ?;1;Windows 11 Домашняя;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel Iris Xe Graphics;14;60;512;8;LPDDR4x;1;пластик;nan;1.5
+ASUS;Vostro ;nan;64 999 ?;1;Linux;4;nan;nan;Intel Core i5-11300H;3.1;nan;Intel Iris Xe Graphics;14;60;512;8;DDR4;1;пластик;nan;1.4
+Dell;GAMING;nan;84 999 ?;1;не установлена;6;nan;nan;Intel Core i5-11400H;2.7;nan;Intel UHD Graphics;15.6;144;512;16;DDR4;1;пластик;nan;2.3
+ASUS;Vostro ;nan;54 999 ?;1;не установлена;4;nan;nan;Intel Core i5-11300H;3.1;nan;Intel Iris Xe Graphics;14;60;256;8;DDR4;1;пластик;nan;1.4
+Lenovo;VivoBook 14 ;46799;51 999;1;не установлена;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel UHD Graphics;14;60;256;8;DDR4;1;пластик;nan;1.4
+Acer;IdeaPad 3;43199;47 999;1;не установлена;6;nan;nan;AMD Ryzen 5 5500U;2.1;nan;AMD Radeon Graphics;15.6;60;нет;8;DDR4;1;пластик;nan;1.65
+ASUS;Extensa 15;nan;46 999 ?;1;Windows 10 Домашняя;2;nan;nan;AMD Ryzen 3 3250U;2.6;nan;AMD Radeon Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.9
+ASUS;VivoBook X4;nan;41 999 ?;1;Windows 11 Домашняя;2;nan;nan;Core i3;3;nan;Intel UHD Graphics;14;60;256;4;DDR4;1;пластик;nan;1.55
+ASUS;ZenBook 13 ;nan;75 799 ?;1;Windows 11 Домашняя;2;nan;nan;Core i3;3;nan;Intel UHD Graphics;13.3;60;256;8;LPDDR4x;1;алюминий;nan;1.11
+Apple;ZenBook Flip 13 ;67499;74 999;1;Windows 11 Домашняя;4;nan;nan;Core i5;2.4;nan;Intel Iris Xe Graphics;13.3;60;512;8;LPDDR4x;1;алюминий;nan;1.3
+Apple;MacBook Pro;102999;111 999;1;macOS;8;nan;nan;Apple M2;nan;nan;Apple M2 10-core;13.3;60;256;8;DDR4;1;алюминий;nan;1.4
+Apple;MacBook Pro;114099;123 999;1;macOS;8;nan;nan;Apple M1;nan;nan;Apple M1 8-core;13.3;60;256;8;DDR4;1;алюминий;nan;1.4
+Apple;MacBook Pro;nan;123 999;1;macOS;8;nan;nan;Apple M1;nan;nan;Apple M1 8-core;13.3;60;256;8;DDR4;1;алюминий;nan;1.4
+Apple;MacBook Pro;114099;123 999;1;macOS;8;nan;nan;Apple M1;nan;nan;Apple M1 8-core;13.3;60;256;8;DDR4;1;алюминий;nan;1.4
+MSI;MacBook Pro;119599;129 999;1;macOS;8;nan;nan;Apple M1;nan;nan;Apple M1 8-core;13.3;60;512;8;DDR4;1;алюминий;nan;1.4
+Acer;Summit E13 ;107999;119 999;1;Windows 11 Pro;14;nan;nan;Intel Core i7-1280P;nan;nan;Intel Iris Xe Graphics;13.4;165;512;16;LPDDR5;1;алюминий;nan;1.35
+Apple;Swift 3 ;nan;113 499 ?;1;Windows 11 Домашняя;4;nan;nan;Core i5;2.4;nan;Intel Iris Xe Graphics;13.5;60;512;16;LPDDR4;1;алюминий;nan;1.19
+ASUS;MacBook Air;101199;109 999;1;macOS;8;nan;nan;Apple M2;nan;nan;Apple M2 8-core;13.6;60;256;8;DDR4;1;алюминий;nan;1.24
+ASUS;ExpertBook B1 ;nan;107 499 ?;1;Windows 10 Домашняя;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel UHD Graphics;14;60;512;8;DDR4;1;пластик;nan;1.45
+ASUS;ExpertBook B1 ;57799;67 999;1;Windows 10 Pro;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel UHD Graphics;14;60;128;8;DDR4;1;пластик;nan;1.45
+ASUS;ExpertBook B1 ;143999;159 999;1;Windows 11 Pro;4;nan;nan;Intel Core i7-1165G7;2.8;nan;Intel Iris Xe Graphics;14;60;4000;32;LPDDR4x;1;магниевый сплав;nan;1.01
+ASUS;ExpertBook B9;102599;113 999;1;Windows 10 Pro;4;nan;nan;Intel Core i7-10510U;1.8;nan;Intel UHD Graphics 620;14;60;512;8;LPDDR3;1;алюминий;nan;1
+ASUS;Laptop 14 ;29699;32 999;1;Windows 11 Домашняя;2;nan;nan;Pentium;2;nan;Intel UHD Graphics;14;60;128;4;DDR4;1;пластик;nan;1.6
+ASUS;Laptop 14 ;nan;34 999 ?;1;не установлена;2;nan;nan;Intel Pentium Gold 7505;2;nan;Intel UHD Graphics;14;60;256;8;DDR4;1;пластик;nan;1.6
+ASUS;Laptop 14 ;nan;42 999 ?;1;Windows 11 Домашняя;2;nan;nan;Core i3;1.2;nan;Intel UHD Graphics;14;60;256;8;DDR4;1;пластик;nan;1.6
+ASUS;Laptop 14 ;nan;26 999 ?;1;Windows 11 Домашняя;2;nan;nan;Celeron;1.1;nan;Intel UHD Graphics;14;60;128;4;DDR4;1;пластик;nan;1.6
+ASUS;Laptop 14 ;27899;30 999;1;Windows 11 Домашняя;4;nan;nan;Pentium;1.1;nan;Intel UHD Graphics;14;60;128;4;DDR4;1;пластик;nan;1.6
+ASUS;GAMING;123299;136 999;1;не установлена;8;nan;nan;AMD Ryzen 7 6800HS;3.2;nan;AMD Radeon Graphics;14;144;512;16;DDR5;1;магниевый сплав;nan;1.65
+ASUS;VivoBook 14 ;nan;39 999 ?;1;не установлена;2;nan;nan;Intel Core i3-1005G1;1.2;nan;Intel UHD Graphics;14;60;512;8;DDR4;1;пластик;nan;1.4
+ASUS;VivoBook 14 ;nan;44 999 ?;1;Windows 10 Домашняя;2;nan;nan;Intel Core i3-1005G1;1.2;nan;Intel UHD Graphics;14;60;512;8;DDR4;1;пластик;nan;1.4
+ASUS;VivoBook 14 ;46799;51 999;1;не установлена;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel UHD Graphics;14;60;256;8;DDR4;1;пластик;nan;1.4
+ASUS;VivoBook 14 ;76499;84 999;1;Windows 11 Домашняя;4;nan;nan;Core i5;3.1;nan;Intel Iris Plus Graphics;14;90;512;16;DDR4;1;алюминий;nan;1.4
+ASUS;VivoBook 14 ;40499;44 999;1;Windows 11 Домашняя;2;nan;nan;Core i3;3;nan;Intel UHD Graphics;14;60;512;8;DDR4;1;пластик;nan;1.55
+ASUS;VivoBook Flip 14 ;nan;36 999 ?;1;Windows 11 Домашняя;4;nan;nan;Pentium;1.1;nan;Intel UHD Graphics;14;60;128;4;DDR4;1;пластик;nan;1.6
+ASUS;VivoBook Pro 14 ;85499;94 999;1;Windows 11 Домашняя;4;nan;nan;Core i7;3.3;nan;Intel Iris Plus Graphics;14;90;512;16;DDR4;1;алюминий;nan;1.4
+ASUS;VivoBook Pro 14 ;71999;79 999;1;Windows 11 Домашняя;4;nan;nan;Core i5;3.1;nan;Intel Iris Xe Graphics;14;90;512;8;DDR4;1;алюминий;nan;1.45
+ASUS;VivoBook Pro 14 ;71999;79 999;1;не установлена;4;nan;nan;Intel Core i5-11300H;3.1;nan;Intel Iris Xe Graphics;14;90;512;8;DDR4;1;алюминий;nan;1.45
+ASUS;VivoBook S14 ;71999;79 999;1;Windows 10 Домашняя;4;nan;nan;Intel Core i7-1165G7;2.8;nan;Intel Iris Xe Graphics;14;60;512;16;DDR4;1;алюминий;nan;1.4
+ASUS;VivoBook S14 ;nan;64 999 ?;1;Windows 11 Домашняя;4;nan;nan;Core i5;2.4;nan;Intel Iris Xe Graphics;14;60;512;16;DDR4;1;алюминий;nan;1.4
+ASUS;ZenBook 14 ;98999;109 999;1;Windows 11 Домашняя;4;nan;nan;Core i7;2.8;nan;Intel Iris Xe Graphics;14;90;512;16;LPDDR4x;1;алюминий;nan;1.4
+ASUS;ZenBook 14 ;83699;92 999;1;Windows 11 Домашняя;4;nan;nan;Core i5;2.4;nan;Intel Iris Xe Graphics;14;90;512;8;LPDDR4x;1;алюминий;nan;1.4
+ASUS;ZenBook 14 ;67499;74 999;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;2.3;nan;AMD Radeon Graphics;14;90;512;8;LPDDR4x;1;алюминий;nan;1.39
+ASUS;ZenBook 14 ;58499;64 999;1;Windows 11 Домашняя;4;nan;nan;Core i5;2.4;nan;Intel Iris Xe Graphics;14;60;512;8;LPDDR4x;1;алюминий;nan;1.17
+ASUS;ZenBook 14 ;nan;89 999 ?;1;не установлена;4;nan;nan;Intel Core i7-1165G7;2.8;nan;Intel Iris Xe Graphics;14;90;1000;16;LPDDR4x;1;алюминий;nan;1.4
+ASUS;ZenBook 14 ;nan;84 999 ?;1;не установлена;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel Iris Xe Graphics;14;90;1000;16;LPDDR4x;1;алюминий;nan;1.4
+ASUS;ZenBook 14 ;94499;104 999;1;Windows 11 Домашняя;4;nan;nan;Core i7;2.8;nan;Intel Iris Xe Graphics;14;90;1000;16;LPDDR4x;1;алюминий;nan;1.4
+ASUS;ZenBook 14 ;80999;89 999;1;не установлена;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel Iris Xe Graphics;14;90;1000;16;LPDDR4x;1;алюминий;nan;1.4
+ASUS;ZenBook Flip 14 ;89999;99 999;1;Windows 11 Домашняя;8;nan;nan;Ryzen 7;3.2;nan;AMD Radeon Graphics;14;90;512;16;LPDDR4x;1;алюминий;nan;1.4
+ASUS;ZenBook Flip 14 ;76499;89 999;1;Windows 11 Домашняя;4;nan;nan;Core i5;2.4;nan;Intel Iris Xe Graphics;14;90;512;8;LPDDR4x;1;алюминий;nan;1.4
+Chuwi;ZenBook UX;64799;71 999;1;Windows 10 Домашняя;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel Iris Xe Graphics;14;60;512;16;LPDDR4x;1;алюминий;nan;1.13
+Chuwi;CoreBook X 14;32199;34 999;1;Windows 11 Домашняя;2;nan;nan;Core i3;2.1;nan;Intel UHD Graphics;14;60;256;8;DDR4;1;алюминий/пластик;nan;1.36
+HP;CoreBook X 14;36799;39 999;1;Windows 11 Домашняя;2;nan;nan;Core i3;2.1;nan;Intel UHD Graphics;14;60;512;16;DDR4;1;алюминий/пластик;nan;1.36
+Infinix;ProBook 440;nan;48 799 ?;1;Windows 10 Pro;2;nan;nan;Intel Pentium Gold 7505;2;nan;Intel UHD Graphics;14;60;128;4;DDR4;1;алюминий;nan;1.38
+Infinix;InBook X2 ;44999;49 999;2;Windows 11 Домашняя;4;nan;nan;Intel Core i5-1155G7;2.5;nan;Intel Iris Xe Graphics;14;60;512;8;LPDDR4x;1;алюминий;nan;1.24
+Infinix;InBook X2 ;34999;39 999;2;Windows 11 Домашняя;2;nan;nan;Intel Core i3-1115G4;3;nan;Intel UHD Graphics;14;60;256;8;LPDDR4x;1;алюминий;nan;1.24
+Infinix;InBook X2 ;nan;62 999 ?;2;Windows 11 Домашняя;4;nan;nan;Intel Core i7-1195G7;2.9;nan;Intel Iris Xe Graphics;14;60;512;16;LPDDR4x;1;алюминий;nan;1.24
+Infinix;InBook X2 ;34999;39 999;2;Windows 11 Домашняя;2;nan;nan;Intel Core i3-1115G4;3;nan;Intel UHD Graphics;14;60;256;8;LPDDR4x;1;алюминий;nan;1.24
+Irbis;InBook X2 ;44999;49 999;2;Windows 11 Домашняя;4;nan;nan;Intel Core i5-1155G7;2.5;nan;Intel Iris Xe Graphics;14;60;512;8;LPDDR4x;1;алюминий;nan;1.24
+Lenovo;Irbis ;nan;19 199 ?;1;Windows 10 Pro;2;nan;nan;Intel Celeron 3350;1.1;nan;Intel HD Graphics 500;14;60;нет;4;LPDDR4;1;пластик;nan;1.273
+Lenovo;IdeaPad 3;39599;43 999;1;Windows 11 Домашняя;4;nan;nan;Ryzen 5;2.1;nan;AMD Radeon Vega 8;14;60;512;8;DDR4;1;пластик;nan;1.6
+Lenovo;Lenovo ThinkPad ;nan;149 999 ?;1;Windows 11 Pro;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel Iris Xe Graphics;14;60;512;16;DDR4;1;алюминий;nan;1.64
+Xiaomi;Yoga Slim 7 ;nan;90 999 ?;1;Windows 10 Домашняя;4;nan;nan;Intel Core i7-1165G7;2.8;nan;Intel Iris Xe Graphics;14;60;512;8;DDR4;1;алюминий;nan;1.36
+ASUS;Pro RedmiBook;84599;93 999;1;Windows 10 Домашняя;4;nan;nan;Intel Core i7-11390H;3.4;nan;Intel Iris Xe Graphics;14;60;512;16;DDR4;1;алюминий;nan;1.46
+Lenovo;ZenBook 14 ;nan;114 999 ?;1;Windows 11 Домашняя;4;nan;nan;Core i7;2.8;nan;Intel Iris Xe Graphics;14;90;1000;16;LPDDR4x;1;алюминий;nan;1.4
+MSI;Lenovo Yoga ;nan;84 999 ?;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;3.3;nan;AMD Radeon Graphics;14;60;512;16;DDR4;1;алюминий;nan;1.32
+MSI;Modern 14 ;55199;64 999;1;Windows 11 Домашняя;10;nan;nan;Core i7;nan;nan;Intel Iris Xe Graphics;14;60;512;16;DDR4;1;пластик;nan;1.4
+MSI;Modern 14 ;40799;47 999;1;не установлена;10;nan;nan;Intel Core i5-1235U;nan;nan;Intel Iris Xe Graphics;14;60;512;8;DDR4;1;пластик;nan;1.4
+MSI;Modern 14 ;33999;39 999;1;не установлена;6;nan;nan;Intel Core i3-1215U;nan;nan;Intel UHD Graphics;14;60;256;8;DDR4;1;пластик;nan;1.4
+MSI;Prestige 14 ;80999;89 999;1;Windows 11 Домашняя;12;nan;nan;Core i5;1.7;nan;Intel Iris Xe Graphics;14;60;512;16;LPDDR4x;1;алюминий;nan;1.29
+MSI;Prestige 14 ;89099;98 999;1;Windows 11 Домашняя;14;nan;nan;Core i7;nan;nan;Intel Iris Xe Graphics;14;60;512;16;LPDDR4x;1;алюминий;nan;1.29
+AORUS;Prestige 14 ;75599;83 999;1;Windows 11 Домашняя;12;nan;nan;Core i5;nan;nan;Intel Iris Xe Graphics;14;60;512;16;LPDDR4x;1;алюминий;nan;1.29
+AORUS;AORUS 5 ;nan;129 999 ?;2;не установлена;14;nan;nan;Intel Core i7-12700H;3.5;nan;Intel Iris Xe Graphics;15.6;360;512;16;DDR4;1;пластик;nan;2.3
+ASUS;AORUS 5;nan;139 999 ?;2;Windows 11 Домашняя;14;nan;nan;Intel Core i7-12700H;3.5;nan;Intel Iris Xe Graphics;15.6;360;512;16;DDR4;1;пластик;nan;2.3
+ASUS;ExpertBook B1 ;nan;45 999 ?;1;не установлена;2;nan;nan;Intel Core i3-1115G4;3;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.73
+ASUS;ExpertBook B1 ;nan;52 999 ?;1;не установлена;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.73
+ASUS;ExpertBook B1 ;nan;62 999 ?;1;Windows 10 Pro;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.73
+ASUS;Laptop 15 ;nan;32 999 ?;1;Windows 11 Домашняя;2;nan;nan;Pentium;2;nan;Intel UHD Graphics;15.6;60;128;4;DDR4;1;пластик;nan;1.8
+ASUS;Laptop 15 ;29699;32 999;1;не установлена;4;nan;nan;Intel Pentium Silver N6000;1.1;nan;Intel UHD Graphics;15.6;60;128;8;DDR4;1;пластик;nan;1.8
+ASUS;Laptop 15 ;nan;27 999 ?;1;Windows 11 Домашняя;2;nan;nan;Celeron;1.1;nan;Intel UHD Graphics 600;15.6;60;128;4;DDR4;1;пластик;nan;1.8
+ASUS;Laptop 15 ;nan;34 999 ?;1;не установлена;2;nan;nan;Intel Pentium Gold 7505;2;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.8
+ASUS;GAMING;134999;149 999;1;не установлена;8;nan;nan;AMD Ryzen 9 5980HX;3.3;nan;AMD Radeon Graphics;15.6;165;512;16;DDR4;1;пластик;nan;2.5
+ASUS;GAMING;nan;97 999 ?;1;Windows 11 Домашняя;8;nan;nan;Ryzen 7;2.9;nan;AMD Radeon Graphics;15.6;144;512;16;DDR4;1;пластик;nan;2.1
+ASUS;GAMING;nan;84 999 ?;1;Windows 11 Домашняя;6;nan;nan;Core i5;2.7;nan;Intel UHD Graphics;15.6;144;512;16;DDR4;1;пластик;nan;2.3
+ASUS;GAMING;nan;89 999 ?;1;Windows 11 Домашняя;6;nan;nan;Core i5;2.7;nan;Intel UHD Graphics;15.6;144;512;16;DDR4;1;пластик;nan;2.3
+ASUS;VivoBook 15 ;nan;52 999 ?;1;не установлена;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel Iris Xe Graphics;15.6;60;512;8;DDR4;1;пластик;nan;1.8
+ASUS;VivoBook 15 ;nan;47 999 ?;1;Windows 11 Домашняя;2;nan;nan;Core i3;3;nan;Intel UHD Graphics;15.6;60;512;8;DDR4;1;пластик;nan;1.8
+ASUS;VivoBook 15 ;nan;42 999 ?;1;не установлена;2;nan;nan;Intel Core i3-1115G4;3;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.8
+ASUS;VivoBook 15 ;nan;44 999 ?;1;Windows 11 Домашняя;2;nan;nan;Core i3;3;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.8
+ASUS;VivoBook 15 ;nan;44 999 ?;1;не установлена;2;nan;nan;Intel Core i3-1115G4;3;nan;Intel UHD Graphics;15.6;60;512;8;DDR4;1;пластик;nan;1.8
+ASUS;VivoBook 15 ;nan;59 999 ?;1;не установлена;4;nan;nan;Intel Core i5-10300H;2.5;nan;Intel UHD Graphics;15.6;60;512;8;DDR4;1;пластик;nan;2.14
+ASUS;VivoBook 15 ;nan;64 999 ?;1;Windows 10 Домашняя;4;nan;nan;Intel Core i5-10300H;2.5;nan;Intel UHD Graphics;15.6;60;512;8;DDR4;1;пластик;nan;2.14
+ASUS;VivoBook 15 ;nan;64 999 ?;1;Windows 11 Домашняя;4;nan;nan;Core i5;2.4;nan;Intel Iris Xe Graphics;15.6;60;512;8;DDR4;1;пластик;nan;1.8
+ASUS;VivoBook 15 ;nan;74 999 ?;1;Windows 11 Домашняя;4;nan;nan;Core i5;2.4;nan;Intel Iris Xe Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.8
+ASUS;VivoBook 15 ;nan;62 999 ?;1;не установлена;6;nan;nan;AMD Ryzen 5 5600H;3.3;nan;AMD Radeon Graphics;15.6;60;512;16;LPDDR4x;1;алюминий;nan;1.7
+ASUS;VivoBook A5;nan;57 999 ?;1;не установлена;4;nan;nan;Intel Core i5-9300H;2.4;nan;Intel UHD Graphics 630;15.6;60;512;8;DDR4;1;пластик;nan;2.14
+ASUS;VivoBook A5;nan;64 999 ?;1;не установлена;4;nan;nan;Intel Core i5-9300H;2.4;nan;Intel UHD Graphics 630;15.6;60;512;16;DDR4;1;пластик;nan;2.14
+ASUS;VivoBook PRO 15 ;nan;74 999 ?;1;Windows 11 Домашняя;6;nan;nan;Ryzen 5;3.3;nan;AMD Radeon Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.65
+ASUS;VivoBook PRO 15 ;nan;59 999 ?;1;не установлена;6;nan;nan;AMD Ryzen 5 5600H;3.3;nan;AMD Radeon Graphics;15.6;144;512;8;DDR4;1;алюминий;nan;1.8
+ASUS;VivoBook PRO 15 ;nan;74 999 ?;1;Windows 11 Домашняя;4;nan;nan;Core i5;3.1;nan;Intel Iris Xe Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.65
+ASUS;VivoBook PRO 15 ;nan;62 999 ?;1;Windows 11 Домашняя;4;nan;nan;Core i5;3.1;nan;Intel Iris Xe Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.65
+ASUS;VivoBook S15 ;nan;62 999 ?;1;Windows 11 Домашняя;4;nan;nan;Core i5;2.4;nan;Intel Iris Xe Graphics;15.6;60;512;8;DDR4;1;алюминий;nan;1.8
+Acer;VivoBook 15 ;nan;49 999 ?;1;Windows 10 Домашняя;2;nan;nan;Intel Core i3-1115G4;1.7;nan;Intel UHD Graphics;15.6;60;512;8;DDR4;1;пластик;nan;1.8
+Acer;Aspire 3;nan;55 799 ?;1;не установлена;4;nan;nan;AMD Ryzen 5 3500U;2.1;nan;AMD Radeon Vega 8;15.6;60;256;8;DDR4;1;пластик;nan;1.9
+Acer;Aspire 3;29699;32 999;1;Windows 10 Домашняя;4;nan;nan;Intel Celeron N4120;1.1;nan;Intel UHD Graphics;15.6;60;128;4;DDR4;1;пластик;nan;1.94
+Acer;Aspire 3;31499;34 999;1;Windows 10 Домашняя;4;nan;nan;Intel Pentium Silver N5030;1.1;nan;Intel UHD Graphics;15.6;60;128;4;DDR4;1;пластик;nan;1.94
+Acer;Aspire 3;nan;91 299 ?;1;не установлена;4;nan;nan;AMD Ryzen 7 3700U;2.3;nan;AMD Radeon Graphics;15.6;60;512;8;DDR4;1;пластик;nan;1.9
+Acer;Aspire 3;39999;44 999;1;не установлена;2;nan;nan;Intel Core i3-1115G4;3;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.9
+Acer;Aspire 5;nan;49 999 ?;1;не установлена;6;nan;nan;AMD Ryzen 5 5500U;2.1;nan;AMD Radeon Graphics;15.6;60;512;8;DDR4;1;пластик;nan;1.8
+Acer;Aspire 7;62999;66 999;1;не установлена;6;nan;nan;AMD Ryzen 5 5500U;2.1;nan;AMD Radeon Graphics;15.6;60;512;8;DDR4;1;пластик;nan;2.15
+Acer;Aspire 7;64999;68 499;1;не установлена;8;nan;nan;AMD Ryzen 7 5700U;1.8;nan;AMD Radeon Graphics;15.6;60;512;8;DDR4;1;пластик;nan;2.15
+Acer;Aspire 7;81999;87 999;1;не установлена;8;nan;nan;AMD Ryzen 7 5700U;1.8;nan;AMD Radeon Graphics;15.6;60;1000;16;DDR4;1;пластик;nan;2.15
+Acer;Extensa 15;nan;56 999 ?;1;не установлена;4;nan;nan;Intel Core i7-1165G7;2.8;nan;Intel Iris Xe Graphics;15.6;60;512;8;DDR4;1;пластик;nan;1.7
+Aquarius;Nitro 5;nan;116 999 ?;1;не установлена;8;nan;nan;Intel Core i7-11800H;2.3;nan;Intel UHD Graphics;15.6;144;512;16;DDR4;1;пластик;nan;2.3
+Dell;Aquarius ;nan;79 999 ?;1;не установлена;4;nan;nan;Intel Core i5-10210U;1.6;nan;Intel UHD Graphics;15.6;60;512;8;DDR4;1;пластик;nan;1.8
+Digma;G15 ;89999;99 999;1;не установлена;8;nan;nan;AMD Ryzen 7 5800H;3.2;nan;AMD Radeon Graphics;15.6;165;512;16;DDR4;1;пластик;nan;2.57
+Digma;Digma Pro ;nan;49 999 ?;1;Windows 11 Pro;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel Iris Xe Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.82
+Digma;Digma Pro ;nan;36 999 ?;1;Windows 11 Pro;2;nan;nan;Intel Core i3-1115G4;3;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.82
+Infinix;Digma Pro ;nan;36 999 ?;1;Windows 11 Pro;2;nan;nan;Intel Core i3-1115G4;3;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.82
+Infinix;InBook X2 ;52999;57 999;2;Windows 11 Домашняя;4;nan;nan;Intel Core i5-1155G7;2.5;nan;Intel Iris Xe Graphics;15.6;60;512;16;LPDDR4x;1;алюминий;nan;1.6
+Infinix;InBook X2 ;46999;50 999;2;Windows 11 Домашняя;4;nan;nan;Intel Core i5-1155G7;2.5;nan;Intel Iris Xe Graphics;15.6;60;512;8;LPDDR4x;1;алюминий;nan;1.6
+Infinix;InBook X2 ;46999;50 999;2;Windows 11 Домашняя;4;nan;nan;Intel Core i5-1155G7;2.5;nan;Intel Iris Xe Graphics;15.6;60;512;8;LPDDR4x;1;алюминий;nan;1.6
+Infinix;InBook X2 ;nan;64 999 ?;2;Windows 11 Домашняя;4;nan;nan;Intel Core i7-1195G7;2.9;nan;Intel Iris Xe Graphics;15.6;60;512;16;LPDDR4x;1;алюминий;nan;1.6
+Irbis;InBook X2 ;52999;57 999;2;Windows 11 Домашняя;4;nan;nan;Intel Core i5-1155G7;2.5;nan;Intel Iris Xe Graphics;15.6;60;512;16;LPDDR4x;1;алюминий;nan;1.6
+Lenovo;Irbis ;nan;21 999 ?;1;Windows 10 Домашняя;2;nan;nan;Intel Celeron N4020;1.1;nan;Intel UHD Graphics 600;15.6;60;нет;4;LPDDR4;1;пластик;nan;1.7
+Lenovo;IdeaPad 3;nan;78 299 ?;1;не установлена;8;nan;nan;AMD Ryzen 7 5700U;1.8;nan;AMD Radeon Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.65
+Lenovo;IdeaPad 3;nan;57 999 ?;1;не установлена;4;nan;nan;Intel Core i7-1165G7;2.8;nan;Intel Iris Xe Graphics;15.6;60;нет;8;DDR4;1;пластик;nan;1.7
+Lenovo;IdeaPad 3;nan;56 299 ?;1;не установлена;2;nan;nan;Intel Core i3-1115G4;3;nan;Intel UHD Graphics;15.6;60;256;4;DDR4;1;пластик;nan;2.2
+Lenovo;IdeaPad 3;nan;59 999 ?;1;не установлена;8;nan;nan;AMD Ryzen 7 5700U;1.8;nan;AMD Radeon Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.7
+Lenovo;Legion 5 ;nan;87 999 ?;2;не установлена;6;nan;nan;Intel Core i7-10750H;2.6;nan;Intel UHD Graphics;15.6;165;512;16;DDR4;1;пластик;nan;2.3
+Lenovo;Legion 5 ;nan;88 999 ?;2;Windows 11 Домашняя;6;nan;nan;Core i5;2.5;nan;Intel UHD Graphics;15.6;165;512;16;DDR4;1;пластик;nan;2.3
+Lenovo;ThinkBook 15;nan;115 999 ?;1;Windows 11 Pro;4;nan;nan;Intel Core i7-1165G7;2.8;nan;Intel Iris Xe Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.7
+Lenovo;ThinkBook 15;nan;49 999 ?;1;не установлена;4;nan;nan;AMD Ryzen 3 5300U;2.6;nan;AMD Radeon Graphics;15.6;60;512;8;DDR4;1;пластик;nan;1.7
+MSI;Lenovo V15 ;nan;70 999 ?;1;не установлена;4;nan;nan;Intel Core i5-1135G7;2.4;nan;Intel Iris Xe Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.7
+MSI;Katana GF66 ;96299;106 999;1;Windows 11 Домашняя;10;nan;nan;Core i7;nan;nan;Intel UHD Graphics;15.6;nan;512;16;DDR4;1;пластик;nan;2.25
+MSI;Katana GF66 ;77399;85 999;1;не установлена;8;nan;nan;Intel Core i5-12450H;nan;nan;Intel UHD Graphics;15.6;nan;512;16;DDR4;1;пластик;nan;2.25
+MSI;Modern 15 ;53499;62 999;1;не установлена;10;nan;nan;Intel Core i7-1255U;nan;nan;Intel Iris Xe Graphics;15.6;60;512;16;DDR4;1;пластик;nan;1.7
+MSI;Pulse GL66 ;111599;123 999;1;Windows 11 Домашняя;14;nan;nan;Intel Core i7-12700H;2.3;nan;Intel UHD Graphics;15.6;nan;512;16;DDR4;1;пластик;nan;2.25
+MSI;Pulse GL66 ;118299;131 499;1;Windows 11 Домашняя;12;nan;nan;Core i7;1.7;nan;Intel UHD Graphics;15.6;144;512;16;DDR4;1;пластик;nan;2.25
+Xiaomi;Pulse GL66 ;135999;159 999;1;Windows 11 Домашняя;14;nan;nan;Core i7;3.5;nan;Intel UHD Graphics;15.6;240;1000;16;DDR5;1;алюминий;nan;2.38
+Xiaomi;Pro RedmiBook;102599;113 999;1;Windows 10 Домашняя;8;nan;nan;Intel Core i5-12450H;3.3;nan;Intel Iris Xe Graphics;15.6;90;512;16;LPDDR5;1;алюминий/пластик;nan;1.79
+Xiaomi;RedmiBook 15;nan;39 999 ?;1;Windows 11 Домашняя;2;nan;nan;Intel Core i3-1115G4;3;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.8
+MSI;RedmiBook 15;nan;49 999 ?;1;Windows 11 Домашняя;4;nan;nan;Intel Core i5-11320H;2.5;nan;Intel Iris Xe Graphics;15.6;60;512;8;DDR4;1;пластик;nan;1.8
+ASUS;Modern 15 ;35699;41 999;1;не установлена;6;nan;nan;Intel Core i3-1215U;nan;nan;Intel UHD Graphics;15.6;60;256;8;DDR4;1;пластик;nan;1.7
+Lenovo;VivoBook S16;nan;82 999 ?;1;не установлена;8;nan;nan;AMD Ryzen 7 5800H;3.2;nan;AMD Radeon Graphics;16;120;512;16;LPDDR4x;1;алюминий;nan;1.9
+Lenovo;Legion 5 ;nan;149 999 ?;2;не установлена;8;nan;nan;AMD Ryzen 7 5800H;3.2;nan;AMD Radeon Graphics;16;165;1000;16;DDR4;1;алюминий;nan;2.45
+AORUS;Legion 5 ;nan;136 999 ?;1;не установлена;8;nan;nan;Intel Core i7-11800H;2.3;nan;Intel UHD Graphics;16;165;512;16;DDR4;1;алюминий;nan;2.3
+ASUS;AORUS 17;nan;154 999 ?;2;не установлена;14;nan;nan;Intel Core i7-12700H;2.3;nan;Intel Iris Xe Graphics;17.3;360;512;32;DDR5;1;карбон;nan;2.7
+ASUS;GAMING;nan;104 999 ?;1;Windows 11 Домашняя;8;nan;nan;Ryzen 7;2.9;nan;AMD Radeon Graphics;17.3;144;512;16;DDR4;1;пластик;nan;2.4
+ASUS;GAMING;nan;134 999 ?;1;Windows 11 Домашняя;8;nan;nan;Ryzen 7;3.2;nan;AMD Radeon Graphics;17.3;144;1000;16;DDR4;1;пластик;nan;2.6
+ASUS;GAMING;nan;94 999 ?;1;Windows 10 Домашняя;6;nan;nan;Intel Core i5-11400H;2.7;nan;Intel UHD Graphics;17.3;144;512;8;DDR4;1;пластик;nan;2.6
+ASUS;VivoBook 17 ;nan;44 999 ?;1;не установлена;2;nan;nan;AMD Ryzen 3 3250U;2.6;nan;AMD Radeon Graphics;17.3;60;256;8;DDR4;1;пластик;nan;2.3
+ASUS;VivoBook 17 ;nan;49 999 ?;1;Windows 11 Домашняя;2;nan;nan;Core i3;3;nan;Intel UHD Graphics;17.3;60;256;8;DDR4;1;пластик;nan;2.3
+ASUS;VivoBook 17 ;nan;44 999 ?;1;Windows 11 Домашняя;2;nan;nan;Core i3;1.2;nan;Intel UHD Graphics;17.3;60;256;8;DDR4;1;пластик;nan;2.3
+MSI;VivoBook D7;nan;47 999 ?;1;Windows 10 Домашняя;2;nan;nan;AMD Ryzen 3 3250U;2.6;nan;AMD Radeon Graphics;17.3;60;256;8;DDR4;1;пластик;nan;2.3
+MSI;Creator Z17 ;nan;236 999 ?;1;Windows 11 Pro;14;nan;nan;Intel Core i7-12700H;nan;nan;Intel UHD Graphics;17.3;165;1000;32;DDR5;1;алюминий;nan;2.49
+MSI;GE77 ;115599;128 499;1;не установлена;14;nan;nan;Intel Core i7-12700H;nan;nan;Intel Iris Xe Graphics;17.3;144;512;16;DDR4;1;пластик;nan;2.66
+MSI;Katana GF76 ;89999;99 999;1;не установлена;10;nan;nan;Intel Core i7-12650H;nan;nan;Intel UHD Graphics;17.3;144;512;16;DDR4;1;пластик;nan;2.6
+MSI;Katana GF76 ;134999;149 999;1;Windows 11 Домашняя;14;nan;nan;Core i7;nan;nan;Intel UHD Graphics;17.3;144;1000;16;DDR5;1;пластик;nan;2.6
+MSI;Stealth 17M ;125099;138 999;1;Windows 11 Домашняя;12;nan;nan;Core i5;nan;nan;Intel Iris Xe Graphics;17.3;144;512;16;DDR4;1;пластик;nan;2.2

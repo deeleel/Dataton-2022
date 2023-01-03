@@ -20,8 +20,6 @@ class BaseFunctions:
             timeout = 5
         return WebDriverWait(self.driver, timeout=timeout)
     
-    def scroll_down(self):
-        self.driver.execute_script("window.scrollBy(0, 500)", "")
 
     def find(self, locator, timeout=None):
         return self.wait(timeout).until(EC.presence_of_element_located(locator))
@@ -46,19 +44,9 @@ class BaseFunctions:
         self.driver.execute_script('arguments[0].scrollIntoView(true);', element)
 
 
-    def is_visible(self, locator):
-        return EC.visibility_of(locator)
-
-
     def write_to_file(self, data, file_name):
         with open('datas/' + file_name, 'a', encoding='utf-8') as file:
             writer = csv.DictWriter(file, fieldnames = config.headers)
             # writer.writeheader()
             writer.writerow(data)
 
-    def found(self, locator):
-        try:
-            self.find(locator=locator)
-        except TimeoutException:
-            return False
-        return self.find(locator=locator)
